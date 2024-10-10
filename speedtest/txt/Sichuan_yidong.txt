@@ -1,0 +1,44 @@
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="本地高清",NEWTV中国功夫
+http:///rtp/239.11.0.151:5140
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="本地高清",NEWTV家庭剧场
+http:///rtp/239.11.0.131:5140
+#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="本地高清",NEWTV精品纪录
+http:///rtp/239.11.0.132:5140
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="本地高清",NEWTV精品体育
+http:///rtp/239.11.0.134:5140
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="本地高清",NEWTV军事评论
+http:///rtp/239.11.0.136:5140
+#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="本地高清",NEWTV古装剧场
+http:///rtp/239.11.0.141:5140
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://www.yangfeiyue.cn/tv/NEWTV-动作电影.png" group-title="本地高清",NEWTV动作电影
+http:///rtp/239.11.0.142:5140
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="本地高清",NEWTV惊悚悬疑
+http:///rtp/239.11.0.144:5140
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://www.yangfeiyue.cn/tv/NEWTV爱情喜剧.png" " group-title="本地高清",NEWTV爱情喜剧
+http:///rtp/239.11.0.149:5140
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="本地高清",NEWTV精品大剧
+http:///rtp/239.11.0.150:5140
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="本地高清",NEWTV金牌综艺
+http:///rtp/239.11.0.152:5140
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="本地高清",NEWTV中国功夫
+http:///rtp/239.11.0.151:5140
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="本地高清",NEWTV家庭剧场
+http:///rtp/239.11.0.131:5140
+#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="本地高清",NEWTV精品纪录
+http:///rtp/239.11.0.132:5140
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="本地高清",NEWTV精品体育
+http:///rtp/239.11.0.134:5140
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="本地高清",NEWTV军事评论
+http:///rtp/239.11.0.136:5140
+#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="本地高清",NEWTV古装剧场
+http:///rtp/239.11.0.141:5140
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://www.yangfeiyue.cn/tv/NEWTV-动作电影.png" group-title="本地高清",NEWTV动作电影
+http:///rtp/239.11.0.142:5140
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="本地高清",NEWTV惊悚悬疑
+http:///rtp/239.11.0.144:5140
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://www.yangfeiyue.cn/tv/NEWTV爱情喜剧.png" " group-title="本地高清",NEWTV爱情喜剧
+http:///rtp/239.11.0.149:5140
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="本地高清",NEWTV精品大剧
+http:///rtp/239.11.0.150:5140
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="本地高清",NEWTV金牌综艺
+http:///rtp/239.11.0.152:5140
