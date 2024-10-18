@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="卫视高清",湖南经视
+http://ipipip/rtp/239.76.245.116:1234
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="卫视高清",湖南都市
+http://ipipip/rtp/239.76.245.117:1234
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="卫视高清",湖南电视剧
+http://ipipip/rtp/239.76.245.118:1234
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="卫视高清",湖南电影
+http://ipipip/rtp/239.76.245.119:1234
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="卫视高清",湖南娱乐
+http://ipipip/rtp/239.76.245.121:1234
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视高清",湖南国际
+http://ipipip/rtp/239.76.245.124:1234
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="卫视高清",湖南爱晚
+http://ipipip/rtp/239.76.245.123:1234
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视高清",金鹰卡通
+http://ipipip/rtp/239.76.245.120:1234
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="卫视高清",湖南教育
+http://ipipip/rtp/239.76.245.233:1234
+
+

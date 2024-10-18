@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI3" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI3.png" group-title="卫视高清",HUBEI3
+http://ipipip/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI7" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI7.png" group-title="卫视高清",HUBEI7
+http://ipipip/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI8" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI8.png" group-title="卫视高清",HUBEI8
+http://ipipip/rtp/239.69.1.41:9886
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI2" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI2.png" group-title="卫视高清",HUBEI2
+http://ipipip/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI5" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI5.png" group-title="卫视高清",HUBEI5
+http://ipipip/rtp/239.69.1.205:10872
+#EXTINF:-1 tvg-id="1" tvg-name="HUBEI4" tvg-logo="https://www.yangfeiyue.cn/tv/HUBEI4.png" group-title="卫视高清",HUBEI4
+http://ipipip/rtp/239.69.1.206:10878
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV1" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV1.png" group-title="卫视高清",HBWHTV1
+http://ipipip/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV2" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV2.png" group-title="卫视高清",HBWHTV2
+http://ipipip/rtp/239.69.1.146:10512
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV3" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV3.png" group-title="卫视高清",HBWHTV3
+http://ipipip/rtp/239.69.1.251:11148
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV5" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV5.png" group-title="卫视高清",HBWHTV5
+http://ipipip/rtp/239.69.1.147:10518
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV6" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV6.png" group-title="卫视高清",HBWHTV6
+http://ipipip/rtp/239.69.1.36:9856
+#EXTINF:-1 tvg-id="1" tvg-name="HBWHTV7" tvg-logo="https://www.yangfeiyue.cn/tv/HBWHTV7.png" group-title="卫视高清",HBWHTV7
+http://ipipip/rtp/239.69.1.60:9994
