@@ -1,0 +1,45 @@
+港澳台,#genre#
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://www.yangfeiyue.cn/tv/天映频道.png" group-title="港澳台",天映频道
+http://test.zapi.us.kg/?id=celestial
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.yangfeiyue.cn/tv/天映经典.png" group-title="港澳台",天映经典
+http://test.zapi.us.kg/?id=cccm
+#EXTINF:-1 tvg-id="now爆谷星影台" tvg-name="now爆谷星影台" tvg-logo="https://www.yangfeiyue.cn/tv/now爆谷星影台.png" group-title="港澳台",now爆谷星影台
+http://test.zapi.us.kg/?id=now-baogu-superstars
+#EXTINF:-1 tvg-id="now爆谷台" tvg-name="now爆谷台" tvg-logo="https://www.yangfeiyue.cn/tv/now爆谷台.png" group-title="港澳台",now爆谷台
+http://test.zapi.us.kg/?id=baogu-movies
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.yangfeiyue.cn/tv/HBO.png" group-title="港澳台",HBO
+http://test.zapi.us.kg/?id=hbo-hd
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://www.yangfeiyue.cn/tv/HBOHits.png" group-title="港澳台",HBOHits
+http://test.zapi.us.kg/?id=now-hbo-hits
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBOFamily" tvg-logo="https://www.yangfeiyue.cn/tv/HBOFamily.png" group-title="港澳台",HBOFamily
+http://test.zapi.us.kg/?id=hbo-family
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBOSignature" tvg-logo="https://www.yangfeiyue.cn/tv/HBOSignature.png" group-title="港澳台",HBOSignature
+http://test.zapi.us.kg/?id=now-hbo-signature
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://www.yangfeiyue.cn/tv/东森电影台.png" group-title="港澳台",东森电影台
+http://test.zapi.us.kg/?id=ebc-movie
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.yangfeiyue.cn/tv/东森洋片台.png" group-title="港澳台",东森洋片台
+http://test.zapi.us.kg/?id=ebc-emovie
+#EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://www.yangfeiyue.cn/tv/好莱坞电影台.png" group-title="港澳台",好莱坞电影台
+http://test.zapi.us.kg/?id=hollywood-movie
+#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://www.yangfeiyue.cn/tv/LSTIME电影台.png" group-title="港澳台",LSTIME电影台
+http://test.zapi.us.kg/?id=lstime
+#EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="https://www.yangfeiyue.cn/tv/Boo.png" group-title="港澳台",Boo
+http://test.zapi.us.kg/?id=boo
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://www.yangfeiyue.cn/tv/Thrill.png" group-title="港澳台",Thrill
+http://test.zapi.us.kg/?id=thrill
+#EXTINF:-1 tvg-id=""ROCK Action" tvg-name="ROCK Action" tvg-logo="https://www.yangfeiyue.cn/tv/ROCK Action.png" group-title="港澳台",ROCK Action
+http://test.zapi.us.kg/?id=rock-action
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://www.yangfeiyue.cn/tv/ROCK Entertainment.png" group-title="港澳台",ROCK Entertainment
+http://test.zapi.us.kg/?id=rock-entertaiment
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.yangfeiyue.cn/tv/tvN.png" group-title="港澳台",tvN
+http://test.zapi.us.kg/?id=tvn
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://www.yangfeiyue.cn/tv/CINEMAX.png" group-title="港澳台",CINEMAX
+http://test.zapi.us.kg/?id=cinemax
+#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.yangfeiyue.cn/tv/tvN Movies.png" group-title="港澳台",tvN Movies
+http://test.zapi.us.kg/?id=tvn-movies
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITSMovies" tvg-logo="https://www.yangfeiyue.cn/tv/HITSMovies.png" group-title="港澳台",HITSMovies
+http://test.zapi.us.kg/?id=hitsmovies
+#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://www.yangfeiyue.cn/tv/MovieMovie.png" group-title="港澳台",MovieMovie
+http://test.zapi.us.kg/?id=moviemovie
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.yangfeiyue.cn/tv/AMC.png" group-title="港澳台",AMC
+http://test.zapi.us.kg/?id=amc-movie
