@@ -1,0 +1,43 @@
+name: Update
+
+on:
+  schedule:
+    - cron: 01 */2 * * *
+  push:
+   branches:
+    - main
+  workflow_dispatch:  # 添加手动触发事件
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+    - name: Update
+      run: |
+        # 卫视源m3u
+        rm -f ipv6.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O ipv6.m3u
+        sed -i 's/其他频道/地方频道/' ipv6.m3u
+        sed -i '/^\s*$/d' ipv6.m3u
+
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+         echo "已于 $DATE 自动更新频道。免责声明: 所有播放源均收集于互联网，仅供测试研究学习，不得商用，否则后果自负，均与本人无关。如有侵权，请联系删除。" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "$DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
