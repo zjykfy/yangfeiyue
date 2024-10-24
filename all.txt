@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
-2024-10-24,https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
+2024-10-25,https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
 天津联通,#genre#
 CCTV1,http://111.167.222.253:8686/rtp/225.1.1.120:5002
 CCTV1,http://111.166.52.60:4022/rtp/225.1.1.120:5002

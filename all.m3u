@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml","http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live.yangfeiyue.cn/p/端午节.png" group-title="公告",更新日期
 https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
-#EXTINF:-1 tvg-id="1" tvg-name="2024-10-24" tvg-logo="https://live.yangfeiyue.cn/p/端午节1.png" group-title="公告",2024-10-24
+#EXTINF:-1 tvg-id="1" tvg-name="2024-10-25" tvg-logo="https://live.yangfeiyue.cn/p/端午节1.png" group-title="公告",2024-10-25
 https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.yangfeiyue.cn/tv/CCTV1.png" group-title="天津联通",CCTV1
 http://111.167.222.253:8686/rtp/225.1.1.120:5002
