@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
+http://ipipip/udp/224.1.100.121:11111
+#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
+http://ipipip/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://www.yangfeiyue.cn/tv/广州竞赛.png" group-title="卫视高清",广州竞赛
+http://ipipip/udp/224.1.100.105:11111
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
+http://ipipip/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
+http://ipipip/udp/224.1.100.129:11111
+#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
+http://ipipip/udp/224.1.100.136:11111

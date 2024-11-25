@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
+http://36.46.98.162:8010/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
+http://36.46.98.162:8010/rtp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
+http://36.46.98.162:8010/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
+http://36.46.98.162:8010/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
+http://36.46.98.162:8010/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
+http://36.46.98.162:8010/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
+http://36.46.98.162:8010/rtp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
+http://36.46.98.162:8010/rtp/239.111.205.99:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
+http://36.46.67.241:4022/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
+http://36.46.67.241:4022/rtp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
+http://36.46.67.241:4022/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
+http://36.46.67.241:4022/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
+http://36.46.67.241:4022/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
+http://36.46.67.241:4022/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
+http://36.46.67.241:4022/rtp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
+http://36.46.67.241:4022/rtp/239.111.205.99:5140

@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCMovies.png" group-title="卫视高清",东森电影
+http://ipipip/tsfile/live/1075_1.m3u8
+#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://live.fanmingming.com/tv/LSTIME.png" group-title="卫视高清",LSTIME电影台
+http://ipipip/tsfile/live/1077_1.m3u8

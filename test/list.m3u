@@ -1,0 +1,971 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml","https://epg.v1.mk/fy.xml","https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://www.yangfeiyue.cn/tv/武术台.png" group-title="公告",更新日期
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="2024-08-14" tvg-logo="https://www.yangfeiyue.cn/tv/武术台.png" group-title="公告",2024-08-14
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV1.png" group-title="天津联通",CCTV1
+http://180.213.171.141:8000/rtp/225.1.1.120:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV1.png" group-title="天津联通",CCTV1
+http://111.165.247.222:8000/rtp/225.1.1.120:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV2.png" group-title="天津联通",CCTV2
+http://180.213.171.141:8000/rtp/225.1.1.133:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV2.png" group-title="天津联通",CCTV2
+http://111.165.247.222:8000/rtp/225.1.1.133:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV3.png" group-title="天津联通",CCTV3
+http://180.213.171.141:8000/rtp/225.1.1.158:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV3.png" group-title="天津联通",CCTV3
+http://111.165.247.222:8000/rtp/225.1.1.158:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV4.png" group-title="天津联通",CCTV4
+http://180.213.171.141:8000/rtp/225.1.1.150:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV4.png" group-title="天津联通",CCTV4
+http://111.165.247.222:8000/rtp/225.1.1.150:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV5.png" group-title="天津联通",CCTV5
+http://180.213.171.141:8000/rtp/225.1.1.160:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV5" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV5.png" group-title="天津联通",CCTV5
+http://111.165.247.222:8000/rtp/225.1.1.160:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV5+.png" group-title="天津联通",CCTV5+
+http://180.213.171.141:8000/rtp/225.1.1.121:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV5+.png" group-title="天津联通",CCTV5+
+http://111.165.247.222:8000/rtp/225.1.1.121:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV6.png" group-title="天津联通",CCTV6
+http://180.213.171.141:8000/rtp/225.1.1.195:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV6.png" group-title="天津联通",CCTV6
+http://111.165.247.222:8000/rtp/225.1.1.195:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV7.png" group-title="天津联通",CCTV7
+http://180.213.171.141:8000/rtp/225.1.1.138:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV7" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV7.png" group-title="天津联通",CCTV7
+http://111.165.247.222:8000/rtp/225.1.1.138:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV8.png" group-title="天津联通",CCTV8
+http://180.213.171.141:8000/rtp/225.1.1.196:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV8" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV8.png" group-title="天津联通",CCTV8
+http://111.165.247.222:8000/rtp/225.1.1.196:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV9.png" group-title="天津联通",CCTV9
+http://180.213.171.141:8000/rtp/225.1.1.119:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV9.png" group-title="天津联通",CCTV9
+http://111.165.247.222:8000/rtp/225.1.1.119:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV10.png" group-title="天津联通",CCTV10
+http://180.213.171.141:8000/rtp/225.1.1.140:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV10" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV10.png" group-title="天津联通",CCTV10
+http://111.165.247.222:8000/rtp/225.1.1.140:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV11.png" group-title="天津联通",CCTV11
+http://180.213.171.141:8000/rtp/225.1.2.192:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV11" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV11.png" group-title="天津联通",CCTV11
+http://111.165.247.222:8000/rtp/225.1.2.192:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV12.png" group-title="天津联通",CCTV12
+http://180.213.171.141:8000/rtp/225.1.1.142:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV12.png" group-title="天津联通",CCTV12
+http://111.165.247.222:8000/rtp/225.1.1.142:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV13.png" group-title="天津联通",CCTV13
+http://180.213.171.141:8000/rtp/225.1.2.193:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV13" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV13.png" group-title="天津联通",CCTV13
+http://111.165.247.222:8000/rtp/225.1.2.193:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV14.png" group-title="天津联通",CCTV14
+http://180.213.171.141:8000/rtp/225.1.1.144:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV14" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV14.png" group-title="天津联通",CCTV14
+http://111.165.247.222:8000/rtp/225.1.1.144:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV15.png" group-title="天津联通",CCTV15
+http://180.213.171.141:8000/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV15" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV15.png" group-title="天津联通",CCTV15
+http://111.165.247.222:8000/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV16.png" group-title="天津联通",CCTV16
+http://180.213.171.141:8000/rtp/225.1.2.237:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV16" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV16.png" group-title="天津联通",CCTV16
+http://111.165.247.222:8000/rtp/225.1.2.237:5002
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV16" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV16.png" group-title="天津联通",CCTV16
+http://122.233.158.114:4022/rtp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV16" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV16.png" group-title="天津联通",CCTV16
+http://115.239.88.251:8888/rtp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV17.png" group-title="天津联通",CCTV17
+http://180.213.171.141:8000/rtp/225.1.2.52:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV17" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV17.png" group-title="天津联通",CCTV17
+http://111.165.247.222:8000/rtp/225.1.2.52:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV4K.png" group-title="天津联通",CCTV4K
+http://125.69.146.151:8888/rtp/239.93.42.42:5140
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV4K" tvg-logo="https://www.yangfeiyue.cn/tv/CCTV4K.png" group-title="天津联通",CCTV4K
+http://182.138.200.20:9080/rtp/239.93.42.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="兵器科技" tvg-logo="https://www.yangfeiyue.cn/tv/兵器科技.png" group-title="天津联通",兵器科技
+http://180.213.171.141:8000/rtp/225.1.2.166:5002
+#EXTINF:-1 tvg-id="2" tvg-name="兵器科技" tvg-logo="https://www.yangfeiyue.cn/tv/兵器科技.png" group-title="天津联通",兵器科技
+http://111.165.247.222:8000/rtp/225.1.2.166:5002
+#EXTINF:-1 tvg-id="1" tvg-name="第一剧场" tvg-logo="https://www.yangfeiyue.cn/tv/第一剧场.png" group-title="天津联通",第一剧场
+http://180.213.171.141:8000/rtp/225.1.2.175:5002
+#EXTINF:-1 tvg-id="2" tvg-name="第一剧场" tvg-logo="https://www.yangfeiyue.cn/tv/第一剧场.png" group-title="天津联通",第一剧场
+http://111.165.247.222:8000/rtp/225.1.2.175:5002
+#EXTINF:-1 tvg-id="1" tvg-name="电视指南" tvg-logo="https://www.yangfeiyue.cn/tv/电视指南.png" group-title="天津联通",电视指南
+http://180.213.171.141:8000/rtp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="2" tvg-name="电视指南" tvg-logo="https://www.yangfeiyue.cn/tv/电视指南.png" group-title="天津联通",电视指南
+http://111.165.247.222:8000/rtp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="1" tvg-name="风云剧场" tvg-logo="https://www.yangfeiyue.cn/tv/风云剧场.png" group-title="天津联通",风云剧场
+http://180.213.171.141:8000/rtp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="2" tvg-name="风云剧场" tvg-logo="https://www.yangfeiyue.cn/tv/风云剧场.png" group-title="天津联通",风云剧场
+http://111.165.247.222:8000/rtp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="1" tvg-name="风云音乐" tvg-logo="https://www.yangfeiyue.cn/tv/风云音乐.png" group-title="天津联通",风云音乐
+http://180.213.171.141:8000/rtp/225.1.2.176:5002
+#EXTINF:-1 tvg-id="2" tvg-name="风云音乐" tvg-logo="https://www.yangfeiyue.cn/tv/风云音乐.png" group-title="天津联通",风云音乐
+http://111.165.247.222:8000/rtp/225.1.2.176:5002
+#EXTINF:-1 tvg-id="1" tvg-name="风云足球" tvg-logo="https://www.yangfeiyue.cn/tv/风云足球.png" group-title="天津联通",风云足球
+http://180.213.171.141:8000/rtp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="2" tvg-name="风云足球" tvg-logo="https://www.yangfeiyue.cn/tv/风云足球.png" group-title="天津联通",风云足球
+http://111.165.247.222:8000/rtp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="1" tvg-name="高尔夫网球" tvg-logo="https://www.yangfeiyue.cn/tv/高尔夫网球.png" group-title="天津联通",高尔夫网球
+http://180.213.171.141:8000/rtp/225.1.2.169:5002
+#EXTINF:-1 tvg-id="2" tvg-name="高尔夫网球" tvg-logo="https://www.yangfeiyue.cn/tv/高尔夫网球.png" group-title="天津联通",高尔夫网球
+http://111.165.247.222:8000/rtp/225.1.2.169:5002
+#EXTINF:-1 tvg-id="3" tvg-name="高尔夫网球" tvg-logo="https://www.yangfeiyue.cn/tv/高尔夫网球.png" group-title="天津联通",高尔夫网球
+http://125.69.146.151:8888/rtp/239.93.1.54:5140
+#EXTINF:-1 tvg-id="4" tvg-name="高尔夫网球" tvg-logo="https://www.yangfeiyue.cn/tv/高尔夫网球.png" group-title="天津联通",高尔夫网球
+http://182.138.200.20:9080/rtp/239.93.1.54:5140
+#EXTINF:-1 tvg-id="1" tvg-name="怀旧剧场" tvg-logo="https://www.yangfeiyue.cn/tv/怀旧剧场.png" group-title="天津联通",怀旧剧场
+http://180.213.171.141:8000/rtp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="2" tvg-name="怀旧剧场" tvg-logo="https://www.yangfeiyue.cn/tv/怀旧剧场.png" group-title="天津联通",怀旧剧场
+http://111.165.247.222:8000/rtp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="1" tvg-name="女性时尚" tvg-logo="https://www.yangfeiyue.cn/tv/女性时尚.png" group-title="天津联通",女性时尚
+http://180.213.171.141:8000/rtp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="2" tvg-name="女性时尚" tvg-logo="https://www.yangfeiyue.cn/tv/女性时尚.png" group-title="天津联通",女性时尚
+http://111.165.247.222:8000/rtp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="1" tvg-name="世界地理" tvg-logo="https://www.yangfeiyue.cn/tv/世界地理.png" group-title="天津联通",世界地理
+http://180.213.171.141:8000/rtp/225.1.2.171:5002
+#EXTINF:-1 tvg-id="2" tvg-name="世界地理" tvg-logo="https://www.yangfeiyue.cn/tv/世界地理.png" group-title="天津联通",世界地理
+http://111.165.247.222:8000/rtp/225.1.2.171:5002
+#EXTINF:-1 tvg-id="1" tvg-name="文化精品" tvg-logo="https://www.yangfeiyue.cn/tv/文化精品.png" group-title="天津联通",文化精品
+http://180.213.171.141:8000/rtp/225.1.2.177:5002
+#EXTINF:-1 tvg-id="2" tvg-name="文化精品" tvg-logo="https://www.yangfeiyue.cn/tv/文化精品.png" group-title="天津联通",文化精品
+http://111.165.247.222:8000/rtp/225.1.2.177:5002
+#EXTINF:-1 tvg-id="1" tvg-name="央视台球" tvg-logo="https://www.yangfeiyue.cn/tv/央视台球.png" group-title="天津联通",央视台球
+http://180.213.171.141:8000/rtp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="2" tvg-name="央视台球" tvg-logo="https://www.yangfeiyue.cn/tv/央视台球.png" group-title="天津联通",央视台球
+http://111.165.247.222:8000/rtp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="1" tvg-name="河南梨园" tvg-logo="https://www.yangfeiyue.cn/tv/河南梨园.png" group-title="天津联通",河南梨园
+http://180.213.171.141:8000/rtp/225.1.2.104:5002
+#EXTINF:-1 tvg-id="2" tvg-name="河南梨园" tvg-logo="https://www.yangfeiyue.cn/tv/河南梨园.png" group-title="天津联通",河南梨园
+http://111.165.247.222:8000/rtp/225.1.2.104:5002
+#EXTINF:-1 tvg-id="1" tvg-name="魅力足球" tvg-logo="https://www.yangfeiyue.cn/tv/魅力足球.png" group-title="天津联通",魅力足球
+http://180.213.171.141:8000/rtp/225.1.1.137:5002
+#EXTINF:-1 tvg-id="2" tvg-name="魅力足球" tvg-logo="https://www.yangfeiyue.cn/tv/魅力足球.png" group-title="天津联通",魅力足球
+http://111.165.247.222:8000/rtp/225.1.1.137:5002
+#EXTINF:-1 tvg-id="1" tvg-name="武术世界" tvg-logo="https://www.yangfeiyue.cn/tv/武术世界.png" group-title="天津联通",武术世界
+http://180.213.171.141:8000/rtp/225.1.2.129:5002
+#EXTINF:-1 tvg-id="2" tvg-name="武术世界" tvg-logo="https://www.yangfeiyue.cn/tv/武术世界.png" group-title="天津联通",武术世界
+http://111.165.247.222:8000/rtp/225.1.2.129:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://www.yangfeiyue.cn/tv/CHC家庭影院.png" group-title="天津联通",CHC家庭影院
+http://180.213.171.141:8000/rtp/225.1.1.213:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://www.yangfeiyue.cn/tv/CHC家庭影院.png" group-title="天津联通",CHC家庭影院
+http://111.165.247.222:8000/rtp/225.1.1.213:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CHC影迷电影" tvg-logo="https://www.yangfeiyue.cn/tv/CHC影迷电影.png" group-title="天津联通",CHC影迷电影
+http://180.213.171.141:8000/rtp/225.1.1.214:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CHC影迷电影" tvg-logo="https://www.yangfeiyue.cn/tv/CHC影迷电影.png" group-title="天津联通",CHC影迷电影
+http://111.165.247.222:8000/rtp/225.1.1.214:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://www.yangfeiyue.cn/tv/CHC动作电影.png" group-title="天津联通",CHC动作电影
+http://180.213.171.141:8000/rtp/225.1.1.215:5002
+#EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://www.yangfeiyue.cn/tv/CHC动作电影.png" group-title="天津联通",CHC动作电影
+http://111.165.247.222:8000/rtp/225.1.1.215:5002
+#EXTINF:-1 tvg-id="1" tvg-name="天津影视" tvg-logo="https://www.yangfeiyue.cn/tv/天津影视.png" group-title="天津联通",天津影视
+http://180.213.171.141:8000/rtp/225.1.1.149:5002
+#EXTINF:-1 tvg-id="2" tvg-name="天津影视" tvg-logo="https://www.yangfeiyue.cn/tv/天津影视.png" group-title="天津联通",天津影视
+http://111.165.247.222:8000/rtp/225.1.1.149:5002
+#EXTINF:-1 tvg-id="1" tvg-name="天津文艺" tvg-logo="https://www.yangfeiyue.cn/tv/天津文艺.png" group-title="天津联通",天津文艺
+http://180.213.171.141:8000/rtp/225.1.1.131:5002
+#EXTINF:-1 tvg-id="2" tvg-name="天津文艺" tvg-logo="https://www.yangfeiyue.cn/tv/天津文艺.png" group-title="天津联通",天津文艺
+http://111.165.247.222:8000/rtp/225.1.1.131:5002
+#EXTINF:-1 tvg-id="1" tvg-name="天津都市" tvg-logo="https://www.yangfeiyue.cn/tv/天津都市.png" group-title="天津联通",天津都市
+http://180.213.171.141:8000/rtp/225.1.1.128:5002
+#EXTINF:-1 tvg-id="2" tvg-name="天津都市" tvg-logo="https://www.yangfeiyue.cn/tv/天津都市.png" group-title="天津联通",天津都市
+http://111.165.247.222:8000/rtp/225.1.1.128:5002
+#EXTINF:-1 tvg-id="1" tvg-name="天津教育" tvg-logo="https://www.yangfeiyue.cn/tv/天津教育.png" group-title="天津联通",天津教育
+http://180.213.171.141:8000/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-id="2" tvg-name="天津教育" tvg-logo="https://www.yangfeiyue.cn/tv/天津教育.png" group-title="天津联通",天津教育
+http://111.165.247.222:8000/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://www.yangfeiyue.cn/tv/浙江卫视.png" group-title="浙江电信",浙江卫视
+http://122.233.158.114:4022/rtp/233.50.201.100:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://www.yangfeiyue.cn/tv/浙江卫视.png" group-title="浙江电信",浙江卫视
+http://115.239.88.251:8888/rtp/233.50.201.100:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/浙江经济生活.png" group-title="浙江电信",浙江经济生活
+http://122.233.158.114:4022/rtp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/浙江经济生活.png" group-title="浙江电信",浙江经济生活
+http://115.239.88.251:8888/rtp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江教科影视" tvg-logo="https://www.yangfeiyue.cn/tv/浙江教科影视.png" group-title="浙江电信",浙江教科影视
+http://122.233.158.114:4022/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江教科影视" tvg-logo="https://www.yangfeiyue.cn/tv/浙江教科影视.png" group-title="浙江电信",浙江教科影视
+http://115.239.88.251:8888/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江民生休闲" tvg-logo="https://www.yangfeiyue.cn/tv/浙江民生休闲.png" group-title="浙江电信",浙江民生休闲
+http://122.233.158.114:4022/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江民生休闲" tvg-logo="https://www.yangfeiyue.cn/tv/浙江民生休闲.png" group-title="浙江电信",浙江民生休闲
+http://115.239.88.251:8888/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江新闻" tvg-logo="https://www.yangfeiyue.cn/tv/浙江新闻.png" group-title="浙江电信",浙江新闻
+http://122.233.158.114:4022/rtp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江新闻" tvg-logo="https://www.yangfeiyue.cn/tv/浙江新闻.png" group-title="浙江电信",浙江新闻
+http://115.239.88.251:8888/rtp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="1" tvg-name="浙江少儿" tvg-logo="https://www.yangfeiyue.cn/tv/浙江少儿.png" group-title="浙江电信",浙江少儿
+http://122.233.158.114:4022/rtp/233.50.201.138:5140
+#EXTINF:-1 tvg-id="2" tvg-name="浙江少儿" tvg-logo="https://www.yangfeiyue.cn/tv/浙江少儿.png" group-title="浙江电信",浙江少儿
+http://115.239.88.251:8888/rtp/233.50.201.138:5140
+#EXTINF:-1 tvg-id="1" tvg-name="之江纪录" tvg-logo="https://www.yangfeiyue.cn/tv/之江纪录.png" group-title="浙江电信",之江纪录
+http://122.233.158.114:4022/rtp/233.50.202.25:5140
+#EXTINF:-1 tvg-id="2" tvg-name="之江纪录" tvg-logo="https://www.yangfeiyue.cn/tv/之江纪录.png" group-title="浙江电信",之江纪录
+http://115.239.88.251:8888/rtp/233.50.202.25:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州综合" tvg-logo="https://www.yangfeiyue.cn/tv/杭州综合.png" group-title="浙江电信",杭州综合
+http://122.233.158.114:4022/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州综合" tvg-logo="https://www.yangfeiyue.cn/tv/杭州综合.png" group-title="浙江电信",杭州综合
+http://115.239.88.251:8888/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州西湖明珠" tvg-logo="https://www.yangfeiyue.cn/tv/杭州西湖明珠.png" group-title="浙江电信",杭州西湖明珠
+http://122.233.158.114:4022/rtp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州西湖明珠" tvg-logo="https://www.yangfeiyue.cn/tv/杭州西湖明珠.png" group-title="浙江电信",杭州西湖明珠
+http://115.239.88.251:8888/rtp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州生活" tvg-logo="https://www.yangfeiyue.cn/tv/杭州生活.png" group-title="浙江电信",杭州生活
+http://122.233.158.114:4022/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州生活" tvg-logo="https://www.yangfeiyue.cn/tv/杭州生活.png" group-title="浙江电信",杭州生活
+http://115.239.88.251:8888/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州影视" tvg-logo="https://www.yangfeiyue.cn/tv/杭州影视.png" group-title="浙江电信",杭州影视
+http://122.233.158.114:4022/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州影视" tvg-logo="https://www.yangfeiyue.cn/tv/杭州影视.png" group-title="浙江电信",杭州影视
+http://115.239.88.251:8888/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州青少体育" tvg-logo="https://www.yangfeiyue.cn/tv/杭州青少体育.png" group-title="浙江电信",杭州青少体育
+http://122.233.158.114:4022/rtp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州青少体育" tvg-logo="https://www.yangfeiyue.cn/tv/杭州青少体育.png" group-title="浙江电信",杭州青少体育
+http://115.239.88.251:8888/rtp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="1" tvg-name="杭州导视" tvg-logo="https://www.yangfeiyue.cn/tv/杭州导视.png" group-title="浙江电信",杭州导视
+http://122.233.158.114:4022/rtp/233.50.201.182:5140
+#EXTINF:-1 tvg-id="2" tvg-name="杭州导视" tvg-logo="https://www.yangfeiyue.cn/tv/杭州导视.png" group-title="浙江电信",杭州导视
+http://115.239.88.251:8888/rtp/233.50.201.182:5140
+#EXTINF:-1 tvg-id="1" tvg-name="温州综合" tvg-logo="https://www.yangfeiyue.cn/tv/温州综合.png" group-title="浙江电信",温州综合
+http://122.233.158.114:4022/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-id="2" tvg-name="温州综合" tvg-logo="https://www.yangfeiyue.cn/tv/温州综合.png" group-title="浙江电信",温州综合
+http://115.239.88.251:8888/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-id="1" tvg-name="绍兴综合" tvg-logo="https://www.yangfeiyue.cn/tv/绍兴综合.png" group-title="浙江电信",绍兴综合
+http://122.233.158.114:4022/rtp/233.50.201.156:5140
+#EXTINF:-1 tvg-id="2" tvg-name="绍兴综合" tvg-logo="https://www.yangfeiyue.cn/tv/绍兴综合.png" group-title="浙江电信",绍兴综合
+http://115.239.88.251:8888/rtp/233.50.201.156:5140
+#EXTINF:-1 tvg-id="1" tvg-name="衢州综合" tvg-logo="https://www.yangfeiyue.cn/tv/衢州综合.png" group-title="浙江电信",衢州综合
+http://122.233.158.114:4022/rtp/233.50.202.11:5140
+#EXTINF:-1 tvg-id="2" tvg-name="衢州综合" tvg-logo="https://www.yangfeiyue.cn/tv/衢州综合.png" group-title="浙江电信",衢州综合
+http://115.239.88.251:8888/rtp/233.50.202.11:5140
+#EXTINF:-1 tvg-id="1" tvg-name="衢州公共" tvg-logo="https://www.yangfeiyue.cn/tv/衢州公共.png" group-title="浙江电信",衢州公共
+http://122.233.158.114:4022/rtp/233.50.202.12:5140
+#EXTINF:-1 tvg-id="2" tvg-name="衢州公共" tvg-logo="https://www.yangfeiyue.cn/tv/衢州公共.png" group-title="浙江电信",衢州公共
+http://115.239.88.251:8888/rtp/233.50.202.12:5140
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://www.yangfeiyue.cn/tv/凤凰中文.png" group-title="浙江电信",凤凰中文
+http://122.233.158.114:4022/rtp/233.50.200.42:5140
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://www.yangfeiyue.cn/tv/凤凰中文.png" group-title="浙江电信",凤凰中文
+http://115.239.88.251:8888/rtp/233.50.200.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://www.yangfeiyue.cn/tv/凤凰资讯.png" group-title="浙江电信",凤凰资讯
+http://122.233.158.114:4022/rtp/233.50.200.192:5140
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://www.yangfeiyue.cn/tv/凤凰资讯.png" group-title="浙江电信",凤凰资讯
+http://115.239.88.251:8888/rtp/233.50.200.192:5140
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://www.yangfeiyue.cn/tv/天津卫视.png" group-title="浙江电信",天津卫视
+http://122.233.158.114:4022/rtp/233.50.200.104:5140
+#EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://www.yangfeiyue.cn/tv/天津卫视.png" group-title="浙江电信",天津卫视
+http://115.239.88.251:8888/rtp/233.50.200.104:5140
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河北卫视.png" group-title="浙江电信",河北卫视
+http://122.233.158.114:4022/rtp/233.50.200.105:5140
+#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河北卫视.png" group-title="浙江电信",河北卫视
+http://115.239.88.251:8888/rtp/233.50.200.105:5140
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://www.yangfeiyue.cn/tv/安徽卫视.png" group-title="浙江电信",安徽卫视
+http://122.233.158.114:4022/rtp/233.50.200.106:5140
+#EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://www.yangfeiyue.cn/tv/安徽卫视.png" group-title="浙江电信",安徽卫视
+http://115.239.88.251:8888/rtp/233.50.200.106:5140
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆卫视.png" group-title="浙江电信",重庆卫视
+http://122.233.158.114:4022/rtp/233.50.200.114:5140
+#EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆卫视.png" group-title="浙江电信",重庆卫视
+http://122.233.158.114:4022/rtp/233.50.201.143:5140
+#EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆卫视.png" group-title="浙江电信",重庆卫视
+http://115.239.88.251:8888/rtp/233.50.200.114:5140
+#EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆卫视.png" group-title="浙江电信",重庆卫视
+http://115.239.88.251:8888/rtp/233.50.201.143:5140
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/云南卫视.png" group-title="浙江电信",云南卫视
+http://122.233.158.114:4022/rtp/233.50.200.115:5140
+#EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/云南卫视.png" group-title="浙江电信",云南卫视
+http://115.239.88.251:8888/rtp/233.50.200.115:5140
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://www.yangfeiyue.cn/tv/四川卫视.png" group-title="浙江电信",四川卫视
+http://122.233.158.114:4022/rtp/233.50.200.118:5140
+#EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://www.yangfeiyue.cn/tv/四川卫视.png" group-title="浙江电信",四川卫视
+http://115.239.88.251:8888/rtp/233.50.200.118:5140
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/江西卫视.png" group-title="浙江电信",江西卫视
+http://122.233.158.114:4022/rtp/233.50.200.119:5140
+#EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/江西卫视.png" group-title="浙江电信",江西卫视
+http://115.239.88.251:8888/rtp/233.50.200.119:5140
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏卫视.png" group-title="浙江电信",江苏卫视
+http://122.233.158.114:4022/rtp/233.50.200.144:5140
+#EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏卫视.png" group-title="浙江电信",江苏卫视
+http://115.239.88.251:8888/rtp/233.50.200.144:5140
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东方卫视.png" group-title="浙江电信",东方卫视
+http://122.233.158.114:4022/rtp/233.50.200.146:5140
+#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东方卫视.png" group-title="浙江电信",东方卫视
+http://115.239.88.251:8888/rtp/233.50.200.146:5140
+#EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东方卫视.png" group-title="浙江电信",东方卫视
+http://180.158.150.239:8888/rtp/239.45.3.146:5140
+#EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东方卫视.png" group-title="浙江电信",东方卫视
+http://58.38.17.105:4022/rtp/239.45.3.146:5140
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北卫视.png" group-title="浙江电信",湖北卫视
+http://122.233.158.114:4022/rtp/233.50.200.147:5140
+#EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北卫视.png" group-title="浙江电信",湖北卫视
+http://115.239.88.251:8888/rtp/233.50.200.147:5140
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://www.yangfeiyue.cn/tv/广东卫视.png" group-title="浙江电信",广东卫视
+http://122.233.158.114:4022/rtp/233.50.200.149:5140
+#EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://www.yangfeiyue.cn/tv/广东卫视.png" group-title="浙江电信",广东卫视
+http://115.239.88.251:8888/rtp/233.50.200.149:5140
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://www.yangfeiyue.cn/tv/北京卫视.png" group-title="浙江电信",北京卫视
+http://122.233.158.114:4022/rtp/233.50.200.179:5140
+#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://www.yangfeiyue.cn/tv/北京卫视.png" group-title="浙江电信",北京卫视
+http://115.239.88.251:8888/rtp/233.50.200.179:5140
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://www.yangfeiyue.cn/tv/深圳卫视.png" group-title="浙江电信",深圳卫视
+http://122.233.158.114:4022/rtp/233.50.200.188:5140
+#EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://www.yangfeiyue.cn/tv/深圳卫视.png" group-title="浙江电信",深圳卫视
+http://115.239.88.251:8888/rtp/233.50.200.188:5140
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黑龙江卫视.png" group-title="浙江电信",黑龙江卫视
+http://122.233.158.114:4022/rtp/233.50.200.189:5140
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黑龙江卫视.png" group-title="浙江电信",黑龙江卫视
+http://115.239.88.251:8888/rtp/233.50.200.189:5140
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/湖南卫视.png" group-title="浙江电信",湖南卫视
+http://122.233.158.114:4022/rtp/233.50.200.190:5140
+#EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/湖南卫视.png" group-title="浙江电信",湖南卫视
+http://115.239.88.251:8888/rtp/233.50.200.190:5140
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山东卫视.png" group-title="浙江电信",山东卫视
+http://122.233.158.114:4022/rtp/233.50.201.105:5140
+#EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山东卫视.png" group-title="浙江电信",山东卫视
+http://115.239.88.251:8888/rtp/233.50.201.105:5140
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁卫视.png" group-title="浙江电信",辽宁卫视
+http://122.233.158.114:4022/rtp/233.50.201.141:5140
+#EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁卫视.png" group-title="浙江电信",辽宁卫视
+http://115.239.88.251:8888/rtp/233.50.201.141:5140
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://www.yangfeiyue.cn/tv/贵州卫视.png" group-title="浙江电信",贵州卫视
+http://122.233.158.114:4022/rtp/233.50.201.142:5140
+#EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://www.yangfeiyue.cn/tv/贵州卫视.png" group-title="浙江电信",贵州卫视
+http://115.239.88.251:8888/rtp/233.50.201.142:5140
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河南卫视.png" group-title="浙江电信",河南卫视
+http://122.233.158.114:4022/rtp/233.50.201.144:5140
+#EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河南卫视.png" group-title="浙江电信",河南卫视
+http://115.239.88.251:8888/rtp/233.50.201.144:5140
+#EXTINF:-1 tvg-id="3" tvg-name="河南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河南卫视.png" group-title="浙江电信",河南卫视
+http://42.237.176.53:4000/rtp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="4" tvg-name="河南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/河南卫视.png" group-title="浙江电信",河南卫视
+http://42.231.180.207:8089/rtp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东南卫视.png" group-title="浙江电信",东南卫视
+http://122.233.158.114:4022/rtp/233.50.201.146:5140
+#EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://www.yangfeiyue.cn/tv/东南卫视.png" group-title="浙江电信",东南卫视
+http://115.239.88.251:8888/rtp/233.50.201.146:5140
+#EXTINF:-1 tvg-id="1" tvg-name="都市剧场" tvg-logo="https://www.yangfeiyue.cn/tv/都市剧场.png" group-title="浙江电信",都市剧场
+http://122.233.158.114:4022/rtp/233.50.200.11:5140
+#EXTINF:-1 tvg-id="2" tvg-name="都市剧场" tvg-logo="https://www.yangfeiyue.cn/tv/都市剧场.png" group-title="浙江电信",都市剧场
+http://115.239.88.251:8888/rtp/233.50.200.11:5140
+#EXTINF:-1 tvg-id="1" tvg-name="欢笑剧场" tvg-logo="https://www.yangfeiyue.cn/tv/欢笑剧场.png" group-title="浙江电信",欢笑剧场
+http://122.233.158.114:4022/rtp/233.50.200.229:5140
+#EXTINF:-1 tvg-id="2" tvg-name="欢笑剧场" tvg-logo="https://www.yangfeiyue.cn/tv/欢笑剧场.png" group-title="浙江电信",欢笑剧场
+http://115.239.88.251:8888/rtp/233.50.200.229:5140
+#EXTINF:-1 tvg-id="3" tvg-name="欢笑剧场" tvg-logo="https://www.yangfeiyue.cn/tv/欢笑剧场.png" group-title="浙江电信",欢笑剧场
+http://125.69.146.151:8888/rtp/239.93.0.145:5140
+#EXTINF:-1 tvg-id="4" tvg-name="欢笑剧场" tvg-logo="https://www.yangfeiyue.cn/tv/欢笑剧场.png" group-title="浙江电信",欢笑剧场
+http://182.138.200.20:9080/rtp/239.93.0.145:5140
+#EXTINF:-1 tvg-id="1" tvg-name="动漫秀场" tvg-logo="https://www.yangfeiyue.cn/tv/动漫秀场.png" group-title="浙江电信",动漫秀场
+http://122.233.158.114:4022/rtp/233.50.200.12:5140
+#EXTINF:-1 tvg-id="2" tvg-name="动漫秀场" tvg-logo="https://www.yangfeiyue.cn/tv/动漫秀场.png" group-title="浙江电信",动漫秀场
+http://115.239.88.251:8888/rtp/233.50.200.12:5140
+#EXTINF:-1 tvg-id="1" tvg-name="游戏风云" tvg-logo="https://www.yangfeiyue.cn/tv/游戏风云.png" group-title="浙江电信",游戏风云
+http://122.233.158.114:4022/rtp/233.50.200.14:5140
+#EXTINF:-1 tvg-id="2" tvg-name="游戏风云" tvg-logo="https://www.yangfeiyue.cn/tv/游戏风云.png" group-title="浙江电信",游戏风云
+http://115.239.88.251:8888/rtp/233.50.200.14:5140
+#EXTINF:-1 tvg-id="1" tvg-name="生活时尚" tvg-logo="https://www.yangfeiyue.cn/tv/生活时尚.png" group-title="浙江电信",生活时尚
+http://122.233.158.114:4022/rtp/233.50.200.15:5140
+#EXTINF:-1 tvg-id="2" tvg-name="生活时尚" tvg-logo="https://www.yangfeiyue.cn/tv/生活时尚.png" group-title="浙江电信",生活时尚
+http://115.239.88.251:8888/rtp/233.50.200.15:5140
+#EXTINF:-1 tvg-id="1" tvg-name="法治天地" tvg-logo="https://www.yangfeiyue.cn/tv/法治天地.png" group-title="浙江电信",法治天地
+http://122.233.158.114:4022/rtp/233.50.200.120:5140
+#EXTINF:-1 tvg-id="2" tvg-name="法治天地" tvg-logo="https://www.yangfeiyue.cn/tv/法治天地.png" group-title="浙江电信",法治天地
+http://115.239.88.251:8888/rtp/233.50.200.120:5140
+#EXTINF:-1 tvg-id="1" tvg-name="金色学堂" tvg-logo="https://www.yangfeiyue.cn/tv/金色学堂.png" group-title="浙江电信",金色学堂
+http://122.233.158.114:4022/rtp/233.50.200.122:5140
+#EXTINF:-1 tvg-id="2" tvg-name="金色学堂" tvg-logo="https://www.yangfeiyue.cn/tv/金色学堂.png" group-title="浙江电信",金色学堂
+http://115.239.88.251:8888/rtp/233.50.200.122:5140
+#EXTINF:-1 tvg-id="1" tvg-name="乐游" tvg-logo="https://www.yangfeiyue.cn/tv/乐游.png" group-title="浙江电信",乐游
+http://122.233.158.114:4022/rtp/233.50.200.148:5140
+#EXTINF:-1 tvg-id="2" tvg-name="乐游" tvg-logo="https://www.yangfeiyue.cn/tv/乐游.png" group-title="浙江电信",乐游
+http://115.239.88.251:8888/rtp/233.50.200.148:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CETV4" tvg-logo="https://www.yangfeiyue.cn/tv/CETV4.png" group-title="浙江电信",CETV4
+http://122.233.158.114:4022/rtp/233.50.200.162:5140
+#EXTINF:-1 tvg-id="2" tvg-name="CETV4" tvg-logo="https://www.yangfeiyue.cn/tv/CETV4.png" group-title="浙江电信",CETV4
+http://115.239.88.251:8888/rtp/233.50.200.162:5140
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩竞技" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩竞技.png" group-title="浙江电信",睛彩竞技
+http://122.233.158.114:4022/rtp/233.50.202.26:5140
+#EXTINF:-1 tvg-id="2" tvg-name="睛彩竞技" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩竞技.png" group-title="浙江电信",睛彩竞技
+http://115.239.88.251:8888/rtp/233.50.202.26:5140
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="浙江电信",睛彩篮球
+http://122.233.158.114:4022/rtp/233.50.202.27:5140
+#EXTINF:-1 tvg-id="2" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="浙江电信",睛彩篮球
+http://115.239.88.251:8888/rtp/233.50.202.27:5140
+#EXTINF:-1 tvg-id="1" tvg-name="晴彩青少" tvg-logo="https://www.yangfeiyue.cn/tv/晴彩青少.png" group-title="浙江电信",晴彩青少
+http://122.233.158.114:4022/rtp/233.50.201.195:5140
+#EXTINF:-1 tvg-id="2" tvg-name="晴彩青少" tvg-logo="https://www.yangfeiyue.cn/tv/晴彩青少.png" group-title="浙江电信",晴彩青少
+http://115.239.88.251:8888/rtp/233.50.201.195:5140
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="浙江电信",睛彩广场舞
+http://122.233.158.114:4022/rtp/233.50.202.29:5140
+#EXTINF:-1 tvg-id="2" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="浙江电信",睛彩广场舞
+http://115.239.88.251:8888/rtp/233.50.202.29:5140
+#EXTINF:-1 tvg-id="1" tvg-name="轮播频道" tvg-logo="https://www.yangfeiyue.cn/tv/轮播频道.png" group-title="浙江电信",轮播频道
+http://122.233.158.114:4022/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="2" tvg-name="轮播频道" tvg-logo="https://www.yangfeiyue.cn/tv/轮播频道.png" group-title="浙江电信",轮播频道
+http://115.239.88.251:8888/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://www.yangfeiyue.cn/tv/快乐垂钓.png" group-title="浙江电信",快乐垂钓
+http://122.233.158.114:4022/rtp/233.50.200.123:5140
+#EXTINF:-1 tvg-id="2" tvg-name="快乐垂钓" tvg-logo="https://www.yangfeiyue.cn/tv/快乐垂钓.png" group-title="浙江电信",快乐垂钓
+http://115.239.88.251:8888/rtp/233.50.200.123:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN.png" group-title="北京联通",CGTN
+http://111.193.234.224:8888/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN.png" group-title="北京联通",CGTN
+http://114.246.180.199:8888/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN纪录" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN纪录.png" group-title="北京联通",CGTN纪录
+http://111.193.234.224:8888/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN纪录" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN纪录.png" group-title="北京联通",CGTN纪录
+http://114.246.180.199:8888/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN西语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN西语.png" group-title="北京联通",CGTN西语
+http://111.193.234.224:8888/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN西语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN西语.png" group-title="北京联通",CGTN西语
+http://114.246.180.199:8888/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN法语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN法语.png" group-title="北京联通",CGTN法语
+http://111.193.234.224:8888/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN法语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN法语.png" group-title="北京联通",CGTN法语
+http://114.246.180.199:8888/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN阿语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN阿语.png" group-title="北京联通",CGTN阿语
+http://111.193.234.224:8888/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN阿语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN阿语.png" group-title="北京联通",CGTN阿语
+http://114.246.180.199:8888/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN俄语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN俄语.png" group-title="北京联通",CGTN俄语
+http://111.193.234.224:8888/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN俄语" tvg-logo="https://www.yangfeiyue.cn/tv/CGTN俄语.png" group-title="北京联通",CGTN俄语
+http://114.246.180.199:8888/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-id="1" tvg-name="北京4K电影" tvg-logo="https://www.yangfeiyue.cn/tv/北京4K电影.png" group-title="北京联通",北京4K电影
+http://111.193.234.224:8888/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京4K电影" tvg-logo="https://www.yangfeiyue.cn/tv/北京4K电影.png" group-title="北京联通",北京4K电影
+http://114.246.180.199:8888/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京淘电影" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘电影.png" group-title="北京联通",北京淘电影
+http://111.193.234.224:8888/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京淘电影" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘电影.png" group-title="北京联通",北京淘电影
+http://114.246.180.199:8888/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京淘剧场" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
+http://111.193.234.224:8888/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京淘剧场" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
+http://114.246.180.199:8888/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京淘精彩" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘精彩.png" group-title="北京联通",北京淘精彩
+http://111.193.234.224:8888/rtp/239.3.1.178:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京淘精彩" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘精彩.png" group-title="北京联通",北京淘精彩
+http://114.246.180.199:8888/rtp/239.3.1.178:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京淘娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
+http://111.193.234.224:8888/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京淘娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
+http://114.246.180.199:8888/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京淘Baby" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
+http://111.193.234.224:8888/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="2" tvg-name="北京淘Baby" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
+http://114.246.180.199:8888/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="1" tvg-name="萌宠TV" tvg-logo="https://www.yangfeiyue.cn/tv/萌宠TV.png" group-title="北京联通",萌宠TV
+http://111.193.234.224:8888/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-id="2" tvg-name="萌宠TV" tvg-logo="https://www.yangfeiyue.cn/tv/萌宠TV.png" group-title="北京联通",萌宠TV
+http://114.246.180.199:8888/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-id="1" tvg-name="北京新闻" tvg-logo="https://www.yangfeiyue.cn/tv/北京新闻.png" group-title="北京联通",北京新闻
+http://111.193.234.224:8888/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京新闻" tvg-logo="https://www.yangfeiyue.cn/tv/北京新闻.png" group-title="北京联通",北京新闻
+http://114.246.180.199:8888/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京影视" tvg-logo="https://www.yangfeiyue.cn/tv/北京影视.png" group-title="北京联通",北京影视
+http://111.193.234.224:8888/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京影视" tvg-logo="https://www.yangfeiyue.cn/tv/北京影视.png" group-title="北京联通",北京影视
+http://114.246.180.199:8888/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京文艺" tvg-logo="https://www.yangfeiyue.cn/tv/北京文艺.png" group-title="北京联通",北京文艺
+http://111.193.234.224:8888/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京文艺" tvg-logo="https://www.yangfeiyue.cn/tv/北京文艺.png" group-title="北京联通",北京文艺
+http://114.246.180.199:8888/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京财经" tvg-logo="https://www.yangfeiyue.cn/tv/北京财经.png" group-title="北京联通",北京财经
+http://111.193.234.224:8888/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京财经" tvg-logo="https://www.yangfeiyue.cn/tv/北京财经.png" group-title="北京联通",北京财经
+http://114.246.180.199:8888/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京生活" tvg-logo="https://www.yangfeiyue.cn/tv/北京生活.png" group-title="北京联通",北京生活
+http://111.193.234.224:8888/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京生活" tvg-logo="https://www.yangfeiyue.cn/tv/北京生活.png" group-title="北京联通",北京生活
+http://114.246.180.199:8888/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京纪实科教" tvg-logo="https://www.yangfeiyue.cn/tv/北京纪实科教.png" group-title="北京联通",北京纪实科教
+http://111.193.234.224:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京纪实科教" tvg-logo="https://www.yangfeiyue.cn/tv/北京纪实科教.png" group-title="北京联通",北京纪实科教
+http://114.246.180.199:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="1" tvg-name="卡酷少儿" tvg-logo="https://www.yangfeiyue.cn/tv/卡酷少儿.png" group-title="北京联通",卡酷少儿
+http://111.193.234.224:8888/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="2" tvg-name="卡酷少儿" tvg-logo="https://www.yangfeiyue.cn/tv/卡酷少儿.png" group-title="北京联通",卡酷少儿
+http://114.246.180.199:8888/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="1" tvg-name="北京体育休闲" tvg-logo="https://www.yangfeiyue.cn/tv/北京体育休闲.png" group-title="北京联通",北京体育休闲
+http://111.193.234.224:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="2" tvg-name="北京体育休闲" tvg-logo="https://www.yangfeiyue.cn/tv/北京体育休闲.png" group-title="北京联通",北京体育休闲
+http://114.246.180.199:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://www.yangfeiyue.cn/tv/金鹰纪实.png" group-title="北京联通",金鹰纪实
+http://111.193.234.224:8888//rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="2" tvg-name="金鹰纪实" tvg-logo="https://www.yangfeiyue.cn/tv/金鹰纪实.png" group-title="北京联通",金鹰纪实
+http://114.246.180.199:8888//rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="1" tvg-name="爱上4K" tvg-logo="https://www.yangfeiyue.cn/tv/爱上4K.png" group-title="北京联通",爱上4K
+http://111.193.234.224:8888//rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="2" tvg-name="爱上4K" tvg-logo="https://www.yangfeiyue.cn/tv/爱上4K.png" group-title="北京联通",爱上4K
+http://114.246.180.199:8888//rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://www.yangfeiyue.cn/tv/吉林卫视.png" group-title="北京联通",吉林卫视
+http://111.193.234.224:8888/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://www.yangfeiyue.cn/tv/吉林卫视.png" group-title="北京联通",吉林卫视
+http://114.246.180.199:8888/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-id="1" tvg-name="中国交通" tvg-logo="https://www.yangfeiyue.cn/tv/中国交通.png" group-title="北京联通",中国交通
+http://111.193.234.224:8888/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-id="2" tvg-name="中国交通" tvg-logo="https://www.yangfeiyue.cn/tv/中国交通.png" group-title="北京联通",中国交通
+http://114.246.180.199:8888/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-id="1" tvg-name="朝阳融媒" tvg-logo="https://www.yangfeiyue.cn/tv/朝阳融媒.png" group-title="北京联通",朝阳融媒
+http://111.193.234.224:8888/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-id="2" tvg-name="朝阳融媒" tvg-logo="https://www.yangfeiyue.cn/tv/朝阳融媒.png" group-title="北京联通",朝阳融媒
+http://114.246.180.199:8888/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-id="1" tvg-name="密云电视台" tvg-logo="https://www.yangfeiyue.cn/tv/密云电视台.png" group-title="北京联通",密云电视台
+http://111.193.234.224:8888/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-id="2" tvg-name="密云电视台" tvg-logo="https://www.yangfeiyue.cn/tv/密云电视台.png" group-title="北京联通",密云电视台
+http://114.246.180.199:8888/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-id="1" tvg-name="CETV1" tvg-logo="https://www.yangfeiyue.cn/tv/CETV1.png" group-title="北京联通",CETV1
+http://111.193.234.224:8888/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-id="2" tvg-name="CETV1" tvg-logo="https://www.yangfeiyue.cn/tv/CETV1.png" group-title="北京联通",CETV1
+http://114.246.180.199:8888/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-id="1" tvg-name="上海新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/上海新闻综合.png" group-title="上海电信",上海新闻综合
+http://180.158.150.239:8888/rtp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="2" tvg-name="上海新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/上海新闻综合.png" group-title="上海电信",上海新闻综合
+http://58.38.17.105:4022/rtp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="1" tvg-name="上海都市" tvg-logo="https://www.yangfeiyue.cn/tv/上海都市.png" group-title="上海电信",上海都市
+http://180.158.150.239:8888/rtp/239.45.3.236:5140
+#EXTINF:-1 tvg-id="2" tvg-name="上海都市" tvg-logo="https://www.yangfeiyue.cn/tv/上海都市.png" group-title="上海电信",上海都市
+http://58.38.17.105:4022/rtp/239.45.3.236:5140
+#EXTINF:-1 tvg-id="1" tvg-name="上海纪实" tvg-logo="https://www.yangfeiyue.cn/tv/上海纪实.png" group-title="上海电信",上海纪实
+http://180.158.150.239:8888/rtp/239.45.3.212:5140
+#EXTINF:-1 tvg-id="2" tvg-name="上海纪实" tvg-logo="https://www.yangfeiyue.cn/tv/上海纪实.png" group-title="上海电信",上海纪实
+http://58.38.17.105:4022/rtp/239.45.3.212:5140
+#EXTINF:-1 tvg-id="1" tvg-name="东方影视" tvg-logo="https://www.yangfeiyue.cn/tv/东方影视.png" group-title="上海电信",东方影视
+http://180.158.150.239:8888/rtp/239.45.3.237:5140
+#EXTINF:-1 tvg-id="2" tvg-name="东方影视" tvg-logo="https://www.yangfeiyue.cn/tv/东方影视.png" group-title="上海电信",东方影视
+http://58.38.17.105:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 tvg-id="1" tvg-name="第一财经" tvg-logo="https://www.yangfeiyue.cn/tv/第一财经.png" group-title="上海电信",第一财经
+http://180.158.150.239:8888/rtp/239.45.3.211:5140
+#EXTINF:-1 tvg-id="2" tvg-name="第一财经" tvg-logo="https://www.yangfeiyue.cn/tv/第一财经.png" group-title="上海电信",第一财经
+http://58.38.17.105:4022/rtp/239.45.3.211:5140
+#EXTINF:-1 tvg-id="1" tvg-name="五星体育" tvg-logo="https://www.yangfeiyue.cn/tv/五星体育.png" group-title="上海电信",五星体育
+http://180.158.150.239:8888/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="2" tvg-name="五星体育" tvg-logo="https://www.yangfeiyue.cn/tv/五星体育.png" group-title="上海电信",五星体育
+http://58.38.17.105:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1" tvg-name="哈哈炫动" tvg-logo="https://www.yangfeiyue.cn/tv/哈哈炫动.png" group-title="上海电信",哈哈炫动
+http://180.158.150.239:8888/rtp/239.45.1.55:5140
+#EXTINF:-1 tvg-id="2" tvg-name="哈哈炫动" tvg-logo="https://www.yangfeiyue.cn/tv/哈哈炫动.png" group-title="上海电信",哈哈炫动
+http://58.38.17.105:4022/rtp/239.45.1.55:5140
+#EXTINF:-1 tvg-id="1" tvg-name="上海外语" tvg-logo="https://www.yangfeiyue.cn/tv/上海外语.png" group-title="上海电信",上海外语
+http://180.158.150.239:8888/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="2" tvg-name="上海外语" tvg-logo="https://www.yangfeiyue.cn/tv/上海外语.png" group-title="上海电信",上海外语
+http://58.38.17.105:4022/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="1" tvg-name="百事通电影4K" tvg-logo="https://www.yangfeiyue.cn/tv/百事通电影4K.png" group-title="上海电信",百事通电影4K
+http://180.158.150.239:8888/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="2" tvg-name="百事通电影4K" tvg-logo="https://www.yangfeiyue.cn/tv/百事通电影4K.png" group-title="上海电信",百事通电影4K
+http://58.38.17.105:4022/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://www.yangfeiyue.cn/tv/广东珠江.png" group-title="广东电信",广东珠江
+http://113.67.165.40:8888/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东珠江" tvg-logo="https://www.yangfeiyue.cn/tv/广东珠江.png" group-title="广东电信",广东珠江
+http://183.31.9.252:9001/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东新闻" tvg-logo="https://www.yangfeiyue.cn/tv/广东新闻.png" group-title="广东电信",广东新闻
+http://113.67.165.40:8888/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://www.yangfeiyue.cn/tv/广东新闻.png" group-title="广东电信",广东新闻
+http://183.31.9.252:9001/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东民生" tvg-logo="https://www.yangfeiyue.cn/tv/广东民生.png" group-title="广东电信",广东民生
+http://113.67.165.40:8888/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东民生" tvg-logo="https://www.yangfeiyue.cn/tv/广东民生.png" group-title="广东电信",广东民生
+http://183.31.9.252:9001/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东体育" tvg-logo="https://www.yangfeiyue.cn/tv/广东体育.png" group-title="广东电信",广东体育
+http://113.67.165.40:8888/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东体育" tvg-logo="https://www.yangfeiyue.cn/tv/广东体育.png" group-title="广东电信",广东体育
+http://183.31.9.252:9001/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东经济科教" tvg-logo="https://www.yangfeiyue.cn/tv/广东经济科教.png" group-title="广东电信",广东经济科教
+http://113.67.165.40:8888/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东经济科教" tvg-logo="https://www.yangfeiyue.cn/tv/广东经济科教.png" group-title="广东电信",广东经济科教
+http://183.31.9.252:9001/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://www.yangfeiyue.cn/tv/大湾区卫视.png" group-title="广东电信",大湾区卫视
+http://113.67.165.40:8888/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="2" tvg-name="大湾区卫视" tvg-logo="https://www.yangfeiyue.cn/tv/大湾区卫视.png" group-title="广东电信",大湾区卫视
+http://183.31.9.252:9001/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东影视" tvg-logo="https://www.yangfeiyue.cn/tv/广东影视.png" group-title="广东电信",广东影视
+http://113.67.165.40:8888/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东影视" tvg-logo="https://www.yangfeiyue.cn/tv/广东影视.png" group-title="广东电信",广东影视
+http://183.31.9.252:9001/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="1" tvg-name="南国都市" tvg-logo="https://www.yangfeiyue.cn/tv/南国都市.png" group-title="广东电信",南国都市
+http://113.67.165.40:8888/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="2" tvg-name="南国都市" tvg-logo="https://www.yangfeiyue.cn/tv/南国都市.png" group-title="广东电信",南国都市
+http://183.31.9.252:9001/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东少儿" tvg-logo="https://www.yangfeiyue.cn/tv/广东少儿.png" group-title="广东电信",广东少儿
+http://113.67.165.40:8888/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东少儿" tvg-logo="https://www.yangfeiyue.cn/tv/广东少儿.png" group-title="广东电信",广东少儿
+http://183.31.9.252:9001/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://www.yangfeiyue.cn/tv/嘉佳卡通.png" group-title="广东电信",嘉佳卡通
+http://113.67.165.40:8888/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="2" tvg-name="嘉佳卡通" tvg-logo="https://www.yangfeiyue.cn/tv/嘉佳卡通.png" group-title="广东电信",嘉佳卡通
+http://183.31.9.252:9001/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东综艺" tvg-logo="https://www.yangfeiyue.cn/tv/广东综艺.png" group-title="广东电信",广东综艺
+http://113.67.165.40:8888/rtp/239.77.1.237:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东综艺" tvg-logo="https://www.yangfeiyue.cn/tv/广东综艺.png" group-title="广东电信",广东综艺
+http://183.31.9.252:9001/rtp/239.77.1.237:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="https://www.yangfeiyue.cn/tv/广州综合.png" group-title="广东电信",广州综合
+http://113.67.165.40:8888/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广州综合" tvg-logo="https://www.yangfeiyue.cn/tv/广州综合.png" group-title="广东电信",广州综合
+http://183.31.9.252:9001/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/广州新闻.png" group-title="广东电信",广州新闻
+http://113.67.165.40:8888/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/广州新闻.png" group-title="广东电信",广州新闻
+http://183.31.9.252:9001/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州影视" tvg-logo="https://www.yangfeiyue.cn/tv/广州影视.png" group-title="广东电信",广州影视
+http://113.67.165.40:8888/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广州影视" tvg-logo="https://www.yangfeiyue.cn/tv/广州影视.png" group-title="广东电信",广州影视
+http://183.31.9.252:9001/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州法治" tvg-logo="https://www.yangfeiyue.cn/tv/广州法治.png" group-title="广东电信",广州法治
+http://113.67.165.40:8888/rtp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广州法治" tvg-logo="https://www.yangfeiyue.cn/tv/广州法治.png" group-title="广东电信",广州法治
+http://183.31.9.252:9001/rtp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="1" tvg-name="潮州综合" tvg-logo="https://www.yangfeiyue.cn/tv/潮州综合.png" group-title="广东电信",潮州综合
+http://113.67.165.40:8888/rtp/239.253.43.70:5146
+#EXTINF:-1 tvg-id="2" tvg-name="潮州综合" tvg-logo="https://www.yangfeiyue.cn/tv/潮州综合.png" group-title="广东电信",潮州综合
+http://183.31.9.252:9001/rtp/239.253.43.70:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳都市" tvg-logo="https://www.yangfeiyue.cn/tv/深圳都市.png" group-title="广东电信",深圳都市
+http://113.67.165.40:8888/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳都市" tvg-logo="https://www.yangfeiyue.cn/tv/深圳都市.png" group-title="广东电信",深圳都市
+http://183.31.9.252:9001/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/深圳电视剧.png" group-title="广东电信",深圳电视剧
+http://113.67.165.40:8888/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/深圳电视剧.png" group-title="广东电信",深圳电视剧
+http://183.31.9.252:9001/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳财经生活" tvg-logo="https://www.yangfeiyue.cn/tv/深圳财经生活.png" group-title="广东电信",深圳财经生活
+http://113.67.165.40:8888/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳财经生活" tvg-logo="https://www.yangfeiyue.cn/tv/深圳财经生活.png" group-title="广东电信",深圳财经生活
+http://183.31.9.252:9001/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/深圳娱乐.png" group-title="广东电信",深圳娱乐
+http://113.67.165.40:8888/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/深圳娱乐.png" group-title="广东电信",深圳娱乐
+http://183.31.9.252:9001/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳体育健康" tvg-logo="https://www.yangfeiyue.cn/tv/深圳体育健康.png" group-title="广东电信",深圳体育健康
+http://113.67.165.40:8888/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳体育健康" tvg-logo="https://www.yangfeiyue.cn/tv/深圳体育健康.png" group-title="广东电信",深圳体育健康
+http://183.31.9.252:9001/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳少儿" tvg-logo="https://www.yangfeiyue.cn/tv/深圳少儿.png" group-title="广东电信",深圳少儿
+http://113.67.165.40:8888/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳少儿" tvg-logo="https://www.yangfeiyue.cn/tv/深圳少儿.png" group-title="广东电信",深圳少儿
+http://183.31.9.252:9001/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳公共" tvg-logo="https://www.yangfeiyue.cn/tv/深圳公共.png" group-title="广东电信",深圳公共
+http://113.67.165.40:8888/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳公共" tvg-logo="https://www.yangfeiyue.cn/tv/深圳公共.png" group-title="广东电信",深圳公共
+http://183.31.9.252:9001/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳宝安" tvg-logo="https://www.yangfeiyue.cn/tv/深圳宝安.png" group-title="广东电信",深圳宝安
+http://113.67.165.40:8888/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳宝安" tvg-logo="https://www.yangfeiyue.cn/tv/深圳宝安.png" group-title="广东电信",深圳宝安
+http://183.31.9.252:9001/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳龙岗" tvg-logo="https://www.yangfeiyue.cn/tv/深圳龙岗.png" group-title="广东电信",深圳龙岗
+http://113.67.165.40:8888/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳龙岗" tvg-logo="https://www.yangfeiyue.cn/tv/深圳龙岗.png" group-title="广东电信",深圳龙岗
+http://183.31.9.252:9001/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="1" tvg-name="岭南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/岭南戏曲.png" group-title="广东电信",岭南戏曲
+http://113.67.165.40:8888/rtp/239.77.0.16:5146
+#EXTINF:-1 tvg-id="2" tvg-name="岭南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/岭南戏曲.png" group-title="广东电信",岭南戏曲
+http://183.31.9.252:9001/rtp/239.77.0.16:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕头综合" tvg-logo="https://www.yangfeiyue.cn/tv/汕头综合.png" group-title="广东电信",汕头综合
+http://113.67.165.40:8888/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="2" tvg-name="汕头综合" tvg-logo="https://www.yangfeiyue.cn/tv/汕头综合.png" group-title="广东电信",汕头综合
+http://183.31.9.252:9001/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山公共" tvg-logo="https://www.yangfeiyue.cn/tv/佛山公共.png" group-title="广东电信",佛山公共
+http://113.67.165.40:8888/rtp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="2" tvg-name="佛山公共" tvg-logo="https://www.yangfeiyue.cn/tv/佛山公共.png" group-title="广东电信",佛山公共
+http://183.31.9.252:9001/rtp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山影视" tvg-logo="https://www.yangfeiyue.cn/tv/佛山影视.png" group-title="广东电信",佛山影视
+http://113.67.165.40:8888/rtp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="2" tvg-name="佛山影视" tvg-logo="https://www.yangfeiyue.cn/tv/佛山影视.png" group-title="广东电信",佛山影视
+http://183.31.9.252:9001/rtp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山综合" tvg-logo="https://www.yangfeiyue.cn/tv/佛山综合.png" group-title="广东电信",佛山综合
+http://113.67.165.40:8888/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="2" tvg-name="佛山综合" tvg-logo="https://www.yangfeiyue.cn/tv/佛山综合.png" group-title="广东电信",佛山综合
+http://183.31.9.252:9001/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="1" tvg-name="东莞新闻" tvg-logo="https://www.yangfeiyue.cn/tv/东莞新闻.png" group-title="广东电信",东莞新闻
+http://113.67.165.40:8888/rtp/239.253.43.104:5146
+#EXTINF:-1 tvg-id="2" tvg-name="东莞新闻" tvg-logo="https://www.yangfeiyue.cn/tv/东莞新闻.png" group-title="广东电信",东莞新闻
+http://183.31.9.252:9001/rtp/239.253.43.104:5146
+#EXTINF:-1 tvg-id="1" tvg-name="河南都市" tvg-logo="https://www.yangfeiyue.cn/tv/河南都市.png" group-title="河南联通",河南都市
+http://42.237.176.53:4000/rtp/225.1.4.52:1081
+#EXTINF:-1 tvg-id="2" tvg-name="河南都市" tvg-logo="https://www.yangfeiyue.cn/tv/河南都市.png" group-title="河南联通",河南都市
+http://42.231.180.207:8089/rtp/225.1.4.52:1081
+#EXTINF:-1 tvg-id="1" tvg-name="河南民生" tvg-logo="https://www.yangfeiyue.cn/tv/河南民生.png" group-title="河南联通",河南民生
+http://42.237.176.53:4000/rtp/225.1.4.53:1082
+#EXTINF:-1 tvg-id="2" tvg-name="河南民生" tvg-logo="https://www.yangfeiyue.cn/tv/河南民生.png" group-title="河南联通",河南民生
+http://42.231.180.207:8089/rtp/225.1.4.53:1082
+#EXTINF:-1 tvg-id="1" tvg-name="河南法治" tvg-logo="https://www.yangfeiyue.cn/tv/河南法治.png" group-title="河南联通",河南法治
+http://42.237.176.53:4000/rtp/225.1.4.54:1083
+#EXTINF:-1 tvg-id="2" tvg-name="河南法治" tvg-logo="https://www.yangfeiyue.cn/tv/河南法治.png" group-title="河南联通",河南法治
+http://42.231.180.207:8089/rtp/225.1.4.54:1083
+#EXTINF:-1 tvg-id="1" tvg-name="河南电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/河南电视剧.png" group-title="河南联通",河南电视剧
+http://42.237.176.53:4000/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-id="2" tvg-name="河南电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/河南电视剧.png" group-title="河南联通",河南电视剧
+http://42.231.180.207:8089/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-id="1" tvg-name="河南新闻" tvg-logo="https://www.yangfeiyue.cn/tv/河南新闻.png" group-title="河南联通",河南新闻
+http://42.237.176.53:4000/rtp/225.1.4.56:1085
+#EXTINF:-1 tvg-id="2" tvg-name="河南新闻" tvg-logo="https://www.yangfeiyue.cn/tv/河南新闻.png" group-title="河南联通",河南新闻
+http://42.231.180.207:8089/rtp/225.1.4.56:1085
+#EXTINF:-1 tvg-id="1" tvg-name="河南公共" tvg-logo="https://www.yangfeiyue.cn/tv/河南公共.png" group-title="河南联通",河南公共
+http://42.237.176.53:4000/rtp/225.1.4.58:1087
+#EXTINF:-1 tvg-id="2" tvg-name="河南公共" tvg-logo="https://www.yangfeiyue.cn/tv/河南公共.png" group-title="河南联通",河南公共
+http://42.231.180.207:8089/rtp/225.1.4.58:1087
+#EXTINF:-1 tvg-id="1" tvg-name="河南乡村" tvg-logo="https://www.yangfeiyue.cn/tv/河南乡村.png" group-title="河南联通",河南乡村
+http://42.237.176.53:4000/rtp/225.1.4.120:1149
+#EXTINF:-1 tvg-id="2" tvg-name="河南乡村" tvg-logo="https://www.yangfeiyue.cn/tv/河南乡村.png" group-title="河南联通",河南乡村
+http://42.231.180.207:8089/rtp/225.1.4.120:1149
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩中原" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩中原.png" group-title="河南联通",睛彩中原
+http://42.237.176.53:4000/rtp/225.1.4.163:1203
+#EXTINF:-1 tvg-id="2" tvg-name="睛彩中原" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩中原.png" group-title="河南联通",睛彩中原
+http://42.231.180.207:8089/rtp/225.1.4.163:1203
+#EXTINF:-1 tvg-id="1" tvg-name="移动戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/移动戏曲.png" group-title="河南联通",移动戏曲
+http://42.237.176.53:4000/rtp/225.1.4.206:1254
+#EXTINF:-1 tvg-id="2" tvg-name="移动戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/移动戏曲.png" group-title="河南联通",移动戏曲
+http://42.231.180.207:8089/rtp/225.1.4.206:1254
+#EXTINF:-1 tvg-id="1" tvg-name="梨园" tvg-logo="https://www.yangfeiyue.cn/tv/梨园.png" group-title="河南联通",梨园
+http://42.237.176.53:4000/rtp/225.1.4.99:1128
+#EXTINF:-1 tvg-id="2" tvg-name="梨园" tvg-logo="https://www.yangfeiyue.cn/tv/梨园.png" group-title="河南联通",梨园
+http://42.231.180.207:8089/rtp/225.1.4.99:1128
+#EXTINF:-1 tvg-id="1" tvg-name="绚影4K" tvg-logo="https://www.yangfeiyue.cn/tv/绚影4K.png" group-title="四川电信",绚影4K
+http://125.69.146.151:8888/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="2" tvg-name="绚影4K" tvg-logo="https://www.yangfeiyue.cn/tv/绚影4K.png" group-title="四川电信",绚影4K
+http://182.138.200.20:9080/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="1" tvg-name="中录动漫4K" tvg-logo="https://www.yangfeiyue.cn/tv/中录动漫4K.png" group-title="四川电信",中录动漫4K
+http://125.69.146.151:8888/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-id="2" tvg-name="中录动漫4K" tvg-logo="https://www.yangfeiyue.cn/tv/中录动漫4K.png" group-title="四川电信",中录动漫4K
+http://182.138.200.20:9080/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-id="1" tvg-name="亲子趣学4K" tvg-logo="https://www.yangfeiyue.cn/tv/亲子趣学4K.png" group-title="四川电信",亲子趣学4K
+http://125.69.146.151:8888/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-id="2" tvg-name="亲子趣学4K" tvg-logo="https://www.yangfeiyue.cn/tv/亲子趣学4K.png" group-title="四川电信",亲子趣学4K
+http://182.138.200.20:9080/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/广西卫视.png" group-title="四川电信",广西卫视
+http://125.69.146.151:8888/rtp/239.93.42.46:5140
+#EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/广西卫视.png" group-title="四川电信",广西卫视
+http://182.138.200.20:9080/rtp/239.93.42.46:5140
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV2" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV2.png" group-title="四川电信",SCTV2
+http://125.69.146.151:8888/rtp/239.93.1.102:5140
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV2" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV2.png" group-title="四川电信",SCTV2
+http://182.138.200.20:9080/rtp/239.93.1.102:5140
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV3" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV3.png" group-title="四川电信",SCTV3
+http://125.69.146.151:8888/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV3" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV3.png" group-title="四川电信",SCTV3
+http://182.138.200.20:9080/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV4" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV4.png" group-title="四川电信",SCTV4
+http://125.69.146.151:8888/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV4" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV4.png" group-title="四川电信",SCTV4
+http://182.138.200.20:9080/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV5" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV5.png" group-title="四川电信",SCTV5
+http://125.69.146.151:8888/rtp/239.93.0.166:5140
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV5" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV5.png" group-title="四川电信",SCTV5
+http://182.138.200.20:9080/rtp/239.93.0.166:5140
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV7" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV7.png" group-title="四川电信",SCTV7
+http://125.69.146.151:8888/rtp/239.93.0.219:5140
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV7" tvg-logo="https://www.yangfeiyue.cn/tv/SCTV7.png" group-title="四川电信",SCTV7
+http://182.138.200.20:9080/rtp/239.93.0.219:5140
+#EXTINF:-1 tvg-id="1" tvg-name="峨眉电影" tvg-logo="https://www.yangfeiyue.cn/tv/峨眉电影.png" group-title="四川电信",峨眉电影
+http://125.69.146.151:8888/rtp/239.93.0.252:5140
+#EXTINF:-1 tvg-id="2" tvg-name="峨眉电影" tvg-logo="https://www.yangfeiyue.cn/tv/峨眉电影.png" group-title="四川电信",峨眉电影
+http://182.138.200.20:9080/rtp/239.93.0.252:5140
+#EXTINF:-1 tvg-id="1" tvg-name="四川科教" tvg-logo="https://www.yangfeiyue.cn/tv/四川科教.png" group-title="四川电信",四川科教
+http://125.69.146.151:8888/rtp/239.93.42.44:5140
+#EXTINF:-1 tvg-id="2" tvg-name="四川科教" tvg-logo="https://www.yangfeiyue.cn/tv/四川科教.png" group-title="四川电信",四川科教
+http://182.138.200.20:9080/rtp/239.93.42.44:5140
+#EXTINF:-1 tvg-id="1" tvg-name="四川乡村" tvg-logo="https://www.yangfeiyue.cn/tv/四川乡村.png" group-title="四川电信",四川乡村
+http://125.69.146.151:8888/rtp/239.93.0.52:5140
+#EXTINF:-1 tvg-id="2" tvg-name="四川乡村" tvg-logo="https://www.yangfeiyue.cn/tv/四川乡村.png" group-title="四川电信",四川乡村
+http://182.138.200.20:9080/rtp/239.93.0.52:5140
+#EXTINF:-1 tvg-id="1" tvg-name="康巴卫视" tvg-logo="https://www.yangfeiyue.cn/tv/康巴卫视.png" group-title="四川电信",康巴卫视
+http://125.69.146.151:8888/rtp/239.93.0.41:5140
+#EXTINF:-1 tvg-id="2" tvg-name="康巴卫视" tvg-logo="https://www.yangfeiyue.cn/tv/康巴卫视.png" group-title="四川电信",康巴卫视
+http://182.138.200.20:9080/rtp/239.93.0.41:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv华语影院" tvg-logo="https://www.yangfeiyue.cn/tv/bestv华语影院.png" group-title="四川电信",bestv华语影院
+http://125.69.146.151:8888/rtp/239.93.0.138:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv华语影院" tvg-logo="https://www.yangfeiyue.cn/tv/bestv华语影院.png" group-title="四川电信",bestv华语影院
+http://182.138.200.20:9080/rtp/239.93.0.138:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv星光院线" tvg-logo="https://www.yangfeiyue.cn/tv/bestv星光院线.png" group-title="四川电信",bestv星光院线
+http://125.69.146.151:8888/rtp/239.93.0.139:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv星光院线" tvg-logo="https://www.yangfeiyue.cn/tv/bestv星光院线.png" group-title="四川电信",bestv星光院线
+http://182.138.200.20:9080/rtp/239.93.0.139:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv全球大片" tvg-logo="https://www.yangfeiyue.cn/tv/bestv全球大片.png" group-title="四川电信",bestv全球大片
+http://125.69.146.151:8888/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv全球大片" tvg-logo="https://www.yangfeiyue.cn/tv/bestv全球大片.png" group-title="四川电信",bestv全球大片
+http://182.138.200.20:9080/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv热门剧场" tvg-logo="https://www.yangfeiyue.cn/tv/bestv热门剧场.png" group-title="四川电信",bestv热门剧场
+http://125.69.146.151:8888/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv热门剧场" tvg-logo="https://www.yangfeiyue.cn/tv/bestv热门剧场.png" group-title="四川电信",bestv热门剧场
+http://182.138.200.20:9080/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv谍战剧场" tvg-logo="https://www.yangfeiyue.cn/tv/bestv谍战剧场.png" group-title="四川电信",bestv谍战剧场
+http://125.69.146.151:8888/rtp/239.93.0.95:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv谍战剧场" tvg-logo="https://www.yangfeiyue.cn/tv/bestv谍战剧场.png" group-title="四川电信",bestv谍战剧场
+http://182.138.200.20:9080/rtp/239.93.0.95:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv宝宝动画" tvg-logo="https://www.yangfeiyue.cn/tv/bestv宝宝动画.png" group-title="四川电信",bestv宝宝动画
+http://125.69.146.151:8888/rtp/239.93.0.147:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv宝宝动画" tvg-logo="https://www.yangfeiyue.cn/tv/bestv宝宝动画.png" group-title="四川电信",bestv宝宝动画
+http://182.138.200.20:9080/rtp/239.93.0.147:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv青春动漫" tvg-logo="https://www.yangfeiyue.cn/tv/bestv青春动漫.png" group-title="四川电信",bestv青春动漫
+http://125.69.146.151:8888/rtp/239.93.0.146:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv青春动漫" tvg-logo="https://www.yangfeiyue.cn/tv/bestv青春动漫.png" group-title="四川电信",bestv青春动漫
+http://182.138.200.20:9080/rtp/239.93.0.146:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv热门综艺" tvg-logo="https://www.yangfeiyue.cn/tv/bestv热门综艺.png" group-title="四川电信",bestv热门综艺
+http://125.69.146.151:8888/rtp/239.93.0.151:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv热门综艺" tvg-logo="https://www.yangfeiyue.cn/tv/bestv热门综艺.png" group-title="四川电信",bestv热门综艺
+http://182.138.200.20:9080/rtp/239.93.0.151:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv戏曲精选" tvg-logo="https://www.yangfeiyue.cn/tv/bestv戏曲精选.png" group-title="四川电信",bestv戏曲精选
+http://125.69.146.151:8888/rtp/239.93.0.144:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv戏曲精选" tvg-logo="https://www.yangfeiyue.cn/tv/bestv戏曲精选.png" group-title="四川电信",bestv戏曲精选
+http://182.138.200.20:9080/rtp/239.93.0.144:5140
+#EXTINF:-1 tvg-id="1" tvg-name="bestv4K测试[5.1环绕声]" tvg-logo="https://www.yangfeiyue.cn/tv/bestv4K测试[5.1环绕声].png" group-title="四川电信",bestv4K测试[5.1环绕声]
+http://125.69.146.151:8888/rtp/239.93.42.75:5140
+#EXTINF:-1 tvg-id="2" tvg-name="bestv4K测试[5.1环绕声]" tvg-logo="https://www.yangfeiyue.cn/tv/bestv4K测试[5.1环绕声].png" group-title="四川电信",bestv4K测试[5.1环绕声]
+http://182.138.200.20:9080/rtp/239.93.42.75:5140
+#EXTINF:-1 tvg-id="1" tvg-name="电竞天堂" tvg-logo="https://www.yangfeiyue.cn/tv/电竞天堂.png" group-title="四川电信",电竞天堂
+http://125.69.146.151:8888/rtp/239.93.1.135:5140
+#EXTINF:-1 tvg-id="2" tvg-name="电竞天堂" tvg-logo="https://www.yangfeiyue.cn/tv/电竞天堂.png" group-title="四川电信",电竞天堂
+http://182.138.200.20:9080/rtp/239.93.1.135:5140
+#EXTINF:-1 tvg-id="1" tvg-name="蓉城先锋" tvg-logo="https://www.yangfeiyue.cn/tv/蓉城先锋.png" group-title="四川电信",蓉城先锋
+http://125.69.146.151:8888/rtp/239.93.0.91:2101
+#EXTINF:-1 tvg-id="2" tvg-name="蓉城先锋" tvg-logo="https://www.yangfeiyue.cn/tv/蓉城先锋.png" group-title="四川电信",蓉城先锋
+http://182.138.200.20:9080/rtp/239.93.0.91:2101
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱怀旧" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱怀旧.png" group-title="四川电信",IHOT爱怀旧
+http://125.69.146.151:8888/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱怀旧" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱怀旧.png" group-title="四川电信",IHOT爱怀旧
+http://182.138.200.20:9080/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱喜剧" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱喜剧.png" group-title="四川电信",IHOT爱喜剧
+http://125.69.146.151:8888/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱喜剧" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱喜剧.png" group-title="四川电信",IHOT爱喜剧
+http://182.138.200.20:9080/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱奇谈" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱奇谈.png" group-title="四川电信",IHOT爱奇谈
+http://125.69.146.151:8888/rtp/239.93.42.22:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱奇谈" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱奇谈.png" group-title="四川电信",IHOT爱奇谈
+http://182.138.200.20:9080/rtp/239.93.42.22:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱科幻" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱科幻.png" group-title="四川电信",IHOT爱科幻
+http://125.69.146.151:8888/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱科幻" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱科幻.png" group-title="四川电信",IHOT爱科幻
+http://182.138.200.20:9080/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱院线" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱院线.png" group-title="四川电信",IHOT爱院线
+http://125.69.146.151:8888/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱院线" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱院线.png" group-title="四川电信",IHOT爱院线
+http://182.138.200.20:9080/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱谍战" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱谍战.png" group-title="四川电信",IHOT爱谍战
+http://125.69.146.151:8888/rtp/239.93.42.14:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱谍战" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱谍战.png" group-title="四川电信",IHOT爱谍战
+http://182.138.200.20:9080/rtp/239.93.42.14:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱经典" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱经典.png" group-title="四川电信",IHOT爱经典
+http://125.69.146.151:8888/rtp/239.93.42.13:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱经典" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱经典.png" group-title="四川电信",IHOT爱经典
+http://182.138.200.20:9080/rtp/239.93.42.13:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱悬疑" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱悬疑.png" group-title="四川电信",IHOT爱悬疑
+http://125.69.146.151:8888/rtp/239.93.42.12:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱悬疑" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱悬疑.png" group-title="四川电信",IHOT爱悬疑
+http://182.138.200.20:9080/rtp/239.93.42.12:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱青春" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱青春.png" group-title="四川电信",IHOT爱青春
+http://125.69.146.151:8888/rtp/239.93.42.16:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱青春" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱青春.png" group-title="四川电信",IHOT爱青春
+http://182.138.200.20:9080/rtp/239.93.42.16:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱都市" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱都市.png" group-title="四川电信",IHOT爱都市
+http://125.69.146.151:8888/rtp/239.93.42.15:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱都市" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱都市.png" group-title="四川电信",IHOT爱都市
+http://182.138.200.20:9080/rtp/239.93.42.15:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱幼教" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱幼教.png" group-title="四川电信",IHOT爱幼教
+http://125.69.146.151:8888/rtp/239.93.42.17:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱幼教" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱幼教.png" group-title="四川电信",IHOT爱幼教
+http://182.138.200.20:9080/rtp/239.93.42.17:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱玩具" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱玩具.png" group-title="四川电信",IHOT爱玩具
+http://125.69.146.151:8888/rtp/239.93.42.18:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱玩具" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱玩具.png" group-title="四川电信",IHOT爱玩具
+http://182.138.200.20:9080/rtp/239.93.42.18:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱动漫" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱动漫.png" group-title="四川电信",IHOT爱动漫
+http://125.69.146.151:8888/rtp/239.93.42.23:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱动漫" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱动漫.png" group-title="四川电信",IHOT爱动漫
+http://182.138.200.20:9080/rtp/239.93.42.23:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱电竞" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱电竞.png" group-title="四川电信",IHOT爱电竞
+http://125.69.146.151:8888/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱电竞" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱电竞.png" group-title="四川电信",IHOT爱电竞
+http://182.138.200.20:9080/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="1" tvg-name="IHOT爱赛车" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱赛车.png" group-title="四川电信",IHOT爱赛车
+http://125.69.146.151:8888/rtp/239.93.42.20:5140
+#EXTINF:-1 tvg-id="2" tvg-name="IHOT爱赛车" tvg-logo="https://www.yangfeiyue.cn/tv/IHOT爱赛车.png" group-title="四川电信",IHOT爱赛车
+http://182.138.200.20:9080/rtp/239.93.42.20:5140
+#EXTINF:-1 tvg-id="1" tvg-name="爱宠宠物" tvg-logo="https://www.yangfeiyue.cn/tv/爱宠宠物.png" group-title="四川电信",爱宠宠物
+http://125.69.146.151:8888/rtp/239.93.42.32:5140
+#EXTINF:-1 tvg-id="2" tvg-name="爱宠宠物" tvg-logo="https://www.yangfeiyue.cn/tv/爱宠宠物.png" group-title="四川电信",爱宠宠物
+http://182.138.200.20:9080/rtp/239.93.42.32:5140
+#EXTINF:-1 tvg-id="1" tvg-name="少儿天地" tvg-logo="https://www.yangfeiyue.cn/tv/少儿天地.png" group-title="四川电信",少儿天地
+http://125.69.146.151:8888/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="2" tvg-name="少儿天地" tvg-logo="https://www.yangfeiyue.cn/tv/少儿天地.png" group-title="四川电信",少儿天地
+http://182.138.200.20:9080/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="1" tvg-name="求索纪录" tvg-logo="https://www.yangfeiyue.cn/tv/求索纪录.png" group-title="四川电信",求索纪录
+http://125.69.146.151:8888/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="2" tvg-name="求索纪录" tvg-logo="https://www.yangfeiyue.cn/tv/求索纪录.png" group-title="四川电信",求索纪录
+http://182.138.200.20:9080/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Entertainment" tvg-logo="https://www.yangfeiyue.cn/tv/ROCK Entertainment.png" group-title="港澳台",ROCK Entertainment
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="龙华电影" tvg-logo="https://www.yangfeiyue.cn/tv/龙华电影.png" group-title="港澳台",龙华电影
+https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="武术台" tvg-logo="https://www.yangfeiyue.cn/tv/武术台.png" group-title="港澳台",武术台
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://www.yangfeiyue.cn/tv/AXN.png" group-title="越南",AXN
+http://42.114.42.162:2052/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://www.yangfeiyue.cn/tv/AXN.png" group-title="越南",AXN
+http://183.80.41.112:9876/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-id="1" tvg-name="HBOHD" tvg-logo="https://www.yangfeiyue.cn/tv/HBOHD.png" group-title="越南",HBOHD
+http://42.114.42.162:2052/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-id="2" tvg-name="HBOHD" tvg-logo="https://www.yangfeiyue.cn/tv/HBOHD.png" group-title="越南",HBOHD
+http://183.80.41.112:9876/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-id="1" tvg-name="OCN" tvg-logo="https://www.yangfeiyue.cn/tv/OCN.png" group-title="韩国",OCN
+http://221.139.211.120:1000/udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCN" tvg-logo="https://www.yangfeiyue.cn/tv/OCN.png" group-title="韩国",OCN
+http:///udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="1" tvg-name="OCNMovies" tvg-logo="https://www.yangfeiyue.cn/tv/OCNMovies.png" group-title="韩国",OCNMovies
+http://221.139.211.120:1000/udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies" tvg-logo="https://www.yangfeiyue.cn/tv/OCNMovies.png" group-title="韩国",OCNMovies
+http:///udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id="1" tvg-name="OCNMovies2" tvg-logo="https://www.yangfeiyue.cn/tv/OCNMovies2.png" group-title="韩国",OCNMovies2
+http://221.139.211.120:1000/udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies2" tvg-logo="https://www.yangfeiyue.cn/tv/OCNMovies2.png" group-title="韩国",OCNMovies2
+http:///udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SCREEN" tvg-logo="https://www.yangfeiyue.cn/tv/SCREEN.png" group-title="韩国",SCREEN
+http://221.139.211.120:1000/udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SCREEN" tvg-logo="https://www.yangfeiyue.cn/tv/SCREEN.png" group-title="韩国",SCREEN
+http:///udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="1" tvg-name="MBC ON" tvg-logo="https://www.yangfeiyue.cn/tv/MBC ON.png" group-title="韩国",MBC ON
+http://221.139.211.120:1000/udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC ON" tvg-logo="https://www.yangfeiyue.cn/tv/MBC ON.png" group-title="韩国",MBC ON
+http:///udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SBS F!L 4K UHD" tvg-logo="https://www.yangfeiyue.cn/tv/SBS F!L 4K UHD.png" group-title="韩国",SBS F!L 4K UHD
+http://221.139.211.120:1000/udp/239.192.81.65:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS F!L 4K UHD" tvg-logo="https://www.yangfeiyue.cn/tv/SBS F!L 4K UHD.png" group-title="韩国",SBS F!L 4K UHD
+http:///udp/239.192.81.65:49220
+#EXTINF:-1 tvg-id="1" tvg-name="MBC" tvg-logo="https://www.yangfeiyue.cn/tv/MBC.png" group-title="韩国",MBC
+http://221.139.211.120:1000/udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC" tvg-logo="https://www.yangfeiyue.cn/tv/MBC.png" group-title="韩国",MBC
+http:///udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://www.yangfeiyue.cn/tv/SBS.png" group-title="韩国",SBS
+http://221.139.211.120:1000/udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS" tvg-logo="https://www.yangfeiyue.cn/tv/SBS.png" group-title="韩国",SBS
+http:///udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="1" tvg-name="KBS1" tvg-logo="https://www.yangfeiyue.cn/tv/KBS1.png" group-title="韩国",KBS1
+http://221.139.211.120:1000/udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS1" tvg-logo="https://www.yangfeiyue.cn/tv/KBS1.png" group-title="韩国",KBS1
+http:///udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="1" tvg-name="KBS2" tvg-logo="https://www.yangfeiyue.cn/tv/KBS2.png" group-title="韩国",KBS2
+http://221.139.211.120:1000/udp/239.192.67.99:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS2" tvg-logo="https://www.yangfeiyue.cn/tv/KBS2.png" group-title="韩国",KBS2
+http:///udp/239.192.67.99:49220
+#EXTINF:-1 tvg-id="1" tvg-name="HBO" tvg-logo="https://www.yangfeiyue.cn/tv/HBO.png" group-title="印度尼西亚",HBO
+http://203.77.246.2:443/rtp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="2" tvg-name="HBO" tvg-logo="https://www.yangfeiyue.cn/tv/HBO.png" group-title="印度尼西亚",HBO
+http://203.77.246.14:443/rtp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="1" tvg-name="HBOSignature" tvg-logo="https://www.yangfeiyue.cn/tv/HBOSignature.png" group-title="印度尼西亚",HBOSignature
+http://203.77.246.2:443/rtp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="2" tvg-name="HBOSignature" tvg-logo="https://www.yangfeiyue.cn/tv/HBOSignature.png" group-title="印度尼西亚",HBOSignature
+http://203.77.246.14:443/rtp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="1" tvg-name="HBOFamily" tvg-logo="https://www.yangfeiyue.cn/tv/HBOFamily.png" group-title="印度尼西亚",HBOFamily
+http://203.77.246.2:443/rtp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="2" tvg-name="HBOFamily" tvg-logo="https://www.yangfeiyue.cn/tv/HBOFamily.png" group-title="印度尼西亚",HBOFamily
+http://203.77.246.14:443/rtp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="1" tvg-name="HBOHits" tvg-logo="https://www.yangfeiyue.cn/tv/HBOHits.png" group-title="印度尼西亚",HBOHits
+http://203.77.246.2:443/rtp/239.1.3.82:5000
+#EXTINF:-1 tvg-id="2" tvg-name="HBOHits" tvg-logo="https://www.yangfeiyue.cn/tv/HBOHits.png" group-title="印度尼西亚",HBOHits
+http://203.77.246.14:443/rtp/239.1.3.82:5000
+#EXTINF:-1 tvg-id="1" tvg-name="天映印度尼西亚" tvg-logo="https://www.yangfeiyue.cn/tv/天映印度尼西亚.png" group-title="印度尼西亚",天映印度尼西亚
+http://203.77.246.2:443/rtp/239.1.2.162:5000
+#EXTINF:-1 tvg-id="2" tvg-name="天映印度尼西亚" tvg-logo="https://www.yangfeiyue.cn/tv/天映印度尼西亚.png" group-title="印度尼西亚",天映印度尼西亚
+http://203.77.246.14:443/rtp/239.1.2.162:5000
+#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://www.yangfeiyue.cn/tv/Thrill.png" group-title="印度尼西亚",Thrill
+http://203.77.246.2:443/rtp/239.1.2.216:5000
+#EXTINF:-1 tvg-id="2" tvg-name="Thrill" tvg-logo="https://www.yangfeiyue.cn/tv/Thrill.png" group-title="印度尼西亚",Thrill
+http://203.77.246.14:443/rtp/239.1.2.216:5000

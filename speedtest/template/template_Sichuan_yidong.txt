@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="国功夫" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png" group-title="本地高清",中国功夫
+http://ipipip/rtp/239.11.0.151:5140
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="本地高清",家庭剧场
+http://ipipip/rtp/239.11.0.131:5140
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://live.fanmingming.com/tv/精品纪录.png" group-title="本地高清",精品纪录
+http://ipipip/rtp/239.11.0.132:5140
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="本地高清",精品体育
+http://ipipip/rtp/239.11.0.134:5140
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/军事评论.png" group-title="本地高清",军事评论
+http://ipipip/rtp/239.11.0.136:5140
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="本地高清",古装剧场
+http://ipipip/rtp/239.11.0.141:5140
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://www.yangfeiyue.cn/tv/动作电影.png" group-title="本地高清",动作电影
+http://ipipip/rtp/239.11.0.142:5140
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="本地高清",惊悚悬疑
+http://ipipip/rtp/239.11.0.144:5140
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://www.yangfeiyue.cn/tv/爱情喜剧.png" " group-title="本地高清",爱情喜剧
+http://ipipip/rtp/239.11.0.149:5140
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="本地高清",精品大剧
+http://ipipip/rtp/239.11.0.150:5140
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/金牌综艺.png" group-title="本地高清",金牌综艺
+http://ipipip/rtp/239.11.0.152:5140

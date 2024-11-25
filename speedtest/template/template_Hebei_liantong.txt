@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="卫视高清",河北影视
+http://ipipip/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="卫视高清",河北经济
+http://ipipip/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://live.fanmingming.com/tv/河北都市.png" group-title="卫视高清",河北都市
+http://ipipip/rtp/239.253.92.172:6002
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="卫视高清",河北少儿科教
+http://ipipip/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://live.fanmingming.com/tv/河北公共.png" group-title="卫视高清",河北公共
+http://ipipip/rtp/239.253.92.175:6005
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://live.fanmingming.com/tv/河北农民.png" group-title="卫视高清",河北农民
+http://ipipip/rtp/239.253.92.176:6006
+#EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png" group-title="卫视高清",石家庄新闻综合
+http://ipipip/rtp/239.253.92.149:6035
+#EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png" group-title="卫视高清",石家庄娱乐
+http://ipipip/rtp/239.253.92.93:8120
+#EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
+http://ipipip/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
+http://ipipip/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
+http://ipipip/rtp/239.253.93.248:6426
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
+http://ipipip/rtp/239.253.93.242:6420
