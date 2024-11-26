@@ -19,8 +19,8 @@ CCTV15
 CCTV16
 CCTV17
 CCTV8K
-CCTV-4欧洲
-CCTV-4美洲
+CCTV4欧洲
+CCTV4美洲
 兵器科技
 第一剧场
 电视指南
