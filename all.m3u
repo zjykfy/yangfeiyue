@@ -1,7 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="直播源均来自网络，仅供学习交流使用，不得商用。" tvg-logo="https://live.yangfeiyue.cn/p/端午节.png" group-title="公告",直播源均来自网络，仅供学习交流使用，不得商用。
 https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期None" tvg-logo="https://live.yangfeiyue.cn/p/端午节1.png" group-title="公告",更新日期None
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live.yangfeiyue.cn/p/端午节.png" group-title="公告",更新日期
+https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
+#EXTINF:-1 tvg-id="1" tvg-name="2024-11-26" tvg-logo="https://live.yangfeiyue.cn/p/端午节1.png" group-title="公告",2024-11-26
 https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.yangfeiyue.cn/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://61.173.52.190:4022/rtp/239.45.3.145:5140
