@@ -83,7 +83,7 @@ case $city_choice in
         channel_key="广东"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangdong" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Guangdong_dianxin.txt"$url_fofa
+        url_fofa="https://raw.githubusercontent.com/zjykfy/ceshi/refs/heads/main/speedtest/ip/Guangdong_dianxin.onlygood.ip"$url_fofa
         ;;
     6)
         city="Jiangsu_dianxin"
