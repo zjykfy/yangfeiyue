@@ -53,7 +53,8 @@ announcements = [
         "channel": "公告",
         "entries": [
             {"name": "直播源均来自网络，仅供学习交流使用，不得商用。", "url": "https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.cn/p/端午节.png"},
-            {"name":None,"更新日期" ， "url": "https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.cn/p/端午节1.png"},
+            {"name": "更新日期", "url": "https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.cn/p/端午节.png"},
+            {"name": None, "url": "https://live.yangfeiyue.cn/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.cn/p/端午节1.png"},
   ]
     }
 ]
