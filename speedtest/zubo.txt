@@ -1,41 +1,29 @@
-重庆,#genre#
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.71.189:8004/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.71.189:8004/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.71.189:8004/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.71.189:8004/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.71.189:8004/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.71.189:8004/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.71.189:8004/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.71.189:8004/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.71.189:8004/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/重庆汽摩.png" group-title="卫视高清",重庆汽摩
-http://123.145.71.189:8004/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.29.206:8005/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.29.206:8005/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.29.206:8005/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.29.206:8005/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.29.206:8005/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.29.206:8005/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.29.206:8005/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.29.206:8005/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.29.206:8005/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/重庆汽摩.png" group-title="卫视高清",重庆汽摩
-http://123.145.29.206:8005/rtp/225.0.4.195:7980
+江西,#genre#
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.252.222:6565/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.252.222:6565/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.252.222:6565/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.252.222:6565/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.252.222:6565/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.252.222:6565/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
+http://59.55.252.222:6565/rtp/239.252.220.241:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http:///rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http:///rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http:///rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http:///rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http:///rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http:///rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
+http:///rtp/239.252.220.241:5140
