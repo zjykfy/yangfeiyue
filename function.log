@@ -1,44 +1,44 @@
-2024-11-27 17:24:04,062 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:04,062 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2024-11-27 17:24:04,474 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:04,475 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:04,865 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:04,865 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
-2024-11-27 17:24:05,257 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:05,258 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
-2024-11-27 17:24:05,717 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:05,717 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:06,100 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:06,100 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
-2024-11-27 17:24:06,467 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:06,467 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:06,846 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:06,846 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:07,267 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:07,267 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:07,666 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:07,666 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt 爬取成功✅，包含频道分类: 本地高清
-2024-11-27 17:24:08,079 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:08,079 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
-2024-11-27 17:24:08,468 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:08,468 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:08,903 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:08,903 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:09,279 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:09,280 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:09,668 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:09,668 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:10,052 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:10,052 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:10,507 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:10,508 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:10,890 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:10,890 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-11-27 17:24:11,290 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Yuenan_FPT.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:11,291 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Yuenan_FPT.txt 爬取成功✅，包含频道分类: 卫视频道, 港澳台
-2024-11-27 17:24:11,526 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/GAT.m3u 获取成功，判断为txt格式
-2024-11-27 17:24:11,527 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
-2024-11-27 17:24:11,763 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/NEWTV.m3u 获取成功，判断为txt格式
-2024-11-27 17:24:11,763 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
-2024-11-27 17:24:11,953 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/Liaoning_liantong.txt 获取成功，判断为m3u格式
-2024-11-27 17:24:11,954 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2024-11-27 19:42:00,851 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:00,851 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2024-11-27 19:42:01,297 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:01,298 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:01,767 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:01,768 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
+2024-11-27 19:42:02,243 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:02,243 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
+2024-11-27 19:42:02,665 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:02,666 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:03,181 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:03,181 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
+2024-11-27 19:42:03,617 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:03,617 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:04,044 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:04,044 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:04,502 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:04,502 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:05,075 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:05,075 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt 爬取成功✅，包含频道分类: 本地高清
+2024-11-27 19:42:05,519 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:05,519 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
+2024-11-27 19:42:05,987 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:05,988 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:06,459 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:06,459 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:06,934 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:06,934 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:07,402 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:07,402 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:07,875 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:07,876 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:08,363 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:08,363 - INFO - url: https://github.com/zjykfy/caiji/raw/main/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:08,830 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:08,830 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-11-27 19:42:09,343 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Yuenan_FPT.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:09,343 - INFO - url: https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Yuenan_FPT.txt 爬取成功✅，包含频道分类: 卫视频道, 港澳台
+2024-11-27 19:42:09,572 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/GAT.m3u 获取成功，判断为txt格式
+2024-11-27 19:42:09,573 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
+2024-11-27 19:42:09,826 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/NEWTV.m3u 获取成功，判断为txt格式
+2024-11-27 19:42:09,827 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
+2024-11-27 19:42:10,115 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/Liaoning_liantong.txt 获取成功，判断为m3u格式
+2024-11-27 19:42:10,116 - INFO - url: https://raw.githubusercontent.com/zjykfy/fo/refs/heads/fei/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
