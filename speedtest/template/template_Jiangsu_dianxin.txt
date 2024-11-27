@@ -12,3 +12,5 @@ http://ipipip/rtp/239.49.8.120:8000
 http://ipipip/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
 http://ipipip/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://ipipip/rtp/239.49.0.209:8000
