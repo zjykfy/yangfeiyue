@@ -1,20 +1,41 @@
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://www.yangfeiyue.cn/tv/TVB星河.png" group-title="卫视高清",TVB星河
-http://ipipip/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.yangfeiyue.cn/tv/天映经典.png" group-title="卫视高清",天映经典
-http://ipipip/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCMovies.png" group-title="卫视高清",东森电影
-http://ipipip/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-id="LSTIME电影台" tvg-name="LSTIME电影台" tvg-logo="https://live.fanmingming.com/tv/LSTIME.png" group-title="卫视高清",LSTIME电影台
-http://ipipip/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="卫视高清",星空卫视
-http://ipipip/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" tvg-logo="https://live.fanmingming.com/tv/中国电影.png" group-title="卫视高清",中国电影
-http://ipipip/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-id="私人影院" tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png" group-title="卫视高清",私人影院
-http://ipipip/tsfile/live/1014_1.m3u8
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://live.fanmingming.com/tv/EBCWesternMovies.png" group-title="卫视高清",东森洋片
-http://ipipip/tsfile/live/1016_1.m3u8
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/EBCSuper.png" group-title="卫视高清",东森超视
-http://ipipip/tsfile/live/1023_1.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视高清",凤凰资讯
-http://ipipip/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.yangfeiyue.cn/tv/广西影视.png" group-title="卫视高清",广西影视
+http://ipipip/rtp/239.81.0.250:4056
+#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://www.yangfeiyue.cn/tv/广西综艺旅游.png" group-title="卫视高清",广西综艺旅游
+http://ipipip/rtp/239.81.0.214:4056
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://www.yangfeiyue.cn/tv/广西新闻.png" group-title="卫视高清",广西新闻
+http://ipipip/rtp/239.81.0.248:4056
+#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://www.yangfeiyue.cn/tv/广西都市.png" group-title="卫视高清",广西都市
+http://ipipip/rtp/239.81.0.247:4056
+#EXTINF:-1 tvg-id="北海新闻综合" tvg-name="北海新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/北海新闻综合.png" group-title="卫视高清",北海新闻综合
+http://ipipip/rtp/239.81.0.154:4056
+#EXTINF:-1 tvg-id="百色综合" tvg-name="百色综合" tvg-logo="https://www.yangfeiyue.cn/tv/百色综合.png" group-title="卫视高清",百色综合
+http://ipipip/rtp/239.81.0.150:4056
+#EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/玉林新闻综合.png" group-title="卫视高清",玉林新闻综合
+http://ipipip/rtp/239.81.0.177:4056
+#EXTINF:-1 tvg-id="防城港新闻综合" tvg-name="防城港新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/防城港新闻综合.png" group-title="卫视高清",防城港新闻综合
+http://ipipip/rtp/239.81.0.151:4056
+#EXTINF:-1 tvg-id="梧州新闻综合" tvg-name="梧州新闻综合" tvg-logo="https://live.fanmingming.com/tv/梧州新闻综合.png" group-title="卫视高清",梧州新闻综合
+http://ipipip/rtp/239.81.0.176:4056
+#EXTINF:-1 tvg-id="钦州综合" tvg-name="钦州综合" tvg-logo="https://live.fanmingming.com/tv/钦州综合.png" group-title="卫视高清",钦州综合
+http://ipipip/rtp/239.81.0.164:4056
+#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="https://live.fanmingming.com/tv/南宁影视娱乐.png" group-title="卫视高清",南宁影视娱乐
+http://ipipip/rtp/239.81.0.140:4056
+#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="https://live.fanmingming.com/tv/南宁新闻综合.png" group-title="卫视高清",南宁新闻综合
+http://ipipip/rtp/239.81.0.241:4056
+#EXTINF:-1 tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://live.fanmingming.com/tv/南宁公共.png" group-title="卫视高清",南宁公共
+http://ipipip/rtp/239.81.0.141:4056
+#EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="卫视高清",南宁文旅生活
+http://ipipip/rtp/239.81.0.139:4056
+#EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://live.fanmingming.com/tv/柳州新闻综合.png" group-title="卫视高清",柳州新闻综合
+http://ipipip/239.81.0.175:4056
+#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合" tvg-logo="https://live.fanmingming.com/tv/来宾综合.png" group-title="卫视高清",来宾综合
+http://ipipip/rtp/239.81.0.173:4056
+#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://live.fanmingming.com/tv/贺州综合.png" group-title="卫视高清",贺州综合
+http://ipipip/rtp/239.81.0.163:4056
+#EXTINF:-1 tvg-id="河池新闻综合" tvg-name="河池新闻综合" tvg-logo="https://live.fanmingming.com/tv/河池新闻综合.png" group-title="卫视高清",河池新闻综合
+http://ipipip/rtp/239.81.0.168:4056
+#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="https://live.fanmingming.com/tv/桂林新闻综合.png" group-title="卫视高清",桂林新闻综合
+http://ipipip/rtp/239.81.0.174:4056
+#EXTINF:-1 tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" tvg-logo="https://live.fanmingming.com/tv/贵港新闻综合.png" group-title="卫视高清",贵港新闻综合
+http://ipipip/rtp/239.81.0.172:4056
+
