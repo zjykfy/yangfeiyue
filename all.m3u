@@ -1209,6 +1209,86 @@ http://171.121.81.242:8082/rtp/226.0.1.84:2002
 http://60.223.72.95:8001/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="2" tvg-name="早期教育" tvg-logo="https://live.yangfeiyue.cn/tv/早期教育.png" group-title="山西联通",早期教育
 http://171.121.81.242:8082/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="1" tvg-name="广西影视" tvg-logo="https://live.yangfeiyue.cn/tv/广西影视.png" group-title="广西电信",广西影视
+http://58.59.239.112:8086/rtp/239.81.0.250:4056
+#EXTINF:-1 tvg-id="2" tvg-name="广西影视" tvg-logo="https://live.yangfeiyue.cn/tv/广西影视.png" group-title="广西电信",广西影视
+http://171.105.180.74:4022/rtp/239.81.0.250:4056
+#EXTINF:-1 tvg-id="1" tvg-name="广西综艺旅游" tvg-logo="https://live.yangfeiyue.cn/tv/广西综艺旅游.png" group-title="广西电信",广西综艺旅游
+http://58.59.239.112:8086/rtp/239.81.0.214:4056
+#EXTINF:-1 tvg-id="2" tvg-name="广西综艺旅游" tvg-logo="https://live.yangfeiyue.cn/tv/广西综艺旅游.png" group-title="广西电信",广西综艺旅游
+http://171.105.180.74:4022/rtp/239.81.0.214:4056
+#EXTINF:-1 tvg-id="1" tvg-name="广西新闻" tvg-logo="https://live.yangfeiyue.cn/tv/广西新闻.png" group-title="广西电信",广西新闻
+http://58.59.239.112:8086/rtp/239.81.0.248:4056
+#EXTINF:-1 tvg-id="2" tvg-name="广西新闻" tvg-logo="https://live.yangfeiyue.cn/tv/广西新闻.png" group-title="广西电信",广西新闻
+http://171.105.180.74:4022/rtp/239.81.0.248:4056
+#EXTINF:-1 tvg-id="1" tvg-name="广西都市" tvg-logo="https://live.yangfeiyue.cn/tv/广西都市.png" group-title="广西电信",广西都市
+http://58.59.239.112:8086/rtp/239.81.0.247:4056
+#EXTINF:-1 tvg-id="2" tvg-name="广西都市" tvg-logo="https://live.yangfeiyue.cn/tv/广西都市.png" group-title="广西电信",广西都市
+http://171.105.180.74:4022/rtp/239.81.0.247:4056
+#EXTINF:-1 tvg-id="1" tvg-name="北海新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/北海新闻综合.png" group-title="广西电信",北海新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.154:4056
+#EXTINF:-1 tvg-id="2" tvg-name="北海新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/北海新闻综合.png" group-title="广西电信",北海新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.154:4056
+#EXTINF:-1 tvg-id="1" tvg-name="百色综合" tvg-logo="https://live.yangfeiyue.cn/tv/百色综合.png" group-title="广西电信",百色综合
+http://58.59.239.112:8086/rtp/239.81.0.150:4056
+#EXTINF:-1 tvg-id="2" tvg-name="百色综合" tvg-logo="https://live.yangfeiyue.cn/tv/百色综合.png" group-title="广西电信",百色综合
+http://171.105.180.74:4022/rtp/239.81.0.150:4056
+#EXTINF:-1 tvg-id="1" tvg-name="玉林新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/玉林新闻综合.png" group-title="广西电信",玉林新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.177:4056
+#EXTINF:-1 tvg-id="2" tvg-name="玉林新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/玉林新闻综合.png" group-title="广西电信",玉林新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.177:4056
+#EXTINF:-1 tvg-id="1" tvg-name="防城港新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/防城港新闻综合.png" group-title="广西电信",防城港新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.151:4056
+#EXTINF:-1 tvg-id="2" tvg-name="防城港新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/防城港新闻综合.png" group-title="广西电信",防城港新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.151:4056
+#EXTINF:-1 tvg-id="1" tvg-name="梧州新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/梧州新闻综合.png" group-title="广西电信",梧州新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.176:4056
+#EXTINF:-1 tvg-id="2" tvg-name="梧州新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/梧州新闻综合.png" group-title="广西电信",梧州新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.176:4056
+#EXTINF:-1 tvg-id="1" tvg-name="钦州综合" tvg-logo="https://live.yangfeiyue.cn/tv/钦州综合.png" group-title="广西电信",钦州综合
+http://58.59.239.112:8086/rtp/239.81.0.164:4056
+#EXTINF:-1 tvg-id="2" tvg-name="钦州综合" tvg-logo="https://live.yangfeiyue.cn/tv/钦州综合.png" group-title="广西电信",钦州综合
+http://171.105.180.74:4022/rtp/239.81.0.164:4056
+#EXTINF:-1 tvg-id="1" tvg-name="南宁影视娱乐" tvg-logo="https://live.yangfeiyue.cn/tv/南宁影视娱乐.png" group-title="广西电信",南宁影视娱乐
+http://58.59.239.112:8086/rtp/239.81.0.140:4056
+#EXTINF:-1 tvg-id="2" tvg-name="南宁影视娱乐" tvg-logo="https://live.yangfeiyue.cn/tv/南宁影视娱乐.png" group-title="广西电信",南宁影视娱乐
+http://171.105.180.74:4022/rtp/239.81.0.140:4056
+#EXTINF:-1 tvg-id="1" tvg-name="南宁新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/南宁新闻综合.png" group-title="广西电信",南宁新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.241:4056
+#EXTINF:-1 tvg-id="2" tvg-name="南宁新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/南宁新闻综合.png" group-title="广西电信",南宁新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.241:4056
+#EXTINF:-1 tvg-id="1" tvg-name="南宁公共" tvg-logo="https://live.yangfeiyue.cn/tv/南宁公共.png" group-title="广西电信",南宁公共
+http://58.59.239.112:8086/rtp/239.81.0.141:4056
+#EXTINF:-1 tvg-id="2" tvg-name="南宁公共" tvg-logo="https://live.yangfeiyue.cn/tv/南宁公共.png" group-title="广西电信",南宁公共
+http://171.105.180.74:4022/rtp/239.81.0.141:4056
+#EXTINF:-1 tvg-id="1" tvg-name="南宁文旅生活" tvg-logo="https://live.yangfeiyue.cn/tv/南宁文旅生活.png" group-title="广西电信",南宁文旅生活
+http://58.59.239.112:8086/rtp/239.81.0.139:4056
+#EXTINF:-1 tvg-id="2" tvg-name="南宁文旅生活" tvg-logo="https://live.yangfeiyue.cn/tv/南宁文旅生活.png" group-title="广西电信",南宁文旅生活
+http://171.105.180.74:4022/rtp/239.81.0.139:4056
+#EXTINF:-1 tvg-id="1" tvg-name="柳州新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/柳州新闻综合.png" group-title="广西电信",柳州新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.175:4056
+#EXTINF:-1 tvg-id="2" tvg-name="柳州新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/柳州新闻综合.png" group-title="广西电信",柳州新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.175:4056
+#EXTINF:-1 tvg-id="1" tvg-name="来宾综合" tvg-logo="https://live.yangfeiyue.cn/tv/来宾综合.png" group-title="广西电信",来宾综合
+http://58.59.239.112:8086/rtp/239.81.0.173:4056
+#EXTINF:-1 tvg-id="2" tvg-name="来宾综合" tvg-logo="https://live.yangfeiyue.cn/tv/来宾综合.png" group-title="广西电信",来宾综合
+http://171.105.180.74:4022/rtp/239.81.0.173:4056
+#EXTINF:-1 tvg-id="1" tvg-name="贺州综合" tvg-logo="https://live.yangfeiyue.cn/tv/贺州综合.png" group-title="广西电信",贺州综合
+http://58.59.239.112:8086/rtp/239.81.0.163:4056
+#EXTINF:-1 tvg-id="2" tvg-name="贺州综合" tvg-logo="https://live.yangfeiyue.cn/tv/贺州综合.png" group-title="广西电信",贺州综合
+http://171.105.180.74:4022/rtp/239.81.0.163:4056
+#EXTINF:-1 tvg-id="1" tvg-name="河池新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/河池新闻综合.png" group-title="广西电信",河池新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.168:4056
+#EXTINF:-1 tvg-id="2" tvg-name="河池新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/河池新闻综合.png" group-title="广西电信",河池新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.168:4056
+#EXTINF:-1 tvg-id="1" tvg-name="桂林新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/桂林新闻综合.png" group-title="广西电信",桂林新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.174:4056
+#EXTINF:-1 tvg-id="2" tvg-name="桂林新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/桂林新闻综合.png" group-title="广西电信",桂林新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.174:4056
+#EXTINF:-1 tvg-id="1" tvg-name="贵港新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/贵港新闻综合.png" group-title="广西电信",贵港新闻综合
+http://58.59.239.112:8086/rtp/239.81.0.172:4056
+#EXTINF:-1 tvg-id="2" tvg-name="贵港新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/贵港新闻综合.png" group-title="广西电信",贵港新闻综合
+http://171.105.180.74:4022/rtp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="1" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.cn/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
 http://59.55.252.222:6565/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.cn/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
