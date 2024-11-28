@@ -16,5 +16,5 @@ http://ipipip/rtp/225.0.4.196:7980
 http://ipipip/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
 http://ipipip/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/重庆汽摩.png" group-title="卫视高清",重庆汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://ipipip/rtp/225.0.4.195:7980
