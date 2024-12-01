@@ -1441,6 +1441,10 @@ http://110.85.29.113:4022/rtp/239.61.5.95:1025
 http://117.29.232.228:9999/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="2" tvg-name="海峡卫视" tvg-logo="https://live.yangfeiyue.cn/tv/海峡卫视.png" group-title="福建电信",海峡卫视
 http://110.85.29.113:4022/rtp/239.61.5.45:1025
+#EXTINF:-1 tvg-id="1" tvg-name="超级电影" tvg-logo="https://live.yangfeiyue.cn/tv/超级电影.png" group-title="四川移动",超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="明星大片" tvg-logo="https://live.yangfeiyue.cn/tv/明星大片.png" group-title="四川移动",明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国功夫" tvg-logo="https://live.yangfeiyue.cn/tv/中国功夫.png" group-title="四川移动",中国功夫
 http:///rtp/239.11.0.151:5140
 #EXTINF:-1 tvg-id="2" tvg-name="中国功夫" tvg-logo="https://live.yangfeiyue.cn/tv/中国功夫.png" group-title="四川移动",中国功夫
