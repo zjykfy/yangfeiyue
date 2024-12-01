@@ -13,7 +13,7 @@ source_urls = [
     #"https://github.com/zjykfy/cai/raw/main/speedtest/txt/Liaoning_liantong.txt",
     "https://github.com/zjykfy/cai/raw/main/speedtest/txt/Guangxi_dianxin.txt",
     "https://github.com/zjykfy/cai/raw/main/speedtest/txt/Fujian_dianxin.txt",
-    "https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt",
+    #"https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_yidong.txt",
     "https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Sichuan_dianxin.txt",
     "https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Jiangsu_dianxin.txt",
     "https://github.com/zjykfy/yangfeiyue/raw/main/speedtest/txt/Anhui_dianxin.txt",
