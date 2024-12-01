@@ -1441,59 +1441,37 @@ http://110.85.29.113:4022/rtp/239.61.5.95:1025
 http://117.29.232.228:9999/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="2" tvg-name="海峡卫视" tvg-logo="https://live.yangfeiyue.cn/tv/海峡卫视.png" group-title="福建电信",海峡卫视
 http://110.85.29.113:4022/rtp/239.61.5.45:1025
-#EXTINF:-1 tvg-id="1" tvg-name="超级电影" tvg-logo="https://live.yangfeiyue.cn/tv/超级电影.png" group-title="四川移动",超级电影
+#EXTINF:-1 tvg-id="1" tvg-name="超级电影" tvg-logo="https://live.yangfeiyue.cn/tv/超级电影.png" group-title="NEWTV",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="明星大片" tvg-logo="https://live.yangfeiyue.cn/tv/明星大片.png" group-title="四川移动",明星大片
+#EXTINF:-1 tvg-id="1" tvg-name="明星大片" tvg-logo="https://live.yangfeiyue.cn/tv/明星大片.png" group-title="NEWTV",明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="中国功夫" tvg-logo="https://live.yangfeiyue.cn/tv/中国功夫.png" group-title="四川移动",中国功夫
-http:///rtp/239.11.0.151:5140
-#EXTINF:-1 tvg-id="2" tvg-name="中国功夫" tvg-logo="https://live.yangfeiyue.cn/tv/中国功夫.png" group-title="四川移动",中国功夫
+#EXTINF:-1 tvg-id="1" tvg-name="中国功夫" tvg-logo="https://live.yangfeiyue.cn/tv/中国功夫.png" group-title="NEWTV",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="家庭剧场" tvg-logo="https://live.yangfeiyue.cn/tv/家庭剧场.png" group-title="四川移动",家庭剧场
-http:///rtp/239.11.0.131:5140
-#EXTINF:-1 tvg-id="2" tvg-name="家庭剧场" tvg-logo="https://live.yangfeiyue.cn/tv/家庭剧场.png" group-title="四川移动",家庭剧场
+#EXTINF:-1 tvg-id="1" tvg-name="家庭剧场" tvg-logo="https://live.yangfeiyue.cn/tv/家庭剧场.png" group-title="NEWTV",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="精品纪录" tvg-logo="https://live.yangfeiyue.cn/tv/精品纪录.png" group-title="四川移动",精品纪录
-http:///rtp/239.11.0.132:5140
-#EXTINF:-1 tvg-id="2" tvg-name="精品纪录" tvg-logo="https://live.yangfeiyue.cn/tv/精品纪录.png" group-title="四川移动",精品纪录
+#EXTINF:-1 tvg-id="1" tvg-name="精品纪录" tvg-logo="https://live.yangfeiyue.cn/tv/精品纪录.png" group-title="NEWTV",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="精品体育" tvg-logo="https://live.yangfeiyue.cn/tv/精品体育.png" group-title="四川移动",精品体育
-http:///rtp/239.11.0.134:5140
-#EXTINF:-1 tvg-id="2" tvg-name="精品体育" tvg-logo="https://live.yangfeiyue.cn/tv/精品体育.png" group-title="四川移动",精品体育
+#EXTINF:-1 tvg-id="1" tvg-name="精品体育" tvg-logo="https://live.yangfeiyue.cn/tv/精品体育.png" group-title="NEWTV",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="军事评论" tvg-logo="https://live.yangfeiyue.cn/tv/军事评论.png" group-title="四川移动",军事评论
-http:///rtp/239.11.0.136:5140
-#EXTINF:-1 tvg-id="2" tvg-name="军事评论" tvg-logo="https://live.yangfeiyue.cn/tv/军事评论.png" group-title="四川移动",军事评论
+#EXTINF:-1 tvg-id="1" tvg-name="军事评论" tvg-logo="https://live.yangfeiyue.cn/tv/军事评论.png" group-title="NEWTV",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="古装剧场" tvg-logo="https://live.yangfeiyue.cn/tv/古装剧场.png" group-title="四川移动",古装剧场
-http:///rtp/239.11.0.141:5140
-#EXTINF:-1 tvg-id="2" tvg-name="古装剧场" tvg-logo="https://live.yangfeiyue.cn/tv/古装剧场.png" group-title="四川移动",古装剧场
+#EXTINF:-1 tvg-id="1" tvg-name="古装剧场" tvg-logo="https://live.yangfeiyue.cn/tv/古装剧场.png" group-title="NEWTV",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="动作电影" tvg-logo="https://live.yangfeiyue.cn/tv/动作电影.png" group-title="四川移动",动作电影
-http:///rtp/239.11.0.142:5140
-#EXTINF:-1 tvg-id="2" tvg-name="动作电影" tvg-logo="https://live.yangfeiyue.cn/tv/动作电影.png" group-title="四川移动",动作电影
+#EXTINF:-1 tvg-id="1" tvg-name="动作电影" tvg-logo="https://live.yangfeiyue.cn/tv/动作电影.png" group-title="NEWTV",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="惊悚悬疑" tvg-logo="https://live.yangfeiyue.cn/tv/惊悚悬疑.png" group-title="四川移动",惊悚悬疑
-http:///rtp/239.11.0.144:5140
-#EXTINF:-1 tvg-id="2" tvg-name="惊悚悬疑" tvg-logo="https://live.yangfeiyue.cn/tv/惊悚悬疑.png" group-title="四川移动",惊悚悬疑
+#EXTINF:-1 tvg-id="1" tvg-name="惊悚悬疑" tvg-logo="https://live.yangfeiyue.cn/tv/惊悚悬疑.png" group-title="NEWTV",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="爱情喜剧" tvg-logo="https://live.yangfeiyue.cn/tv/爱情喜剧.png" group-title="四川移动",爱情喜剧
-http:///rtp/239.11.0.149:5140
-#EXTINF:-1 tvg-id="2" tvg-name="爱情喜剧" tvg-logo="https://live.yangfeiyue.cn/tv/爱情喜剧.png" group-title="四川移动",爱情喜剧
+#EXTINF:-1 tvg-id="1" tvg-name="爱情喜剧" tvg-logo="https://live.yangfeiyue.cn/tv/爱情喜剧.png" group-title="NEWTV",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="精品大剧" tvg-logo="https://live.yangfeiyue.cn/tv/精品大剧.png" group-title="四川移动",精品大剧
-http:///rtp/239.11.0.150:5140
-#EXTINF:-1 tvg-id="2" tvg-name="精品大剧" tvg-logo="https://live.yangfeiyue.cn/tv/精品大剧.png" group-title="四川移动",精品大剧
+#EXTINF:-1 tvg-id="1" tvg-name="精品大剧" tvg-logo="https://live.yangfeiyue.cn/tv/精品大剧.png" group-title="NEWTV",精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="金牌综艺" tvg-logo="https://live.yangfeiyue.cn/tv/金牌综艺.png" group-title="四川移动",金牌综艺
-http:///rtp/239.11.0.152:5140
-#EXTINF:-1 tvg-id="2" tvg-name="金牌综艺" tvg-logo="https://live.yangfeiyue.cn/tv/金牌综艺.png" group-title="四川移动",金牌综艺
+#EXTINF:-1 tvg-id="1" tvg-name="金牌综艺" tvg-logo="https://live.yangfeiyue.cn/tv/金牌综艺.png" group-title="NEWTV",金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://live.yangfeiyue.cn/tv/黑莓电影.png" group-title="四川移动",黑莓电影
+#EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://live.yangfeiyue.cn/tv/黑莓电影.png" group-title="NEWTV",黑莓电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="https://live.yangfeiyue.cn/tv/黑莓动画.png" group-title="四川移动",黑莓动画
+#EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="https://live.yangfeiyue.cn/tv/黑莓动画.png" group-title="NEWTV",黑莓动画
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://live.yangfeiyue.cn/tv/哒啵赛事.png" group-title="四川移动",哒啵赛事
+#EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://live.yangfeiyue.cn/tv/哒啵赛事.png" group-title="NEWTV",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="绚影4K" tvg-logo="https://live.yangfeiyue.cn/tv/绚影4K.png" group-title="四川电信",绚影4K
 http://110.185.10.194:6666/rtp/239.93.42.33:5140
