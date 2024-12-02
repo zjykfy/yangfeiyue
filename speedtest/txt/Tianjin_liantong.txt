@@ -16,7 +16,8 @@ http://221.198.177.123:8888/rtp/225.1.1.128:5002
 http://221.198.177.123:8888/rtp/225.1.1.129:5002
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://www.yangfeiyue.cn/tv/精彩影视.png" group-title="卫视频道",精彩影视
 http://221.198.177.123:8888/rtp/225.1.1.141:5002
-
+#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://www.yangfeiyue.cn/tv/蓟州.png" group-title="卫视频道",蓟州
+http://221.198.177.123:8888/rtp/225.1.1.82:5002
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
 http://111.167.191.233:4022/rtp/225.1.2.167:5002
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南梨园
@@ -35,4 +36,5 @@ http://111.167.191.233:4022/rtp/225.1.1.128:5002
 http://111.167.191.233:4022/rtp/225.1.1.129:5002
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://www.yangfeiyue.cn/tv/精彩影视.png" group-title="卫视频道",精彩影视
 http://111.167.191.233:4022/rtp/225.1.1.141:5002
-
+#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://www.yangfeiyue.cn/tv/蓟州.png" group-title="卫视频道",蓟州
+http://111.167.191.233:4022/rtp/225.1.1.82:5002
