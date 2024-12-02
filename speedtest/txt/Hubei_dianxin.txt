@@ -1,52 +1,52 @@
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://58.52.154.199:9999/rtp/239.69.1.204:10866
+http://119.98.39.85:4022/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://www.yangfeiyue.cn/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://58.52.154.199:9999/rtp/239.69.1.40:9880
+http://119.98.39.85:4022/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://58.52.154.199:9999/rtp/239.69.1.41:9886
+http://119.98.39.85:4022/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://www.yangfeiyue.cn/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://58.52.154.199:9999/rtp/239.69.1.42:9892
+http://119.98.39.85:4022/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://www.yangfeiyue.cn/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://58.52.154.199:9999/rtp/239.69.1.205:10872
+http://119.98.39.85:4022/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://www.yangfeiyue.cn/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://58.52.154.199:9999/rtp/239.69.1.206:10878
+http://119.98.39.85:4022/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://58.52.154.199:9999/rtp/239.69.1.145:10506
+http://119.98.39.85:4022/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://58.52.154.199:9999/rtp/239.69.1.146:10512
+http://119.98.39.85:4022/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://www.yangfeiyue.cn/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://58.52.154.199:9999/rtp/239.69.1.251:11148
+http://119.98.39.85:4022/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://www.yangfeiyue.cn/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://58.52.154.199:9999/rtp/239.69.1.147:10518
+http://119.98.39.85:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://www.yangfeiyue.cn/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://58.52.154.199:9999/rtp/239.69.1.36:9856
+http://119.98.39.85:4022/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://www.yangfeiyue.cn/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://58.52.154.199:9999/rtp/239.69.1.60:9994
+http://119.98.39.85:4022/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://www.yangfeiyue.cn/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://58.52.154.199:9999/rtp/239.69.1.43:9898
+http://119.98.39.85:4022/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://59.172.144.73:1234/rtp/239.69.1.204:10866
+http://27.28.192.97:4022/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://www.yangfeiyue.cn/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://59.172.144.73:1234/rtp/239.69.1.40:9880
+http://27.28.192.97:4022/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://www.yangfeiyue.cn/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://59.172.144.73:1234/rtp/239.69.1.41:9886
+http://27.28.192.97:4022/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://www.yangfeiyue.cn/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://59.172.144.73:1234/rtp/239.69.1.42:9892
+http://27.28.192.97:4022/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://www.yangfeiyue.cn/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://59.172.144.73:1234/rtp/239.69.1.205:10872
+http://27.28.192.97:4022/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://www.yangfeiyue.cn/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://59.172.144.73:1234/rtp/239.69.1.206:10878
+http://27.28.192.97:4022/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://59.172.144.73:1234/rtp/239.69.1.145:10506
+http://27.28.192.97:4022/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://59.172.144.73:1234/rtp/239.69.1.146:10512
+http://27.28.192.97:4022/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://www.yangfeiyue.cn/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://59.172.144.73:1234/rtp/239.69.1.251:11148
+http://27.28.192.97:4022/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://www.yangfeiyue.cn/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://59.172.144.73:1234/rtp/239.69.1.147:10518
+http://27.28.192.97:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://www.yangfeiyue.cn/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://59.172.144.73:1234/rtp/239.69.1.36:9856
+http://27.28.192.97:4022/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://www.yangfeiyue.cn/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://59.172.144.73:1234/rtp/239.69.1.60:9994
+http://27.28.192.97:4022/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://www.yangfeiyue.cn/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://59.172.144.73:1234/rtp/239.69.1.43:9898
+http://27.28.192.97:4022/rtp/239.69.1.43:9898
