@@ -16,4 +16,5 @@ http://ipipip/rtp/225.1.1.128:5002
 http://ipipip/rtp/225.1.1.129:5002
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://www.yangfeiyue.cn/tv/精彩影视.png" group-title="卫视频道",精彩影视
 http://ipipip/rtp/225.1.1.141:5002
-
+#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://www.yangfeiyue.cn/tv/蓟州.png" group-title="卫视频道",蓟州
+http://ipipip/rtp/225.1.1.82:5002
