@@ -621,6 +621,10 @@ http://111.167.191.233:4022/rtp/225.1.1.128:5002
 http://221.198.177.123:8888/rtp/225.1.1.129:5002
 #EXTINF:-1 tvg-id="2" tvg-name="天津教育" tvg-logo="https://live.yangfeiyue.cn/tv/天津教育.png" group-title="天津联通",天津教育
 http://111.167.191.233:4022/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-id="1" tvg-name="蓟州" tvg-logo="https://live.yangfeiyue.cn/tv/蓟州.png" group-title="天津联通",蓟州
+http://221.198.177.123:8888/rtp/225.1.1.82:5002
+#EXTINF:-1 tvg-id="2" tvg-name="蓟州" tvg-logo="https://live.yangfeiyue.cn/tv/蓟州.png" group-title="天津联通",蓟州
+http://111.167.191.233:4022/rtp/225.1.1.82:5002
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://live.yangfeiyue.cn/tv/广东珠江.png" group-title="广东电信",广东珠江
 http://119.145.76.245:10000/rtp/239.77.0.114:5146
 #EXTINF:-1 tvg-id="2" tvg-name="广东珠江" tvg-logo="https://live.yangfeiyue.cn/tv/广东珠江.png" group-title="广东电信",广东珠江
