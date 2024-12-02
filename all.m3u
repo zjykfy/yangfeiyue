@@ -1189,6 +1189,38 @@ http://101.25.231.193:4022/rtp/239.253.92.94:8121
 http://101.31.193.153:4022/rtp/239.253.92.95:8122
 #EXTINF:-1 tvg-id="2" tvg-name="石家庄都市" tvg-logo="https://live.yangfeiyue.cn/tv/石家庄都市.png" group-title="河北联通",石家庄都市
 http://101.25.231.193:4022/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="1" tvg-name="秦皇岛新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛新闻综合.png" group-title="河北联通",秦皇岛新闻综合
+http://101.31.193.153:4022/rtp/239.253.92.52:6021
+#EXTINF:-1 tvg-id="2" tvg-name="秦皇岛新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛新闻综合.png" group-title="河北联通",秦皇岛新闻综合
+http://101.25.231.193:4022/rtp/239.253.92.52:6021
+#EXTINF:-1 tvg-id="1" tvg-name="秦皇岛公共" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛公共.png" group-title="河北联通",秦皇岛公共
+http://101.31.193.153:4022/rtp/239.253.92.53:6022
+#EXTINF:-1 tvg-id="2" tvg-name="秦皇岛公共" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛公共.png" group-title="河北联通",秦皇岛公共
+http://101.25.231.193:4022/rtp/239.253.92.53:6022
+#EXTINF:-1 tvg-id="1" tvg-name="秦皇岛影视" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛影视.png" group-title="河北联通",秦皇岛影视
+http://101.31.193.153:4022/rtp/239.253.92.54:6023
+#EXTINF:-1 tvg-id="2" tvg-name="秦皇岛影视" tvg-logo="https://live.yangfeiyue.cn/tv/秦皇岛影视.png" group-title="河北联通",秦皇岛影视
+http://101.25.231.193:4022/rtp/239.253.92.54:6023
+#EXTINF:-1 tvg-id="1" tvg-name="唐山影视" tvg-logo="https://live.yangfeiyue.cn/tv/唐山影视.png" group-title="河北联通",唐山影视
+http://101.31.193.153:4022/rtp/239.253.92.127:6027
+#EXTINF:-1 tvg-id="2" tvg-name="唐山影视" tvg-logo="https://live.yangfeiyue.cn/tv/唐山影视.png" group-title="河北联通",唐山影视
+http://101.25.231.193:4022/rtp/239.253.92.127:6027
+#EXTINF:-1 tvg-id="1" tvg-name="唐山新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/唐山新闻综合.png" group-title="河北联通",唐山新闻综合
+http://101.31.193.153:4022/rtp/239.253.92.245:6089
+#EXTINF:-1 tvg-id="2" tvg-name="唐山新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/唐山新闻综合.png" group-title="河北联通",唐山新闻综合
+http://101.25.231.193:4022/rtp/239.253.92.245:6089
+#EXTINF:-1 tvg-id="1" tvg-name="唐山公共" tvg-logo="https://live.yangfeiyue.cn/tv/唐山公共.png" group-title="河北联通",唐山公共
+http://101.31.193.153:4022/rtp/239.253.92.128:6028
+#EXTINF:-1 tvg-id="2" tvg-name="唐山公共" tvg-logo="https://live.yangfeiyue.cn/tv/唐山公共.png" group-title="河北联通",唐山公共
+http://101.25.231.193:4022/rtp/239.253.92.128:6028
+#EXTINF:-1 tvg-id="1" tvg-name="唐山生活服务" tvg-logo="https://live.yangfeiyue.cn/tv/唐山生活服务.png" group-title="河北联通",唐山生活服务
+http://101.31.193.153:4022/rtp/239.253.92.126:6026
+#EXTINF:-1 tvg-id="2" tvg-name="唐山生活服务" tvg-logo="https://live.yangfeiyue.cn/tv/唐山生活服务.png" group-title="河北联通",唐山生活服务
+http://101.25.231.193:4022/rtp/239.253.92.126:6026
+#EXTINF:-1 tvg-id="1" tvg-name="邯郸新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/邯郸新闻综合.png" group-title="河北联通",邯郸新闻综合
+http://101.31.193.153:4022/rtp/239.253.93.11:6164
+#EXTINF:-1 tvg-id="2" tvg-name="邯郸新闻综合" tvg-logo="https://live.yangfeiyue.cn/tv/邯郸新闻综合.png" group-title="河北联通",邯郸新闻综合
+http://101.25.231.193:4022/rtp/239.253.93.11:6164
 #EXTINF:-1 tvg-id="1" tvg-name="中华美食" tvg-logo="https://live.yangfeiyue.cn/tv/中华美食.png" group-title="河北联通",中华美食
 http://101.31.193.153:4022/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="2" tvg-name="中华美食" tvg-logo="https://live.yangfeiyue.cn/tv/中华美食.png" group-title="河北联通",中华美食
