@@ -14,3 +14,7 @@ http://ipipip/rtp/239.49.8.122:8000
 http://ipipip/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
 http://ipipip/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://ipipip/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
+http://ipipip/rtp/239.49.8.30:8000
