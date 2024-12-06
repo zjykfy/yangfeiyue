@@ -51,7 +51,7 @@ case $city_choice in
 	channel_key="天津"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Tianjin" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Tianjin_liantong.txt"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Tianjin_liantong.txt"$url_fofa
         ;;
     2)
         city="Zhejiang_dianxin"
@@ -59,7 +59,7 @@ case $city_choice in
         channel_key="浙江"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Zhejiang" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Zhejiang_dianxin.txt"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Zhejiang_dianxin.txt"$url_fofa
         ;;
     3)
         city="Beijing_liantong"
@@ -67,7 +67,7 @@ case $city_choice in
         channel_key="北京"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Beijing" && org="China Unicom Beijing Province Network" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Beijing_liantong.txt"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Beijing_liantong.txt"$url_fofa
         ;;
     4)
         city="Shanghai_dianxin"
@@ -75,7 +75,7 @@ case $city_choice in
         channel_key="上海"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanghai" && org="China Telecom Group" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Shanghai_dianxin.txt"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Shanghai_dianxin.txt"$url_fofa
         ;;
     5)
         city="Guangdong_dianxin"
@@ -83,7 +83,7 @@ case $city_choice in
         channel_key="广东"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangdong" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/ceshi/refs/heads/main/speedtest/ip/Guangdong_dianxin.onlygood.ip"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Guangdong_dianxin.txt"$url_fofa
         ;;
     6)
         city="Jiangsu_dianxin"
@@ -91,7 +91,7 @@ case $city_choice in
         channel_key="江苏"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Jiangsu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Jiangsu_dianxin.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Jiangsu_dianxin.txt"$url_fofa
         ;;
     7)
         city="Anhui_dianxin"
@@ -99,7 +99,7 @@ case $city_choice in
         channel_key="安徽"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Anhui" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Anhui_dianxin.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Anhui_dianxin.txt"$url_fofa
         ;;
     8)
         city="Hubei_dianxin"
@@ -107,7 +107,7 @@ case $city_choice in
         channel_key="湖北"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Hubei" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Hubei_dianxin.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Hubei_dianxin.txt"$url_fofa
         ;;
     9)
         city="Chongqing_liantong"
@@ -115,7 +115,7 @@ case $city_choice in
         channel_key="重庆"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Chongqing" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Chongqing_liantong.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Chongqing_liantong.txt"$url_fofa
         ;;
     10)
         city="Hunan_dianxin"
@@ -123,7 +123,7 @@ case $city_choice in
         channel_key="湖南"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Hunan" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Hunan_dianxin.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Hunan_dianxin.txt"$url_fofa
         ;;
     11)
         city="Henan_liantong"
@@ -131,7 +131,7 @@ case $city_choice in
         channel_key="河南"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Henan" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Henan_liantong.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Henan_liantong.txt"$url_fofa
         ;;
     12)
         city="Shanxi_liantong"
@@ -139,7 +139,7 @@ case $city_choice in
         channel_key="山西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanxi" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Shanxi_liantong.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Shanxi_liantong.txt"$url_fofa
         ;;
     13)
         city="Hebei_liantong"
@@ -147,7 +147,7 @@ case $city_choice in
         channel_key="河北"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Hebei" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Hebei_liantong.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Hebei_liantong.txt"$url_fofa
         ;;
     14)
         city="Sichuan_dianxin"
@@ -155,7 +155,7 @@ case $city_choice in
         channel_key="四川"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && city="Chengdu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Sichuan_dianxin.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Sichuan_dianxin.txt"$url_fofa
         ;;
     15)
         city="Sichuan_yidong"
@@ -163,7 +163,7 @@ case $city_choice in
         channel_key="四川"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Sichuan" && org="China Mobile Communications Group Co., Ltd." && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/li/refs/heads/main/Sichuan_yidong.txt"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/Sichuan_yidong.txt"$url_fofa
         ;;
     16)
         city="Jiangxi_dianxin"
@@ -171,7 +171,7 @@ case $city_choice in
         channel_key="江西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Jiangxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/li/refs/heads/main/Jiangxi_dianxin.txt"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/Jiangxi_dianxin.txt"$url_fofa
         ;;
     17)
         city="Yuenan_FPT"
@@ -179,7 +179,7 @@ case $city_choice in
         channel_key="越南"
 #        url_fofa=$(echo  '"udpxy" && country="VN" && org="FPT Telecom Company" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/li/refs/heads/main/Yuenan_FPT.txt"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/Yuenan_FPT.txt"$url_fofa
         ;;
     18)
         city="KR_SK"
@@ -187,7 +187,7 @@ case $city_choice in
         channel_key="KR"
 #        url_fofa=$(echo  '"udpxy" && country="KR" && org="SK Broadband Co Ltd" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/li/refs/heads/main/KR_SK.txt"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/KR_SK.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项

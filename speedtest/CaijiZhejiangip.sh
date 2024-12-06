@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="浙江"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Zhejiang" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fo/refs/heads/main/Zhejiang_dianxin.txt"$url_fofa
+        url_fofa="https://fo.yangfeiyue.us.kg/Zhejiang_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项

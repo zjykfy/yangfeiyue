@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="山西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanxi" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Shanxi_liantong.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Shanxi_liantong.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项

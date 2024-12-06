@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="KR"
 #        url_fofa=$(echo  '"udpxy" && country="KR" && org="SK Broadband Co Ltd" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/li/refs/heads/main/KR_SK.txt"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/KR_SK.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
