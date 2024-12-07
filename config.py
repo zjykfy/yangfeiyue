@@ -4,7 +4,7 @@ source_urls = [
     "https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt",
-    "https://live.yangfeiyue.us.kg/speedtest/Shanghai_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt",
