@@ -3,7 +3,6 @@
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
