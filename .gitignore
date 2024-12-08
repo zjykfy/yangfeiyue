@@ -22,6 +22,11 @@ speedtest/*.txt
 *.o
 *.so
 
+# Ignore CNAME file#
+###################
+CNAME
+README.md
+
 
 # Packages #
 ############
