@@ -33,7 +33,7 @@ case $city_choice in
         stream="udp/225.1.2.233:30120"
         channel_key="越南"
 #        url_fofa=$(echo  '"udpxy" && country="VN" && org="FPT Telecom Company" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJWTiIgJiYgb3JnPSJGUFQgVGVsZWNvbSBDb21wYW55IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
         url_fofa="https://li.yangfeiyue.us.kg/Yuenan_FPT.txt"$url_fofa
         ;;
     0)

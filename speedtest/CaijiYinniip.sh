@@ -33,7 +33,7 @@ case $city_choice in
         stream="rtp/239.1.3.84:5000"
         channel_key="印尼"
 #        url_fofa=$(echo  '"udpxy" && country="ID" && org="PT. Total Info Kharisma" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJJRCIgJiYgb3JnPSJQVC4gVG90YWwgSW5mbyBLaGFyaXNtYSIgJiYgcHJvdG9jb2w9Imh0dHAi&page_size=20"$url_fofa
         url_fofa="https://li.yangfeiyue.us.kg/Yinni_PT.txt"$url_fofa
         ;;
     0)
