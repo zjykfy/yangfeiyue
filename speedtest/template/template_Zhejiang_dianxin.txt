@@ -106,8 +106,6 @@ http://ipipip/rtp/233.50.202.27:5140
 http://ipipip/rtp/233.50.202.28:5140
 #EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
 http://ipipip/rtp/233.50.202.29:5140
-#EXTINF:-1 tvg-id="轮播频道" tvg-name="轮播频道" tvg-logo="https://live.fanmingming.com/tv/轮播频道.png" group-title="卫视高清",轮播频道
-http://ipipip/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视高清",快乐垂钓
 http://ipipip/rtp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="卫视高清",茶
