@@ -469,10 +469,6 @@ http://115.212.199.169:58888/rtp/233.50.202.28:5140
 http://60.163.113.101:4022/rtp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="2" tvg-name="睛彩广场舞" tvg-logo="https://live.yangfeiyue.us.kg/tv/睛彩广场舞.png" group-title="浙江电信",睛彩广场舞
 http://115.212.199.169:58888/rtp/233.50.202.29:5140
-#EXTINF:-1 tvg-id="1" tvg-name="轮播频道" tvg-logo="https://live.yangfeiyue.us.kg/tv/轮播频道.png" group-title="浙江电信",轮播频道
-http://60.163.113.101:4022/rtp/233.50.201.116:5140
-#EXTINF:-1 tvg-id="2" tvg-name="轮播频道" tvg-logo="https://live.yangfeiyue.us.kg/tv/轮播频道.png" group-title="浙江电信",轮播频道
-http://115.212.199.169:58888/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://live.yangfeiyue.us.kg/tv/快乐垂钓.png" group-title="浙江电信",快乐垂钓
 http://60.163.113.101:4022/rtp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="2" tvg-name="快乐垂钓" tvg-logo="https://live.yangfeiyue.us.kg/tv/快乐垂钓.png" group-title="浙江电信",快乐垂钓
