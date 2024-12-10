@@ -13,16 +13,16 @@ http://60.223.72.247:8002/rtp/226.0.1.84:2002
 #EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
 http://60.223.72.247:8002/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://118.78.221.232:8686/rtp/226.0.1.85:2001
+http://171.122.5.165:8082/rtp/226.0.1.85:2001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://www.yangfeiyue.cn/tv/山西影视.png" group-title="卫视高清",山西影视
-http://118.78.221.232:8686/rtp/226.0.1.82:2004
+http://171.122.5.165:8082/rtp/226.0.1.82:2004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://www.yangfeiyue.cn/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://118.78.221.232:8686/rtp/226.0.1.83:2005
+http://171.122.5.165:8082/rtp/226.0.1.83:2005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://www.yangfeiyue.cn/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://118.78.221.232:8686/rtp/226.0.1.200:2006
+http://171.122.5.165:8082/rtp/226.0.1.200:2006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://www.yangfeiyue.cn/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://118.78.221.232:8686/rtp/226.0.1.81:2003
+http://171.122.5.165:8082/rtp/226.0.1.81:2003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://www.yangfeiyue.cn/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://118.78.221.232:8686/rtp/226.0.1.84:2002
+http://171.122.5.165:8082/rtp/226.0.1.84:2002
 #EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://www.yangfeiyue.cn/tv/早期教育.png" group-title="卫视高清",早期教育
-http://118.78.221.232:8686/rtp/226.0.2.99:8704
+http://171.122.5.165:8082/rtp/226.0.2.99:8704
