@@ -8,7 +8,7 @@ http://221.139.211.120:1000/udp/239.192.67.228:49220
 http://221.139.211.120:1000/udp/239.192.67.229:49220
 #EXTINF:-1 tvg-id="MBC ON" tvg-name="MBC ON" tvg-logo="https://live.fanmingming.com/tv/MBC ON.png" group-title="韩国高清",MBC ON
 http://221.139.211.120:1000/udp/239.192.62.58:49220
-#EXTINF:-1 tvg-id=SBS F!L 4K UHD" tvg-name="SBS F!L 4K UHD" tvg-logo="https://live.fanmingming.com/tv/SBS F!L 4K UHD.png" group-title="韩国高清",SBS F!L 4K UHD
+#EXTINF:-1 tvg-id=SBS F!L UHD" tvg-name="SBS F!L UHD" tvg-logo="https://live.fanmingming.com/tv/SBS F!L UHD.png" group-title="韩国高清",SBS F!L UHD
 http://221.139.211.120:1000/udp/239.192.81.65:49220
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="韩国高清",MBC
 http://221.139.211.120:1000/udp/239.192.67.101:49220
@@ -28,7 +28,7 @@ http:///udp/239.192.67.228:49220
 http:///udp/239.192.67.229:49220
 #EXTINF:-1 tvg-id="MBC ON" tvg-name="MBC ON" tvg-logo="https://live.fanmingming.com/tv/MBC ON.png" group-title="韩国高清",MBC ON
 http:///udp/239.192.62.58:49220
-#EXTINF:-1 tvg-id=SBS F!L 4K UHD" tvg-name="SBS F!L 4K UHD" tvg-logo="https://live.fanmingming.com/tv/SBS F!L 4K UHD.png" group-title="韩国高清",SBS F!L 4K UHD
+#EXTINF:-1 tvg-id=SBS F!L UHD" tvg-name="SBS F!L UHD" tvg-logo="https://live.fanmingming.com/tv/SBS F!L UHD.png" group-title="韩国高清",SBS F!L UHD
 http:///udp/239.192.81.65:49220
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="韩国高清",MBC
 http:///udp/239.192.67.101:49220
