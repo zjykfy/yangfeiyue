@@ -1755,6 +1755,10 @@ http:///udp/239.192.67.229:49220
 http://221.139.211.120:1000/udp/239.192.62.58:49220
 #EXTINF:-1 tvg-id="2" tvg-name="MBC ON" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC ON.png" group-title="韩国SK",MBC ON
 http:///udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SBS F!L UHD" tvg-logo="https://live.yangfeiyue.us.kg/tv/SBS F!L UHD.png" group-title="韩国SK",SBS F!L UHD
+http://221.139.211.120:1000/udp/239.192.81.65:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS F!L UHD" tvg-logo="https://live.yangfeiyue.us.kg/tv/SBS F!L UHD.png" group-title="韩国SK",SBS F!L UHD
+http:///udp/239.192.81.65:49220
 #EXTINF:-1 tvg-id="1" tvg-name="MBC" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC.png" group-title="韩国SK",MBC
 http://221.139.211.120:1000/udp/239.192.67.101:49220
 #EXTINF:-1 tvg-id="2" tvg-name="MBC" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC.png" group-title="韩国SK",MBC
