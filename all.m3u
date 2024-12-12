@@ -1735,6 +1735,42 @@ http://171.213.138.11:8123/rtp/239.93.42.34:5140
 http://118.114.222.192:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="2" tvg-name="求索纪录" tvg-logo="https://live.yangfeiyue.us.kg/tv/求索纪录.png" group-title="四川电信",求索纪录
 http://171.213.138.11:8123/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="1" tvg-name="OCN" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCN.png" group-title="韩国SK",OCN
+http://221.139.211.120:1000/udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCN" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCN.png" group-title="韩国SK",OCN
+http:///udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="1" tvg-name="OCNMovies" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCNMovies.png" group-title="韩国SK",OCNMovies
+http://221.139.211.120:1000/udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCNMovies.png" group-title="韩国SK",OCNMovies
+http:///udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id="1" tvg-name="OCNMovies2" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCNMovies2.png" group-title="韩国SK",OCNMovies2
+http://221.139.211.120:1000/udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="2" tvg-name="OCNMovies2" tvg-logo="https://live.yangfeiyue.us.kg/tv/OCNMovies2.png" group-title="韩国SK",OCNMovies2
+http:///udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SCREEN" tvg-logo="https://live.yangfeiyue.us.kg/tv/SCREEN.png" group-title="韩国SK",SCREEN
+http://221.139.211.120:1000/udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SCREEN" tvg-logo="https://live.yangfeiyue.us.kg/tv/SCREEN.png" group-title="韩国SK",SCREEN
+http:///udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="1" tvg-name="MBC ON" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC ON.png" group-title="韩国SK",MBC ON
+http://221.139.211.120:1000/udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC ON" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC ON.png" group-title="韩国SK",MBC ON
+http:///udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id="1" tvg-name="MBC" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC.png" group-title="韩国SK",MBC
+http://221.139.211.120:1000/udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="2" tvg-name="MBC" tvg-logo="https://live.yangfeiyue.us.kg/tv/MBC.png" group-title="韩国SK",MBC
+http:///udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://live.yangfeiyue.us.kg/tv/SBS.png" group-title="韩国SK",SBS
+http://221.139.211.120:1000/udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="2" tvg-name="SBS" tvg-logo="https://live.yangfeiyue.us.kg/tv/SBS.png" group-title="韩国SK",SBS
+http:///udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="1" tvg-name="KBS1" tvg-logo="https://live.yangfeiyue.us.kg/tv/KBS1.png" group-title="韩国SK",KBS1
+http://221.139.211.120:1000/udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS1" tvg-logo="https://live.yangfeiyue.us.kg/tv/KBS1.png" group-title="韩国SK",KBS1
+http:///udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="1" tvg-name="KBS2" tvg-logo="https://live.yangfeiyue.us.kg/tv/KBS2.png" group-title="韩国SK",KBS2
+http://221.139.211.120:1000/udp/239.192.67.99:49220
+#EXTINF:-1 tvg-id="2" tvg-name="KBS2" tvg-logo="https://live.yangfeiyue.us.kg/tv/KBS2.png" group-title="韩国SK",KBS2
+http:///udp/239.192.67.99:49220
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://120.197.18.252:2901/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/翡翠台.png" group-title="港澳台",翡翠台
