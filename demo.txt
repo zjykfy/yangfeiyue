@@ -492,6 +492,18 @@ bestv4K测试[5.1环绕声]
 少儿天地
 求索纪录
 
+韩国SK,#genre#
+OCN
+OCNMovies
+OCNMovies2
+SCREEN
+MBC ON
+SBS F!L UHD
+MBC
+SBS
+KBS1
+KBS2
+
 港澳台,#genre#
 翡翠台
 明珠台
@@ -635,18 +647,6 @@ EVE
 越南,#genre#
 AXN
 HBO
-
-韩国,#genre#
-OCN
-OCNMovies
-OCNMovies2
-SCREEN
-MBC ON
-SBS F!L 4K UHD
-MBC
-SBS
-KBS1
-KBS2
 
 印度尼西亚,#genre#
 HBO
