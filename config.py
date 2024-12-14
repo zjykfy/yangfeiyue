@@ -22,7 +22,6 @@ source_urls = [
     "https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt",
-    "https://live.yangfeiyue.us.kg/speedtest/txt/Yuenan_FPT.txt",
     "https://fei.yangfeiyue.us.kg/GAT.m3u",
     "https://fei.yangfeiyue.us.kg/NEWTV.m3u",
     "https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",

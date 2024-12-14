@@ -29,8 +29,7 @@ if [ $# -eq 0 ]; then
   echo "14. 四川（Sichuan_dianxin）"
   echo "15. 四川（Sichuan_yidong）"
   echo "16. 江西（Jiangxi_dianxin）"
-  echo "17. 越南（Yuenan_FPT）"
-  echo "18. KR（KR_SK）"
+  echo "17. KR（KR_SK）"
   echo "0. 全部"
   read -t 10 -p "输入选择或在10秒内无输入将默认选择全部: " city_choice
 
@@ -174,14 +173,6 @@ case $city_choice in
         url_fofa="https://li.yangfeiyue.us.kg/Jiangxi_dianxin.txt"$url_fofa
         ;;
     17)
-        city="Yuenan_FPT"
-        stream="udp/225.1.2.233:30120"
-        channel_key="越南"
-#        url_fofa=$(echo  '"udpxy" && country="VN" && org="FPT Telecom Company" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJWTiIgJiYgb3JnPSJGUFQgVGVsZWNvbSBDb21wYW55IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.us.kg/Yuenan_FPT.txt"$url_fofa
-        ;;
-    18)
         city="KR_SK"
         stream="udp/239.192.67.228:49220"
         channel_key="KR"
@@ -307,8 +298,6 @@ echo "四川,#genre#" >>zubo.txt
 cat txt/Sichuan_yidong.txt >>zubo.txt
 echo "江西,#genre#" >>zubo.txt
 cat txt/Jiangxi_dianxin.txt >>zubo.txt
-echo "越南,#genre#" >>zubo.txt
-cat txt/Yuenan_FPT.txt >>zubo.txt
 echo "KR,#genre#" >>zubo.txt
 cat txt/KR_SK.txt >>zubo.txt
 
