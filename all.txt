@@ -1,7 +1,7 @@
 公告,#genre#
 直播源均来自网络，不得商用，仅供学习交流使用。,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
 更新日期,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
-2024-12-15,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
+2024-12-16,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
 上海电信,#genre#
 CCTV1,http://222.68.48.123:4022/rtp/239.45.3.145:5140
 CCTV1,http://116.232.127.140:8222/rtp/239.45.3.145:5140
