@@ -46,8 +46,6 @@ http://ipipip/rtp/239.3.1.243:8000
 http://ipipip/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="本地高清",金鹰纪实
 http://ipipip//rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
-http://ipipip//rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视高清",吉林卫视
 http://ipipip/rtp/239.3.1.240:8172
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视高清",中国交通
