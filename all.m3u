@@ -3,7 +3,7 @@
 https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live.yangfeiyue.us.kg/p/端午节.png" group-title="公告",更新日期
 https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
-#EXTINF:-1 tvg-id="1" tvg-name="2024-12-20" tvg-logo="https://live.yangfeiyue.us.kg/p/端午节1.png" group-title="公告",2024-12-20
+#EXTINF:-1 tvg-id="1" tvg-name="2024-12-21" tvg-logo="https://live.yangfeiyue.us.kg/p/端午节1.png" group-title="公告",2024-12-21
 https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.yangfeiyue.us.kg/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://114.83.223.132:9999/rtp/239.45.3.145:5140
@@ -132,15 +132,15 @@ http://58.32.42.132:4022/rtp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://live.yangfeiyue.us.kg/tv/重温经典.png" group-title="上海电信",重温经典
 http://119.32.12.31:2901/udp/224.1.100.126:11111
 #EXTINF:-1 tvg-id="2" tvg-name="重温经典" tvg-logo="https://live.yangfeiyue.us.kg/tv/重温经典.png" group-title="上海电信",重温经典
-http://119.32.12.17:2901/udp/224.1.100.126:11111
+http://120.197.18.252:2901/udp/224.1.100.126:11111
 #EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://live.yangfeiyue.us.kg/tv/劲爆体育.png" group-title="上海电信",劲爆体育
 http://119.32.12.31:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-id="2" tvg-name="劲爆体育" tvg-logo="https://live.yangfeiyue.us.kg/tv/劲爆体育.png" group-title="上海电信",劲爆体育
-http://119.32.12.17:2901/udp/224.1.100.129:11111
+http://120.197.18.252:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://live.yangfeiyue.us.kg/tv/新视觉.png" group-title="上海电信",新视觉
 http://119.32.12.31:2901/udp/224.1.100.136:11111
 #EXTINF:-1 tvg-id="2" tvg-name="新视觉" tvg-logo="https://live.yangfeiyue.us.kg/tv/新视觉.png" group-title="上海电信",新视觉
-http://119.32.12.17:2901/udp/224.1.100.136:11111
+http://120.197.18.252:2901/udp/224.1.100.136:11111
 #EXTINF:-1 tvg-id="1" tvg-name="卫生健康" tvg-logo="https://live.yangfeiyue.us.kg/tv/卫生健康.png" group-title="上海电信",卫生健康
 http://183.7.114.252:4022/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="2" tvg-name="卫生健康" tvg-logo="https://live.yangfeiyue.us.kg/tv/卫生健康.png" group-title="上海电信",卫生健康
@@ -573,10 +573,6 @@ http://221.223.21.8:58888/rtp/239.3.1.235:8000
 http://114.253.219.230:5400//rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰纪实" tvg-logo="https://live.yangfeiyue.us.kg/tv/金鹰纪实.png" group-title="北京联通",金鹰纪实
 http://221.223.21.8:58888//rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="1" tvg-name="爱上4K" tvg-logo="https://live.yangfeiyue.us.kg/tv/爱上4K.png" group-title="北京联通",爱上4K
-http://114.253.219.230:5400//rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-id="2" tvg-name="爱上4K" tvg-logo="https://live.yangfeiyue.us.kg/tv/爱上4K.png" group-title="北京联通",爱上4K
-http://221.223.21.8:58888//rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="1" tvg-name="中国交通" tvg-logo="https://live.yangfeiyue.us.kg/tv/中国交通.png" group-title="北京联通",中国交通
 http://114.253.219.230:5400/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-id="2" tvg-name="中国交通" tvg-logo="https://live.yangfeiyue.us.kg/tv/中国交通.png" group-title="北京联通",中国交通
@@ -672,7 +668,7 @@ http://183.48.241.14:5050/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://live.yangfeiyue.us.kg/tv/广州竞赛.png" group-title="广东电信",广州竞赛
 http://119.32.12.31:2901/udp/224.1.100.105:11111
 #EXTINF:-1 tvg-id="2" tvg-name="广州竞赛" tvg-logo="https://live.yangfeiyue.us.kg/tv/广州竞赛.png" group-title="广东电信",广州竞赛
-http://119.32.12.17:2901/udp/224.1.100.105:11111
+http://120.197.18.252:2901/udp/224.1.100.105:11111
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合台" tvg-logo="https://live.yangfeiyue.us.kg/tv/广州综合台.png" group-title="广东电信",广州综合台
 http://183.7.114.252:4022/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="2" tvg-name="广州综合台" tvg-logo="https://live.yangfeiyue.us.kg/tv/广州综合台.png" group-title="广东电信",广州综合台
@@ -1302,85 +1298,85 @@ http://118.79.139.47:6000/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="2" tvg-name="早期教育" tvg-logo="https://live.yangfeiyue.us.kg/tv/早期教育.png" group-title="山西联通",早期教育
 http://60.223.69.250:10000/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="1" tvg-name="广西影视" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西影视.png" group-title="广西电信",广西影视
-http://220.173.254.6:6666/rtp/239.81.0.250:4056
+http://171.105.183.6:4022/rtp/239.81.0.250:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西影视" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西影视.png" group-title="广西电信",广西影视
-http://171.107.73.129:4000/rtp/239.81.0.250:4056
+http://180.140.152.140:5432/rtp/239.81.0.250:4056
 #EXTINF:-1 tvg-id="1" tvg-name="广西综艺旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西综艺旅游.png" group-title="广西电信",广西综艺旅游
-http://220.173.254.6:6666/rtp/239.81.0.214:4056
+http://171.105.183.6:4022/rtp/239.81.0.214:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西综艺旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西综艺旅游.png" group-title="广西电信",广西综艺旅游
-http://171.107.73.129:4000/rtp/239.81.0.214:4056
+http://180.140.152.140:5432/rtp/239.81.0.214:4056
 #EXTINF:-1 tvg-id="1" tvg-name="广西新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西新闻.png" group-title="广西电信",广西新闻
-http://220.173.254.6:6666/rtp/239.81.0.248:4056
+http://171.105.183.6:4022/rtp/239.81.0.248:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西新闻.png" group-title="广西电信",广西新闻
-http://171.107.73.129:4000/rtp/239.81.0.248:4056
+http://180.140.152.140:5432/rtp/239.81.0.248:4056
 #EXTINF:-1 tvg-id="1" tvg-name="广西都市" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西都市.png" group-title="广西电信",广西都市
-http://220.173.254.6:6666/rtp/239.81.0.247:4056
+http://171.105.183.6:4022/rtp/239.81.0.247:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西都市" tvg-logo="https://live.yangfeiyue.us.kg/tv/广西都市.png" group-title="广西电信",广西都市
-http://171.107.73.129:4000/rtp/239.81.0.247:4056
+http://180.140.152.140:5432/rtp/239.81.0.247:4056
 #EXTINF:-1 tvg-id="1" tvg-name="北海新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/北海新闻综合.png" group-title="广西电信",北海新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.154:4056
+http://171.105.183.6:4022/rtp/239.81.0.154:4056
 #EXTINF:-1 tvg-id="2" tvg-name="北海新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/北海新闻综合.png" group-title="广西电信",北海新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.154:4056
+http://180.140.152.140:5432/rtp/239.81.0.154:4056
 #EXTINF:-1 tvg-id="1" tvg-name="百色综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/百色综合.png" group-title="广西电信",百色综合
-http://220.173.254.6:6666/rtp/239.81.0.150:4056
+http://171.105.183.6:4022/rtp/239.81.0.150:4056
 #EXTINF:-1 tvg-id="2" tvg-name="百色综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/百色综合.png" group-title="广西电信",百色综合
-http://171.107.73.129:4000/rtp/239.81.0.150:4056
+http://180.140.152.140:5432/rtp/239.81.0.150:4056
 #EXTINF:-1 tvg-id="1" tvg-name="玉林新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/玉林新闻综合.png" group-title="广西电信",玉林新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.177:4056
+http://171.105.183.6:4022/rtp/239.81.0.177:4056
 #EXTINF:-1 tvg-id="2" tvg-name="玉林新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/玉林新闻综合.png" group-title="广西电信",玉林新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.177:4056
+http://180.140.152.140:5432/rtp/239.81.0.177:4056
 #EXTINF:-1 tvg-id="1" tvg-name="防城港新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/防城港新闻综合.png" group-title="广西电信",防城港新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.151:4056
+http://171.105.183.6:4022/rtp/239.81.0.151:4056
 #EXTINF:-1 tvg-id="2" tvg-name="防城港新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/防城港新闻综合.png" group-title="广西电信",防城港新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.151:4056
+http://180.140.152.140:5432/rtp/239.81.0.151:4056
 #EXTINF:-1 tvg-id="1" tvg-name="梧州新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/梧州新闻综合.png" group-title="广西电信",梧州新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.176:4056
+http://171.105.183.6:4022/rtp/239.81.0.176:4056
 #EXTINF:-1 tvg-id="2" tvg-name="梧州新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/梧州新闻综合.png" group-title="广西电信",梧州新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.176:4056
+http://180.140.152.140:5432/rtp/239.81.0.176:4056
 #EXTINF:-1 tvg-id="1" tvg-name="钦州综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/钦州综合.png" group-title="广西电信",钦州综合
-http://220.173.254.6:6666/rtp/239.81.0.164:4056
+http://171.105.183.6:4022/rtp/239.81.0.164:4056
 #EXTINF:-1 tvg-id="2" tvg-name="钦州综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/钦州综合.png" group-title="广西电信",钦州综合
-http://171.107.73.129:4000/rtp/239.81.0.164:4056
+http://180.140.152.140:5432/rtp/239.81.0.164:4056
 #EXTINF:-1 tvg-id="1" tvg-name="南宁影视娱乐" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁影视娱乐.png" group-title="广西电信",南宁影视娱乐
-http://220.173.254.6:6666/rtp/239.81.0.140:4056
+http://171.105.183.6:4022/rtp/239.81.0.140:4056
 #EXTINF:-1 tvg-id="2" tvg-name="南宁影视娱乐" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁影视娱乐.png" group-title="广西电信",南宁影视娱乐
-http://171.107.73.129:4000/rtp/239.81.0.140:4056
+http://180.140.152.140:5432/rtp/239.81.0.140:4056
 #EXTINF:-1 tvg-id="1" tvg-name="南宁新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁新闻综合.png" group-title="广西电信",南宁新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.241:4056
+http://171.105.183.6:4022/rtp/239.81.0.241:4056
 #EXTINF:-1 tvg-id="2" tvg-name="南宁新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁新闻综合.png" group-title="广西电信",南宁新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.241:4056
+http://180.140.152.140:5432/rtp/239.81.0.241:4056
 #EXTINF:-1 tvg-id="1" tvg-name="南宁公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁公共.png" group-title="广西电信",南宁公共
-http://220.173.254.6:6666/rtp/239.81.0.141:4056
+http://171.105.183.6:4022/rtp/239.81.0.141:4056
 #EXTINF:-1 tvg-id="2" tvg-name="南宁公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁公共.png" group-title="广西电信",南宁公共
-http://171.107.73.129:4000/rtp/239.81.0.141:4056
+http://180.140.152.140:5432/rtp/239.81.0.141:4056
 #EXTINF:-1 tvg-id="1" tvg-name="南宁文旅生活" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁文旅生活.png" group-title="广西电信",南宁文旅生活
-http://220.173.254.6:6666/rtp/239.81.0.139:4056
+http://171.105.183.6:4022/rtp/239.81.0.139:4056
 #EXTINF:-1 tvg-id="2" tvg-name="南宁文旅生活" tvg-logo="https://live.yangfeiyue.us.kg/tv/南宁文旅生活.png" group-title="广西电信",南宁文旅生活
-http://171.107.73.129:4000/rtp/239.81.0.139:4056
+http://180.140.152.140:5432/rtp/239.81.0.139:4056
 #EXTINF:-1 tvg-id="1" tvg-name="柳州新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/柳州新闻综合.png" group-title="广西电信",柳州新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.175:4056
+http://171.105.183.6:4022/rtp/239.81.0.175:4056
 #EXTINF:-1 tvg-id="2" tvg-name="柳州新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/柳州新闻综合.png" group-title="广西电信",柳州新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.175:4056
+http://180.140.152.140:5432/rtp/239.81.0.175:4056
 #EXTINF:-1 tvg-id="1" tvg-name="来宾综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/来宾综合.png" group-title="广西电信",来宾综合
-http://220.173.254.6:6666/rtp/239.81.0.173:4056
+http://171.105.183.6:4022/rtp/239.81.0.173:4056
 #EXTINF:-1 tvg-id="2" tvg-name="来宾综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/来宾综合.png" group-title="广西电信",来宾综合
-http://171.107.73.129:4000/rtp/239.81.0.173:4056
+http://180.140.152.140:5432/rtp/239.81.0.173:4056
 #EXTINF:-1 tvg-id="1" tvg-name="贺州综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/贺州综合.png" group-title="广西电信",贺州综合
-http://220.173.254.6:6666/rtp/239.81.0.163:4056
+http://171.105.183.6:4022/rtp/239.81.0.163:4056
 #EXTINF:-1 tvg-id="2" tvg-name="贺州综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/贺州综合.png" group-title="广西电信",贺州综合
-http://171.107.73.129:4000/rtp/239.81.0.163:4056
+http://180.140.152.140:5432/rtp/239.81.0.163:4056
 #EXTINF:-1 tvg-id="1" tvg-name="河池新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/河池新闻综合.png" group-title="广西电信",河池新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.168:4056
+http://171.105.183.6:4022/rtp/239.81.0.168:4056
 #EXTINF:-1 tvg-id="2" tvg-name="河池新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/河池新闻综合.png" group-title="广西电信",河池新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.168:4056
+http://180.140.152.140:5432/rtp/239.81.0.168:4056
 #EXTINF:-1 tvg-id="1" tvg-name="桂林新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/桂林新闻综合.png" group-title="广西电信",桂林新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.174:4056
+http://171.105.183.6:4022/rtp/239.81.0.174:4056
 #EXTINF:-1 tvg-id="2" tvg-name="桂林新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/桂林新闻综合.png" group-title="广西电信",桂林新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.174:4056
+http://180.140.152.140:5432/rtp/239.81.0.174:4056
 #EXTINF:-1 tvg-id="1" tvg-name="贵港新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/贵港新闻综合.png" group-title="广西电信",贵港新闻综合
-http://220.173.254.6:6666/rtp/239.81.0.172:4056
+http://171.105.183.6:4022/rtp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="2" tvg-name="贵港新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/贵港新闻综合.png" group-title="广西电信",贵港新闻综合
-http://171.107.73.129:4000/rtp/239.81.0.172:4056
+http://180.140.152.140:5432/rtp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="1" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
 http://59.55.255.136:6565/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
@@ -1410,45 +1406,45 @@ http://59.55.255.136:6565/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西移动" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西移动.png" group-title="江西电信",江西移动
 http:///rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
-http://36.46.67.82:4022/rtp/239.111.205.35:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
 http://1.83.124.62:8888/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
+http://36.46.67.207:4022/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西一套.png" group-title="陕西电信",陕西一套
-http://36.46.67.82:4022/rtp/239.111.205.28:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西一套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西一套.png" group-title="陕西电信",陕西一套
 http://1.83.124.62:8888/rtp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西一套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西一套.png" group-title="陕西电信",陕西一套
+http://36.46.67.207:4022/rtp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西二套.png" group-title="陕西电信",陕西二套
-http://36.46.67.82:4022/rtp/239.111.205.42:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西二套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西二套.png" group-title="陕西电信",陕西二套
 http://1.83.124.62:8888/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西二套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西二套.png" group-title="陕西电信",陕西二套
+http://36.46.67.207:4022/rtp/239.111.205.42:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西三套.png" group-title="陕西电信",陕西三套
-http://36.46.67.82:4022/rtp/239.111.205.98:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西三套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西三套.png" group-title="陕西电信",陕西三套
 http://1.83.124.62:8888/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西三套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西三套.png" group-title="陕西电信",陕西三套
+http://36.46.67.207:4022/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西五套.png" group-title="陕西电信",陕西五套
-http://36.46.67.82:4022/rtp/239.111.205.100:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西五套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西五套.png" group-title="陕西电信",陕西五套
 http://1.83.124.62:8888/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西五套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西五套.png" group-title="陕西电信",陕西五套
+http://36.46.67.207:4022/rtp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西七套.png" group-title="陕西电信",陕西七套
-http://36.46.67.82:4022/rtp/239.111.205.36:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西七套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西七套.png" group-title="陕西电信",陕西七套
 http://1.83.124.62:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西七套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西七套.png" group-title="陕西电信",陕西七套
+http://36.46.67.207:4022/rtp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西八套.png" group-title="陕西电信",陕西八套
-http://36.46.67.82:4022/rtp/239.111.205.102:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西八套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西八套.png" group-title="陕西电信",陕西八套
 http://1.83.124.62:8888/rtp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西八套" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西八套.png" group-title="陕西电信",陕西八套
+http://36.46.67.207:4022/rtp/239.111.205.102:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西影视.png" group-title="陕西电信",陕西影视
-http://36.46.67.82:4022/rtp/239.111.205.99:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西影视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西影视.png" group-title="陕西电信",陕西影视
 http://1.83.124.62:8888/rtp/239.111.205.99:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西影视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西影视.png" group-title="陕西电信",陕西影视
+http://36.46.67.207:4022/rtp/239.111.205.99:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡综合.png" group-title="陕西电信",宝鸡综合
-http://36.46.67.82:4022/rtp/239.112.205.143:5140
-#EXTINF:-1 tvg-id="2" tvg-name="宝鸡综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡综合.png" group-title="陕西电信",宝鸡综合
 http://1.83.124.62:8888/rtp/239.112.205.143:5140
+#EXTINF:-1 tvg-id="2" tvg-name="宝鸡综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡综合.png" group-title="陕西电信",宝鸡综合
+http://36.46.67.207:4022/rtp/239.112.205.143:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡公共.png" group-title="陕西电信",宝鸡公共
-http://36.46.67.82:4022/rtp/239.112.205.148:5140
-#EXTINF:-1 tvg-id="2" tvg-name="宝鸡公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡公共.png" group-title="陕西电信",宝鸡公共
 http://1.83.124.62:8888/rtp/239.112.205.148:5140
+#EXTINF:-1 tvg-id="2" tvg-name="宝鸡公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/宝鸡公共.png" group-title="陕西电信",宝鸡公共
+http://36.46.67.207:4022/rtp/239.112.205.148:5140
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://live.yangfeiyue.us.kg/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://nas.laoknas.com:9000/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁北方" tvg-logo="https://live.yangfeiyue.us.kg/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
@@ -1486,57 +1482,57 @@ http://nas.laoknas.com:9000/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="2" tvg-name="沈阳新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
 http://wcvvps.filegear-sg.me:8888/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="1" tvg-name="福建电视剧" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建电视剧.png" group-title="福建电信",福建电视剧
-http://140.224.147.117:9999/rtp/239.61.4.5:1025
+http://120.33.185.197:4022/rtp/239.61.4.5:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建电视剧" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建电视剧.png" group-title="福建电信",福建电视剧
-http://125.78.12.20:4022/rtp/239.61.4.5:1025
+http://140.224.147.117:9999/rtp/239.61.4.5:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建新闻.png" group-title="福建电信",福建新闻
-http://140.224.147.117:9999/rtp/239.61.4.4:1025
+http://120.33.185.197:4022/rtp/239.61.4.4:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建新闻.png" group-title="福建电信",福建新闻
-http://125.78.12.20:4022/rtp/239.61.4.4:1025
+http://140.224.147.117:9999/rtp/239.61.4.4:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建综合.png" group-title="福建电信",福建综合
-http://140.224.147.117:9999/rtp/239.61.5.167:1025
+http://120.33.185.197:4022/rtp/239.61.5.167:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建综合.png" group-title="福建电信",福建综合
-http://125.78.12.20:4022/rtp/239.61.5.167:1025
+http://140.224.147.117:9999/rtp/239.61.5.167:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建公共.png" group-title="福建电信",福建公共
-http://140.224.147.117:9999/rtp/239.61.4.3:1025
+http://120.33.185.197:4022/rtp/239.61.4.3:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建公共" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建公共.png" group-title="福建电信",福建公共
-http://125.78.12.20:4022/rtp/239.61.4.3:1025
+http://140.224.147.117:9999/rtp/239.61.4.3:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建教育" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建教育.png" group-title="福建电信",福建教育
-http://140.224.147.117:9999/rtp/239.61.5.60:1025
+http://120.33.185.197:4022/rtp/239.61.5.60:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建教育" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建教育.png" group-title="福建电信",福建教育
-http://125.78.12.20:4022/rtp/239.61.5.60:1025
+http://140.224.147.117:9999/rtp/239.61.5.60:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建旅游.png" group-title="福建电信",福建旅游
-http://140.224.147.117:9999/rtp/239.61.4.6:1025
+http://120.33.185.197:4022/rtp/239.61.4.6:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建旅游.png" group-title="福建电信",福建旅游
-http://125.78.12.20:4022/rtp/239.61.4.6:1025
+http://140.224.147.117:9999/rtp/239.61.4.6:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建经济" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建经济.png" group-title="福建电信",福建经济
-http://140.224.147.117:9999/rtp/239.61.4.7:1025
+http://120.33.185.197:4022/rtp/239.61.4.7:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建经济" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建经济.png" group-title="福建电信",福建经济
-http://125.78.12.20:4022/rtp/239.61.4.7:1025
+http://140.224.147.117:9999/rtp/239.61.4.7:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建文体" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建文体.png" group-title="福建电信",福建文体
-http://140.224.147.117:9999/rtp/239.61.5.44:1025
+http://120.33.185.197:4022/rtp/239.61.5.44:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建文体" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建文体.png" group-title="福建电信",福建文体
-http://125.78.12.20:4022/rtp/239.61.5.44:1025
+http://140.224.147.117:9999/rtp/239.61.5.44:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建少儿" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建少儿.png" group-title="福建电信",福建少儿
-http://140.224.147.117:9999/rtp/239.61.4.9:1025
+http://120.33.185.197:4022/rtp/239.61.4.9:1025
 #EXTINF:-1 tvg-id="2" tvg-name="福建少儿" tvg-logo="https://live.yangfeiyue.us.kg/tv/福建少儿.png" group-title="福建电信",福建少儿
-http://125.78.12.20:4022/rtp/239.61.4.9:1025
+http://140.224.147.117:9999/rtp/239.61.4.9:1025
 #EXTINF:-1 tvg-id="1" tvg-name="厦门一套" tvg-logo="https://live.yangfeiyue.us.kg/tv/厦门一套.png" group-title="福建电信",厦门一套
-http://140.224.147.117:9999/rtp/239.61.5.99:1025
+http://120.33.185.197:4022/rtp/239.61.5.99:1025
 #EXTINF:-1 tvg-id="2" tvg-name="厦门一套" tvg-logo="https://live.yangfeiyue.us.kg/tv/厦门一套.png" group-title="福建电信",厦门一套
-http://125.78.12.20:4022/rtp/239.61.5.99:1025
+http://140.224.147.117:9999/rtp/239.61.5.99:1025
 #EXTINF:-1 tvg-id="1" tvg-name="泉州新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/泉州新闻.png" group-title="福建电信",泉州新闻
-http://140.224.147.117:9999/rtp/239.61.5.98:1025
+http://120.33.185.197:4022/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="2" tvg-name="泉州新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/泉州新闻.png" group-title="福建电信",泉州新闻
-http://125.78.12.20:4022/rtp/239.61.5.98:1025
+http://140.224.147.117:9999/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="1" tvg-name="龙岩综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/龙岩综合.png" group-title="福建电信",龙岩综合
-http://140.224.147.117:9999/rtp/239.61.5.95:1025
+http://120.33.185.197:4022/rtp/239.61.5.95:1025
 #EXTINF:-1 tvg-id="2" tvg-name="龙岩综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/龙岩综合.png" group-title="福建电信",龙岩综合
-http://125.78.12.20:4022/rtp/239.61.5.95:1025
+http://140.224.147.117:9999/rtp/239.61.5.95:1025
 #EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/海峡卫视.png" group-title="福建电信",海峡卫视
-http://140.224.147.117:9999/rtp/239.61.5.45:1025
+http://120.33.185.197:4022/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="2" tvg-name="海峡卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/海峡卫视.png" group-title="福建电信",海峡卫视
-http://125.78.12.20:4022/rtp/239.61.5.45:1025
+http://140.224.147.117:9999/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="1" tvg-name="超级电影" tvg-logo="https://live.yangfeiyue.us.kg/tv/超级电影.png" group-title="NEWTV",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="明星大片" tvg-logo="https://live.yangfeiyue.us.kg/tv/明星大片.png" group-title="NEWTV",明星大片
@@ -1804,11 +1800,11 @@ http:///udp/239.192.67.99:49220
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://119.32.12.31:2901/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://119.32.12.17:2901/udp/224.1.100.121:11111
+http://120.197.18.252:2901/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/明珠台.png" group-title="港澳台",明珠台
 http://119.32.12.31:2901/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://live.yangfeiyue.us.kg/tv/明珠台.png" group-title="港澳台",明珠台
-http://119.32.12.17:2901/udp/224.1.100.123:11111
+http://120.197.18.252:2901/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="https://live.yangfeiyue.us.kg/tv/PopC.png" group-title="港澳台",PopC
 https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://live.yangfeiyue.us.kg/tv/美亚电影.png" group-title="港澳台",美亚电影
