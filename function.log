@@ -1,45 +1,45 @@
-2024-12-24 16:58:58,212 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,213 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2024-12-24 16:58:58,271 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,272 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:58:58,325 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,326 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
-2024-12-24 16:58:58,372 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,372 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
-2024-12-24 16:58:58,423 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,423 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:58:58,472 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,472 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
-2024-12-24 16:58:58,512 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:58:58,512 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:58:58,561 - ERROR - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt
-2024-12-24 16:59:03,638 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,638 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:03,697 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,697 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:03,776 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,776 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:03,836 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,836 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
-2024-12-24 16:59:03,886 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,886 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:03,931 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,931 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:03,980 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:03,980 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:04,025 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,025 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:04,064 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,064 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:04,113 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,113 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:04,147 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,147 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2024-12-24 16:59:04,591 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 获取成功，判断为txt格式
-2024-12-24 16:59:04,592 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
-2024-12-24 16:59:04,656 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 获取成功，判断为txt格式
-2024-12-24 16:59:04,656 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
-2024-12-24 16:59:04,701 - INFO - url: https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,702 - INFO - url: https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2024-12-24 16:59:04,737 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt 获取成功，判断为m3u格式
-2024-12-24 16:59:04,737 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt 爬取成功✅，包含频道分类: 韩国高清
+2024-12-25 09:49:21,155 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,155 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2024-12-25 09:49:21,222 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,223 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:21,290 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,290 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
+2024-12-25 09:49:21,353 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,353 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
+2024-12-25 09:49:21,417 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,417 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:21,474 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,474 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
+2024-12-25 09:49:21,534 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:21,534 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:21,623 - ERROR - url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://live.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt
+2024-12-25 09:49:22,073 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,073 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,147 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,148 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,204 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,204 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,262 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,263 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
+2024-12-25 09:49:22,338 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,338 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,389 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,389 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,462 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,463 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,518 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,519 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,572 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,573 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,635 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,635 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,695 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,695 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2024-12-25 09:49:22,813 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 获取成功，判断为txt格式
+2024-12-25 09:49:22,814 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
+2024-12-25 09:49:22,903 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 获取成功，判断为txt格式
+2024-12-25 09:49:22,903 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
+2024-12-25 09:49:22,960 - INFO - url: https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:22,960 - INFO - url: https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2024-12-25 09:49:23,021 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt 获取成功，判断为m3u格式
+2024-12-25 09:49:23,021 - INFO - url: https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt 爬取成功✅，包含频道分类: 韩国高清
