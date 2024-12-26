@@ -1,36 +1,36 @@
 #EXTINF:-1 tvg-id="1" tvg-name="安徽经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/安徽经济生活.png" group-title="卫视高清",安徽经济生活
-http://223.240.51.104:4022/rtp/238.1.79.44:4464
+http://223.215.36.42:4022/rtp/238.1.79.44:4464
 #EXTINF:-1 tvg-id="1" tvg-name="安徽影视" tvg-logo="https://www.yangfeiyue.cn/tv/安徽影视.png" group-title="卫视高清",安徽影视
-http://223.240.51.104:4022/rtp/238.1.79.42:4448
+http://223.215.36.42:4022/rtp/238.1.79.42:4448
 #EXTINF:-1 tvg-id="1" tvg-name="安徽公共" tvg-logo="https://www.yangfeiyue.cn/tv/安徽公共.png" group-title="卫视高清",安徽公共
-http://223.240.51.104:4022/rtp/238.1.79.43:4456
+http://223.215.36.42:4022/rtp/238.1.79.43:4456
 #EXTINF:-1 tvg-id="1" tvg-name="安徽综艺体育" tvg-logo="https://www.yangfeiyue.cn/tv/安徽综艺体育.png" group-title="卫视高清",安徽综艺体育
-http://223.240.51.104:4022/rtp/238.1.79.41:4440
+http://223.215.36.42:4022/rtp/238.1.79.41:4440
 #EXTINF:-1 tvg-id="1" tvg-name="安徽农业科教" tvg-logo="https://www.yangfeiyue.cn/tv/安徽农业科教.png" group-title="卫视高清",安徽农业科教
-http://223.240.51.104:4022/rtp/238.1.79.40:4432
+http://223.215.36.42:4022/rtp/238.1.79.40:4432
 #EXTINF:-1 tvg-id="1" tvg-name="安徽国际" tvg-logo="https://www.yangfeiyue.cn/tv/安徽国际.png" group-title="卫视高清",安徽国际
-http://223.240.51.104:4022/rtp/238.1.78.61:6360
+http://223.215.36.42:4022/rtp/238.1.78.61:6360
 #EXTINF:-1 tvg-id="1" tvg-name="淮南新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/淮南新闻综合.png" group-title="卫视高清",淮南新闻综合
-http://223.240.51.104:4022/rtp/238.1.78.113:6776
+http://223.215.36.42:4022/rtp/238.1.78.113:6776
 #EXTINF:-1 tvg-id="1" tvg-name="六安新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/六安新闻综合.png" group-title="卫视高清",六安新闻综合
-http://223.240.51.104:4022/rtp/238.1.78.144:7024
+http://223.215.36.42:4022/rtp/238.1.78.144:7024
 #EXTINF:-1 tvg-id="1" tvg-name="六安公共" tvg-logo="https://www.yangfeiyue.cn/tv/六安公共.png" group-title="卫视高清",六安公共
-http://223.240.51.104:4022/rtp/238.1.78.145:7032
+http://223.215.36.42:4022/rtp/238.1.78.145:7032
 #EXTINF:-1 tvg-id="1" tvg-name="安徽经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/安徽经济生活.png" group-title="卫视高清",安徽经济生活
-http://223.215.1.150:2000/rtp/238.1.79.44:4464
+http://114.98.189.210:2000/rtp/238.1.79.44:4464
 #EXTINF:-1 tvg-id="1" tvg-name="安徽影视" tvg-logo="https://www.yangfeiyue.cn/tv/安徽影视.png" group-title="卫视高清",安徽影视
-http://223.215.1.150:2000/rtp/238.1.79.42:4448
+http://114.98.189.210:2000/rtp/238.1.79.42:4448
 #EXTINF:-1 tvg-id="1" tvg-name="安徽公共" tvg-logo="https://www.yangfeiyue.cn/tv/安徽公共.png" group-title="卫视高清",安徽公共
-http://223.215.1.150:2000/rtp/238.1.79.43:4456
+http://114.98.189.210:2000/rtp/238.1.79.43:4456
 #EXTINF:-1 tvg-id="1" tvg-name="安徽综艺体育" tvg-logo="https://www.yangfeiyue.cn/tv/安徽综艺体育.png" group-title="卫视高清",安徽综艺体育
-http://223.215.1.150:2000/rtp/238.1.79.41:4440
+http://114.98.189.210:2000/rtp/238.1.79.41:4440
 #EXTINF:-1 tvg-id="1" tvg-name="安徽农业科教" tvg-logo="https://www.yangfeiyue.cn/tv/安徽农业科教.png" group-title="卫视高清",安徽农业科教
-http://223.215.1.150:2000/rtp/238.1.79.40:4432
+http://114.98.189.210:2000/rtp/238.1.79.40:4432
 #EXTINF:-1 tvg-id="1" tvg-name="安徽国际" tvg-logo="https://www.yangfeiyue.cn/tv/安徽国际.png" group-title="卫视高清",安徽国际
-http://223.215.1.150:2000/rtp/238.1.78.61:6360
+http://114.98.189.210:2000/rtp/238.1.78.61:6360
 #EXTINF:-1 tvg-id="1" tvg-name="淮南新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/淮南新闻综合.png" group-title="卫视高清",淮南新闻综合
-http://223.215.1.150:2000/rtp/238.1.78.113:6776
+http://114.98.189.210:2000/rtp/238.1.78.113:6776
 #EXTINF:-1 tvg-id="1" tvg-name="六安新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/六安新闻综合.png" group-title="卫视高清",六安新闻综合
-http://223.215.1.150:2000/rtp/238.1.78.144:7024
+http://114.98.189.210:2000/rtp/238.1.78.144:7024
 #EXTINF:-1 tvg-id="1" tvg-name="六安公共" tvg-logo="https://www.yangfeiyue.cn/tv/六安公共.png" group-title="卫视高清",六安公共
-http://223.215.1.150:2000/rtp/238.1.78.145:7032
+http://114.98.189.210:2000/rtp/238.1.78.145:7032
