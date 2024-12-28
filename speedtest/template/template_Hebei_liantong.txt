@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="卫视高清",河北影视
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="卫视高清",河北影视剧
 http://ipipip/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="卫视高清",河北经济
 http://ipipip/rtp/239.253.92.171:6001
