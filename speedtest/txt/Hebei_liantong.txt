@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="卫视高清",河北影视
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="卫视高清",河北影视剧
 http://101.31.193.145:4022/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="卫视高清",河北经济
 http://101.31.193.145:4022/rtp/239.253.92.171:6001
@@ -62,7 +62,7 @@ http://101.31.193.145:4022/rtp/239.253.92.222:8112
 http://101.31.193.145:4022/rtp/239.253.92.223:8113
 #EXTINF:-1 tvg-id="三河综合" tvg-name="三河综合" tvg-logo="https://live.fanmingming.com/tv/三河综合.png" group-title="卫视高清",三河综合
 http://101.31.193.145:4022/rtp/239.253.93.143:6311
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="卫视高清",河北影视
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="卫视高清",河北影视剧
 http://101.22.74.98:8888/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="卫视高清",河北经济
 http://101.22.74.98:8888/rtp/239.253.92.171:6001
