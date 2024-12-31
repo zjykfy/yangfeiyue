@@ -1,41 +1,41 @@
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
-http://42.237.156.144:4022/rtp/225.1.4.52:1081
+http://115.60.241.249:2000/rtp/225.1.4.52:1081
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="卫视高清",河南民生
-http://42.237.156.144:4022/rtp/225.1.4.53:1082
+http://115.60.241.249:2000/rtp/225.1.4.53:1082
 #EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="卫视高清",河南法治
-http://42.237.156.144:4022/rtp/225.1.4.54:1083
+http://115.60.241.249:2000/rtp/225.1.4.54:1083
 #EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="卫视高清",河南电视剧
-http://42.237.156.144:4022/rtp/225.1.4.55:1084
+http://115.60.241.249:2000/rtp/225.1.4.55:1084
 #EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="卫视高清",河南新闻
-http://42.237.156.144:4022/rtp/225.1.4.56:1085
+http://115.60.241.249:2000/rtp/225.1.4.56:1085
 #EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="卫视高清",河南公共
-http://42.237.156.144:4022/rtp/225.1.4.58:1087
+http://115.60.241.249:2000/rtp/225.1.4.58:1087
 #EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="卫视高清",河南乡村
-http://42.237.156.144:4022/rtp/225.1.4.120:1149
+http://115.60.241.249:2000/rtp/225.1.4.120:1149
 #EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="卫视高清",睛彩中原
-http://42.237.156.144:4022/rtp/225.1.4.163:1203
+http://115.60.241.249:2000/rtp/225.1.4.163:1203
 #EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.PNG" group-title="卫视高清",移动戏曲
-http://42.237.156.144:4022/rtp/225.1.4.206:1254
+http://115.60.241.249:2000/rtp/225.1.4.206:1254
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视高清",河南卫视
-http://42.237.156.144:4022/rtp/225.1.4.254:1300
+http://115.60.241.249:2000/rtp/225.1.4.254:1300
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/河南戏曲.png" group-title="央视高清",河南戏曲
-http://42.237.156.144:4022/rtp/225.1.4.99:1128
+http://115.60.241.249:2000/rtp/225.1.4.99:1128
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://www.yangfeiyue.cn/tv/中华功夫.png" group-title="央视高清",中华功夫
-http://42.237.156.144:4022/rtp/225.1.4.101:1130
+http://115.60.241.249:2000/rtp/225.1.4.101:1130
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://www.yangfeiyue.cn/tv/国学.png" group-title="国学",国学
-http://42.237.156.144:4022/rtp/225.1.4.196:1311
+http://115.60.241.249:2000/rtp/225.1.4.196:1311
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://42.237.156.144:4022/rtp/225.1.4.140:1176
+http://115.60.241.249:2000/rtp/225.1.4.140:1176
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://42.237.156.144:4022/rtp/225.1.4.141:1177
+http://115.60.241.249:2000/rtp/225.1.4.141:1177
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://42.237.156.144:4022/rtp/225.1.4.142:1178
+http://115.60.241.249:2000/rtp/225.1.4.142:1178
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://42.237.156.144:4022/rtp/225.1.4.146:1182
+http://115.60.241.249:2000/rtp/225.1.4.146:1182
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://42.237.156.144:4022/rtp/225.1.4.147:1183
+http://115.60.241.249:2000/rtp/225.1.4.147:1183
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://42.237.156.144:4022/rtp/225.1.4.149:1185
+http://115.60.241.249:2000/rtp/225.1.4.149:1185
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://115.49.74.158:4000/rtp/225.1.4.52:1081
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="卫视高清",河南民生
