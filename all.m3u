@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="直播源均来自网络，不得商用，仅供学习交流使用。" tvg-logo="https://live.yangfeiyue.us.kg/p/端午节.png" group-title="公告",直播源均来自网络，不得商用，仅供学习交流使用。
 https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live.yangfeiyue.us.kg/p/端午节.png" group-title="公告",更新日期
