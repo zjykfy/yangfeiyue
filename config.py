@@ -60,5 +60,5 @@ announcements = [
 ]
 
 epg_urls = [
-    "https://epg.pw/xmltv/epg_TW.xml",
+    "https://assets.livednow.com/epg.xml",
 ]
