@@ -52,13 +52,13 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.us.kg/p/端午节.png"},
-            {"name": "更新日期", "url": "https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.us.kg/p/端午节.png"},
-            {"name": None, "url": "https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4", "logo": "https://live.yangfeiyue.us.kg/p/端午节1.png"},
+            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
+            {"name": "更新日期", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
+            {"name": None, "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
   ]
     }
 ]
 
 epg_urls = [
-    "https://assets.livednow.com/epg.xml",
+    "https://epg.pw/xmltv/epg_TW.xml",
 ]
