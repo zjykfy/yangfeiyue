@@ -70,7 +70,7 @@ http://114.95.156.205:4022/rtp/239.45.3.209:5140
 http://114.95.156.205:4022/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视高清",上海都市
 http://114.95.156.205:4022/rtp/239.45.3.236:5140
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="卫视高清",上海纪实
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="卫视高清",上海纪实人文
 http://114.95.156.205:4022/rtp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tv/上视东方影视.png" group-title="卫视高清",上视东方影视
 http://114.95.156.205:4022/rtp/239.45.3.237:5140
@@ -176,7 +176,7 @@ http://101.229.230.7:4022/rtp/239.45.3.209:5140
 http://101.229.230.7:4022/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视高清",上海都市
 http://101.229.230.7:4022/rtp/239.45.3.236:5140
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="卫视高清",上海纪实
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="卫视高清",上海纪实人文
 http://101.229.230.7:4022/rtp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tv/上视东方影视.png" group-title="卫视高清",上视东方影视
 http://101.229.230.7:4022/rtp/239.45.3.237:5140
