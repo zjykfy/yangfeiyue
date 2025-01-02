@@ -1,7 +1,7 @@
 公告,#genre#
-直播源均来自网络，不得商用，仅供学习交流使用。,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
-更新日期,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
-2025-01-02,https://live.yangfeiyue.us.kg/p/%E5%A4%A7%E7%8F%AD.MP4
+直播源均来自网络，不得商用，仅供学习交流使用。,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+更新日期,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+2025-01-02,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 上海电信,#genre#
 CCTV1,http://114.95.156.205:4022/rtp/239.45.3.145:5140
 CCTV1,http://101.229.230.7:4022/rtp/239.45.3.145:5140
