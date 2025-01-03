@@ -8,7 +8,7 @@ source_urls = [
     "https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt",
     "https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt",
-    "https://live.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt",
+    "https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt",
     #"https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt",
