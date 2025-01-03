@@ -25,7 +25,7 @@ source_urls = [
     "https://fei.yangfeiyue.us.kg/GAT.m3u",
     "https://fei.yangfeiyue.us.kg/NEWTV.m3u",
     "https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",
-    "https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt",
+    #"https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt",
     #"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
 
